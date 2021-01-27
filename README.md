@@ -1,19 +1,19 @@
-#STOCK MARKET
+# STOCK MARKET
 
-##Why to Invest
+## Why to Invest
 
 1. **Fight Inflation** – By investing one can deal better with the inevitable – growing cost of living – generally referred to as Inflation
 2. **Create Wealth** – By investing, one can aim to have a better corpus by the end of the defined time period. In the above example, the time period was up to retirement, but it can be anything – children’s education, marriage, house purchase, retirement holidays, etc
 3. To meet life’s financial aspiration
 
-##Where to invest?
+## Where to invest?
 
 * **Fixed income instruments** - These are investable instruments with minimal risk to the principle, and the return is paid as an interest to the investor ex. FD, Bonds issued by Govt of India, Bonds issued by Corporate's 
 * **Equity** - Mutual funds, Stock market
 * **Real estate**
 * **Commodities** (precious metals)
 
-##Regulators
+## Regulators
 
 In India, the stock market regulator is called **The Securities and Exchange Board of India**, often referred to as SEBI.
 In general, SEBI ensures:
@@ -28,7 +28,7 @@ Overall development of markets
 
 ![](images/Regulators.png)
 
-##Financial Intermediaries
+## Financial Intermediaries
 
 ### 1. Stock broker 
 A stockbroker is a corporate entity, registered as a trading member with the stock exchange and holds a stockbroking license. A stockbroker is your gateway to stock exchanges. First, you need to open something called a **‘Trading Account’** with a broker who meets your requirements.  
@@ -67,11 +67,11 @@ NSCCL – National Security Clearing Corporation Ltd and Indian Clearing Corpora
 The job of the clearing corporation is to ensure guaranteed settlement of your trades/transactions.  
 For all practical purposes, it’s ok not to know much about NSCCL or ICCL simply because, you as a trader or investor would not be interacting with these agencies directly. You need to be aware that certain professional institutions are heavily regulated and work towards a smooth settlement and efficient clearing activity.
 
-##The IPO Markets 
+## The IPO Markets 
 
-###Origin of a Business
+### Origin of a Business
 
-####Angel Investors. 
+#### Angel Investors. 
 They believe in **Promotors** (Founders of the company) and invest money. So let us imagine that the promoter, along with the angels, raises INR 5 Crore in the capital. This initial money that he gets to kick start his business is called **‘The Seed Fund’**. It is important to note that the seed fund will not sit in the entrepreneur’s (also called the promoter) personal bank account but instead sits in its bank account. Once the seed capital hits the company’s bank account, the money will be referred to as the company’s initial share capital.
 
 In return for the initial seed investment, the original three (promoter plus 2 angels) will be issued share certificates of the company which entitles them to the company.
@@ -87,4 +87,208 @@ The shareholding pattern of this company would look something like this:
 
 ![](images/angel_investor.png) 
 Please note the company retains the balance of 50% of the shares totalling 2,500,000 equity shares. These shares are authorized but not allotted.
+
+#### The Venture Capitalist
+
+When business starts generating revenue and the promotor wants more money to expand business then VC's can be approached for investments.  Let us assume he meets one such professional investor who agrees to give him 7 Crs for a 14% stake in his company.
+
+The investor who typically invests in such an early stage of business is called a **Venture Capitalist (VC)**, and the money that the business gets at this stage is called **Series A funding.**
+
+After the company agrees to allot 14% to the VC from the authorized capital, the shareholding pattern looks like this:
+
+![](images/VC_shares.png)
+
+Note, the balance 36% of shares is still retained within the company and has not been issued.
+
+With the VC’s money coming into the business, an exciting development has taken place. **The VC values the entire business at INR 50 Crs by valuing his 14% stake in the company at INR 7Crs.** 
+
+With the valuations going up, the investments made by the initial investors will have an impact. The following table summarizes the same…
+
+![](images/VC_value.png)
+
+Going forward with our story, the promoter now has the additional capital he requires for the business. The company gets an additional manufacturing unit and a few more retail outlets in the city as planned. Things are going great; the popularity of the product grows, translating into higher revenues. The management team gets more professional, thereby increasing the operational efficiency, which translates to better profits.
+
+#### The Banker
+
+The company decides to have a retail presence in at least 3 more cities. To back the retail presence across three cities, the company also plans to increase the production capacity and hire more resources. Whenever a company plans such expenditure to improve the overall business, the expenditure is called **‘Capital Expenditure’ or simply ‘CAPEX’**.
+
+The management estimates 40Crs towards their CAPEX requirements. How does the company get this money or in other words, how can the company fund its CAPEX requirements?
+
+There are few options with the company to raise the required funds for their CAPEX:
+
+* The company has made some profits over the last few years; a part of the CAPEX requirement can be funded through the profits. This is also called funding through **internal accruals**.
+* The company can approach another VC and raise another round of VC funding by allotting shares from the authorized capital – this is called **Series B funding.**
+* The company can approach a bank and seek a loan. The bank would be happy to tender this loan as the company has been doing fairly well. The loan is also called **‘Debt.’**  
+
+The company decides to exercise all three options at its disposal to raise funds for Capex. It ploughs 15Crs from internal accruals, plans a series B – divests 5% equity for a consideration of 10Crs from another VC and raises 15Crs debt from the banker.
+
+**Note, with 10Crs coming in for 5%, the company’s valuation now stands at 200 Crs.**
+
+The shareholding and valuation look something like this:
+
+![](images/bank_shares.png)
+
+Note, the company still has 31% of shares not allotted to shareholders now being valued at 62 Crs.  
+
+#### The Private Equity
+
+The company decides to raise the bar and branch out across the country. The CAPEX requirement for the new ambition is now pegged at 60 Crs. The company does not want to raise money through debt because of the interest rate burden, also called the **finance charges**, which would eat away the company’s profits.
+
+They decide to allot shares from the authorized capital for a Series C funding. They cannot approach a typical VC because VC funding is usually small and runs into a few crores. This is when a **Private Equity (PE) investor** comes into the picture.
+
+PE investors are quite savvy. They are highly qualified and have an excellent professional background. They invest large amounts of money to provide the capital for constructive use and place their own people on the board of the investee company to ensure the company steers in the required direction.
+
+Assuming they pick up a 15% stake for a consideration of 60Crs, they are now valuing **the company at 400Crs**.  
+Let’s have a quick look at the shareholding and valuations:
+
+![](images/PE_shares.png)
+
+
+Please note, the company has retained a 16% stake which has not been allotted to any shareholder. This portion is valued at 64 Crs.
+
+Usually, when a PE invests, they invest intending to fund large CAPEX requirements. Besides, they do not invest in the early stage of a business; instead, they prefer to invest in companies that already have a revenue stream, and are in operation for a few years. Deploying the PE capital and utilizing the capital for the CAPEX requirements takes up a few years.
+
+#### The IPO
+
+Company has successfully diversified their product portfolio and have a presence across all the major cities in the country.  
+The promoter now aspires to go international! He wants his brand to be available across all the major international cities.  
+This time around the CAPEX requirement is huge, and the management estimates this at 200 Crs.   
+
+The company has few options to fund the CAPEX requirement.
+
+1. Fund Capex from internal accruals
+1. Raise Series D from another PE fund
+1. Raise debt from bankers
+1. Float a bond (this is another form of raising debt)
+1. File for an Initial Public Offer (IPO) by allotting shares from authorized capital
+1. A combination of all the above
+
+
+For convenience, let us assume the company decides to fund the CAPEX partly through internal accruals and files for an IPO. When a company files for an IPO, they have to offer their shares to the general public. The general public will subscribe to the shares (i.e. if they want to) by paying a certain price. Now, because the company is offering the shares for the first time to the public, it is called the **“Initial Public Offer".**
+
+##### Why do companies go public?
+
+When a company decides to file for an IPO, invariably the main reason is to raise funds to fuel their CAPEX requirement.   
+The promoter has 3 advantages by taking his company public:
+
+1. He is raising funds to meet CAPEX requirement
+1. He is avoiding the need to raise debt which means he does not have to pay finance charges which translates to better profitability
+1. Whenever you buy a share of a company, you are in essence taking the same amount of risk as the promoter is taking. 
+
+There are other advantages as well in going for an IPO…
+
+* Provide an exit for early investors 
+* Reward employees 
+* Improve visibility - Going public definitely increases visibility as the company has a status of being publicly held and traded. There is a greater chance of people’s interest in the company, consequently creating a positive impact on its growth.
+
+Now the company requires 200 Crs to fund their CAPEX and the management had decided to fund this partly by internal accrual and partly by filing for an IPO.
+
+Do recollect that the company still has 16% of authorized capital translating to 800,000 shares which are not allotted. The last valuation of these shares when the PE firm invested in Series B was 64Crs. The company has progressed really well ever since the PE firm has invested and naturally the valuation of these shares would have gone up.
+
+For the sake of simplicity, let us assume the company is now valuing the 16% shares anywhere between 125 Crs to 150 Crs. This translates to a per-share value, anywhere between Rs.1562 to Rs.1875/-…(125Crs/8lakh).
+So if the company puts 16% on the block to the public, they are likely to raise anywhere between 125 to 150 Crs. The remainder has to come from internal accruals. So naturally, the more money they raise, the better it is for the company.
+
+##### Merchant Bankers
+
+Having decided to go public, the company must now do a series of things to ensure a successful initial public offering. The first and foremost step would be to appoint a merchant banker. Merchant bankers are also called Book Running Lead Managers (BRLM)/Lead Manager (LM). The job of a merchant banker is to assist the company with various aspects of the IPO process including:
+
+* **Underwrite shares** – By underwriting shares, merchant bankers essentially agree to buy all or part of the IPO shares and resell the same to the public
+* Should work closely with the company and prepare their listing documents including **Draft Red Herring Prospectus (DRHP)**
+* Help the company arrive at the **price band for the IPO**. A price band is the lower and upper limit of the share price within which the company will go public. In the case of our example, the price band will be Rs.1562/- and Rs.1875/-
+* Help the company with the roadshows – This is like a promotional/marketing activity for the company’s IPO
+* Appointment of other intermediaries namely, registrars, bankers, advertising agencies, etc. The Lead manager also makes various marketing strategies for the issue.  
+
+Once the company partners with the merchant banker, they will work towards taking the company public.
+
+
+##### IPO sequence of events
+
+Needless to say, each and every step involved in the IPO sequence has to happen under the SEBI guidelines
+
+* **Appoint a merchant banker**. In case of a large public issue, the company can appoint more than 1 merchant banker
+* **Apply to SEBI with a registration statement** – The registration statement contains details on what the company does, why the company plans to go public and the financial health of the company
+* **Getting a nod from SEBI** – Once SEBI receives the registration statement, SEBI takes a call on whether to issue a go-ahead or a ‘no go’ to the IPO
+* **DRHP** – If the company gets the initial SEBI nod, then the company needs to prepare the DRHP. A DRHP is a document that gets circulated to the public. Along with a lot of information, DRHP should contain the following details:
+
+		1. The estimated size of the IPO
+		2. The estimated number of shares being offered to the public
+		3. Why the company wants to go public and how does the company plan to utilize the funds along with the timeline projection of fund utilization
+		4. Business description including the revenue model, expenditure details
+		5. Complete financial statements
+		6. Management Discussion and Analysis – how the company perceives future business operations to emerge
+		7. Risks involved in the business
+		8. Management details and their background
+
+* **Market the IPO** – This would involve TV and print advertisements in order to build awareness about the company and its IPO offering. This process is also called the IPO roadshow
+* **Fix the price band** – Decide the price band between which the company would like to go public. Of course, this can’t be way off the general perception. If it is, then the public will not subscribe for the IPO
+* **Book Building** – Once the roadshow is done and the price band fixed the company now has to officially open the window during which the public can subscribe for shares. For example, if the price band is between Rs.100 and Rs.120, then the public can actually choose a price they think is fair enough for the IPO issue. The process of collecting all these price points along with the respective quantities is called Book Building. Book building is perceived as an effective price discovery method
+* **Closure** – After the book building window is closed (generally open for few days) then the price point at which the issue gets listed is decided. This price point is usually the price at which maximum bids have been received.
+* **Listing Day** – This is the day when the company actually gets listed on the stock exchange. The listing price is the price decided based on market demand and supply on that day and the stock is listed at a premium, par or discount of the cut-off price
+
+##### What happens after the IPO?
+
+During the bidding process (also called the date of issue) investors can bid for shares at a particular price within the specified price band.  This whole system around the date of the issue where one bids for shares, is referred to as the Primary Market. The moment the stock gets listed and debuts on the stock exchange, the stock starts to trade publicly. This is called the secondary market.
+
+Once the stock transitions from primary markets to secondary markets, the stock gets traded daily on the stock exchange. People start buying and selling stocks regularly.
+
+##### Few key IPO jargons
+
+* **Under subscription** – Let’s say the company wants to offer 100,000 shares to the public. During the book-building process, it is discovered that only 90,000 bids were received, then the issue is said to be under subscribed. This is not a great situation to be in as it indicates negative public sentiment
+
+* **Oversubscription** – If there are 200,000 bids for 100,000 shares on offer then the issue is said to be oversubscribed 2 times (2x)
+
+* **Green Shoe Option** – Part of the underwriting agreement which allows the issuer to authorize additional shares (typically 15 percent) to be distributed in the event of oversubscription. This is also called the overallotment option
+
+* **Fixed Price IPO** – Sometimes the companies fix the price of the IPO and do not opt for a price band. Such issues are called fixed price IPO
+
+* **Price Band and Cut off price** – Price band is a price range between which the stock gets listed. For example, if the price band is between Rs.100 and Rs.130, then the issue can list within the range. Let’s says it gets listed at 125, then 125 is called the cut off price.
+
+
+## Stock Market - Basics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
