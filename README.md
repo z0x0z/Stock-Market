@@ -148,7 +148,7 @@ Please note, the company has retained a 16% stake which has not been allotted to
 
 Usually, when a PE invests, they invest intending to fund large CAPEX requirements. Besides, they do not invest in the early stage of a business; instead, they prefer to invest in companies that already have a revenue stream, and are in operation for a few years. Deploying the PE capital and utilizing the capital for the CAPEX requirements takes up a few years.
 
-#### The IPO
+### The IPO
 
 Company has successfully diversified their product portfolio and have a presence across all the major cities in the country.  
 The promoter now aspires to go international! He wants his brand to be available across all the major international cities.  
@@ -166,7 +166,7 @@ The company has few options to fund the CAPEX requirement.
 
 For convenience, let us assume the company decides to fund the CAPEX partly through internal accruals and files for an IPO. When a company files for an IPO, they have to offer their shares to the general public. The general public will subscribe to the shares (i.e. if they want to) by paying a certain price. Now, because the company is offering the shares for the first time to the public, it is called the **“Initial Public Offer".**
 
-##### Why do companies go public?
+#### Why do companies go public?
 
 When a company decides to file for an IPO, invariably the main reason is to raise funds to fuel their CAPEX requirement.   
 The promoter has 3 advantages by taking his company public:
@@ -188,7 +188,7 @@ Do recollect that the company still has 16% of authorized capital translating to
 For the sake of simplicity, let us assume the company is now valuing the 16% shares anywhere between 125 Crs to 150 Crs. This translates to a per-share value, anywhere between Rs.1562 to Rs.1875/-…(125Crs/8lakh).
 So if the company puts 16% on the block to the public, they are likely to raise anywhere between 125 to 150 Crs. The remainder has to come from internal accruals. So naturally, the more money they raise, the better it is for the company.
 
-##### Merchant Bankers
+#### Merchant Bankers
 
 Having decided to go public, the company must now do a series of things to ensure a successful initial public offering. The first and foremost step would be to appoint a merchant banker. Merchant bankers are also called Book Running Lead Managers (BRLM)/Lead Manager (LM). The job of a merchant banker is to assist the company with various aspects of the IPO process including:
 
@@ -201,7 +201,7 @@ Having decided to go public, the company must now do a series of things to ensur
 Once the company partners with the merchant banker, they will work towards taking the company public.
 
 
-##### IPO sequence of events
+#### IPO sequence of events
 
 Needless to say, each and every step involved in the IPO sequence has to happen under the SEBI guidelines
 
@@ -225,13 +225,13 @@ Needless to say, each and every step involved in the IPO sequence has to happen 
 * **Closure** – After the book building window is closed (generally open for few days) then the price point at which the issue gets listed is decided. This price point is usually the price at which maximum bids have been received.
 * **Listing Day** – This is the day when the company actually gets listed on the stock exchange. The listing price is the price decided based on market demand and supply on that day and the stock is listed at a premium, par or discount of the cut-off price
 
-##### What happens after the IPO?
+#### What happens after the IPO?
 
 During the bidding process (also called the date of issue) investors can bid for shares at a particular price within the specified price band.  This whole system around the date of the issue where one bids for shares, is referred to as the Primary Market. The moment the stock gets listed and debuts on the stock exchange, the stock starts to trade publicly. This is called the secondary market.
 
 Once the stock transitions from primary markets to secondary markets, the stock gets traded daily on the stock exchange. People start buying and selling stocks regularly.
 
-##### Few key IPO jargons
+#### Few key IPO jargons
 
 * **Under subscription** – Let’s say the company wants to offer 100,000 shares to the public. During the book-building process, it is discovered that only 90,000 bids were received, then the issue is said to be under subscribed. This is not a great situation to be in as it indicates negative public sentiment
 
@@ -246,42 +246,128 @@ Once the stock transitions from primary markets to secondary markets, the stock 
 
 ## Stock Market - Basics
 
+**Authorized shares** - refer to the largest number of shares that a single corporation can issue. The number of authorized shares per company is assessed at the company's creation and can only be increased or decreased through a vote by the shareholders
+
+**Treasury** - Shares hold by company itself
+
+**Restricted Shares** - refer to a company's issued stock that cannot be bought or sold without special permission
+
+**Float Shares** -  refers to a company's shares that are freely bought and sold without restrictions by the public
+
+**Outstanding Shares = Restricted  shares + float shares**
+
+Let's assume company XYZ. the company has 1,000 authorized shares. If it offered 300 shares in an IPO, gave 150 to the executives, and retained 550 in the treasury, then the number of shares outstanding would be 450 shares (300 float shares + 150 restricted shares). If after a couple of years XYZ was doing extremely well and wanted to buy back 100 shares from the market, the number of outstanding shares would fall to 350, the number of treasury shares would increase to 650 and the float would fall to 200 shares since the buyback was done through the market (300 – 100).
+
+### How to calculate returns?
+
+Returns are usually expressed in terms of annual yield. There are different kinds of returns that you need to be aware of.
+
+**Absolute Return** – This is return that your trade or investment has generated in absolute terms. It helps you answer this question – I bought Infosys at 3030 and sold it 3550. How much percentage return did I generate?
+
+The formula to calculate the same is [(Ending Period Value / Starting Period Value) – 1]*100
+
+i.e [(3550/3030) -1] * 100
+
+= [1.1716 -1] * 100
+
+= 0.1716 * 100
+
+= 17.16%
+
+A 17.6% is not a bad return at all!
+
+**Compounded Annual Growth Rate (CAGR)** – An absolute return can be misleading if you want to compare two investments. CAGR helps you answer this question – I bought Infosys at 3030 and held the stock for 2 years and sold it 3550. At what rate did my investment grow over the last two years?
+
+CAGR factors in the time component which we had ignored when we computed the absolute return.
+
+The formula to calculate CAGR is ..
+
+CAGR = [ { (Ending value / Beginning Value) ^ (1/N) } -1 ] * 100
+
+i.e [ { (3550/3030)^(1/2) } -1 ] * 100
+
+= [ { (1.1716)^(1/2) } -1 ] * 100
+
+= [ 1.082 -1 ] * 100
+
+= 0.82 * 100
+
+= 8.2%
+
+Always use **CAGR** when you want to check returns over multiple years. Use **absolute return** when your time frame is for a year or lesser.
 
 
+What if you have bought Infosys at 3030 and sold it at 3550 within 6 months? In that case you have generated 17.16% in 6 months which translates to 34.32% (17.16% * 2) for the year.
+
+So the point is, if you have to compare returns, its best done when the return is expressed on an annualized basis.
+
+### Types of Traders
+
+1. **Day Trader** – A day trader initiates and closes the position during the day. He does not carry forward his positions. He is risk averse and does not like taking overnight risk. For example – He would buy 100 shares of TCS at 2212 at 9:15AM and sell it at 2220 at 3:20 PM making a profit of Rs.800/- in this trade. A day trader usually trades 5 to 6 stocks per day.
+1. **Scalper** – A type of a day trader. He usually trades very large quantities of shares and holds the stock for very less time with an intention to make a small but quick profit. For example – He would buy 10,000 shares of TCS as 2212 at 9:15 and sell it 2212.1 at 9.16. He ends up making 1000/- profit in this trade. In a typical day, he would have placed many such trades. As you may have noticed a scalp trader is highly risk averse.
+1. **Swing Trader** – A swing trader holds on to his trade for slightly longer time duration, the duration can run into anywhere between few days to weeks. He is typically more open to taking risks. For example – He would buy 100 shares of TCS at 2212 on 12th June 2014 and sell it 2214 on 19th June 2014.
+
+### Types of Investors
+
+An investor is a person who buys a stock expecting a significant appreciation in the stock. He is willing to wait for his investment to evolve. The typical holding period of investors usually runs into a few years. There are two popular types of investors..
+
+1. **Growth Investors** – The objective here is to identify companies which are expected to grow significantly because of emerging industry and macro trends. A classic example in the Indian context would be buying Hindustan Unilever, Infosys, Gillette India back in 1990s. These companies witnessed huge growth because of the change in the industry landscape thereby creating massive wealth for its shareholders.
+1. **Value Investors** – The objective here is to identify good companies irrespective of whether they are in growth phase or mature phase but beaten down significantly due to the short term market sentiment thereby making a great value buy. An example of this in recent times is L&T. Due to short term negative sentiment; L&T was beaten down significantly around August/September of 2013. The stock price collapsed to 690 all the way from 1200. At 690 (given its fundamentals around Aug 2013), a company like L&T is perceived as cheap, and therefore a great value pick. Eventually it did pay off, as the stock price scaled back to 1440 around May 2014.
+
+### The Index
 
 
+If I were to ask you how the stock market is moving today, how would you answer my question? There are approximately 5,000 listed companies in the Bombay Stock Exchange and about 2,000 listed companies on the National Stock Exchange. It would be clumsy to check every company, figure out if they are up or down for the day and then give a detailed answer.
 
 
+Luckily you need not actually track these selected companies individually to get a sense of how the markets are doing. The important companies are pre-packaged and continuously monitored to give you this information. This pre-packaged market information tool is called the **‘Market Index’.**
+
+There are two main market indices in India. The **S&P BSE Sensex** representing the Bombay stock exchange and **CNX Nifty** representing the National Stock exchange.
+
+**S&P stands for Standard and Poor’s**, a global credit rating agency. S&P has the technical expertise in constructing the index which they have licensed to the BSE. Hence the index also carries the S&P tag.
+
+CNX Nifty consists of the largest and most frequently traded stocks within the National Stock Exchange. It is maintained by India Index Services & Products Limited (IISL), a joint venture of the National Stock Exchange and CRISIL. In fact, the term **‘CNX’** stands for CRISIL and NSE.
+
+An ideal index gives us minute by minute reading about how the market participants perceive the future. The movements in the Index reflect the changing expectations of the market participants. When the index goes up, it is because the market participants think the future will be better. The index drops if the market participants perceive the future pessimistically
 
 
+### Practical uses of the Index
 
+* **Information** – The index reflects the general market trend for a period of time. The index is a broad representation of the country’s state of the economy. A stock market index that up indicates people are optimistic about the future. Likewise, when the stock market index is down, people are pessimistic about the future.
 
+* **Benchmarking** – For all the trading or investing activity that one does, a yardstick to measure the performance is required.  Assume over the last 1 year you invested Rs.100,000/- and generated Rs.20,000 return to make your total corpus Rs.120,000/-. How do you think you performed? Well on the face of it, a 20% return looks great. However, what if Nifty moved to 7,800 points from 6,000 points generating a return on 30% during the same year?
 
+	Well, suddenly it may seem to you that you have underperformed the market! If not for the Index, you can’t really figure out how you performed in the stock market. You need the index to benchmark the performance of a trader or investor. Usually, the objective of market participants is to outperform the Index.
 
+* **Trading** – Trading on the index is probably one of the most popular uses of the index. Majority of the traders in the market trade the index. They take a broader call on the economy or general state of affairs and translate that into a trade.
 
+	For example, imagine this situation. At 10:30 AM, the Finance Minister is expected to deliver his budget speech. An hour before the announcement Nifty index is at 6,600 points. You expect the budget to be favourable to the nation’s economy. What do you think will happen to the index? Naturally, the index will move up. So to trade your point of view, you may want to buy the index at 6,600. After all, the index is the representation of the broader economy.
 
+	So as per your expectation, the budget is good, and the index moves to 6,900. You can now book your profits, and exit the trade at a 300 points profit!  Trades such as these are possible through what is known as the ‘Derivative’ segment of the markets.
 
+* **Portfolio Hedging** – Investors usually build a portfolio of securities. A typical portfolio contains 10 – 12 stocks which they would have bought from a long term perspective. While the stocks are held from a long term perspective, they could foresee a prolonged adverse movement in the market (2008), potentially eroding the capital in the portfolio. In such a situation, investors can use the index to hedge the portfolio.
 
+### Index construction methodology
 
+The Index is a composition of many stocks from different sectors that collectively represent the economy’s state. To include a stock in the index, it should qualify certain criteria. Once qualified as an index stock, it should continue to qualify on the stated criteria. If it fails to maintain the criteria, the stock gets replaced by another stock that qualifies the prerequisites.
 
+Based on the selection procedure, the list of stocks is populated. Each stock in the index should be assigned a certain weightage. Weightage in simpler terms defines how much importance a certain stock in the index gets compared to the others
 
+There are many ways to assign weights, but the Indian stock exchange follows a **free-float market capitalization** method. The weights are assigned based on the company’s free-float market capitalization, the larger the market capitalization, the higher is the weight.
 
+**Free float market capitalization is the product of the total number of shares outstanding in the market and the stock price.**
 
+**Free float market cap = outstsanding shares * stock price**
 
+For example company, ABC has 100 shares outstanding in the market, and the stock price is at 50 then the free-float market cap of ABC is 100*50 = Rs.5,000.
 
+The following are the 50 stocks in Nifty as per their weightage
 
+![](images/nifty50.png)
 
+### Sector-specific indices
 
-
-
-
-
-
-
-
-
-
-
+While the Sensex and Nifty represent the broader markets, certain indices represent specific sectors. These are called the sectoral indices. For example, the **Bank Nifty** on NSE represents the mood specific to the banking industry. The **CNX IT** on NSE represents the behaviour of all the IT stocks in the stock markets. Both BSE and NSE have sector-specific indexes.  The construction and maintenance of these indices are similar to the other major indices.
 
 
 
