@@ -370,6 +370,113 @@ The following are the 50 stocks in Nifty as per their weightage
 While the Sensex and Nifty represent the broader markets, certain indices represent specific sectors. These are called the sectoral indices. For example, the **Bank Nifty** on NSE represents the mood specific to the banking industry. The **CNX IT** on NSE represents the behaviour of all the IT stocks in the stock markets. Both BSE and NSE have sector-specific indexes.  The construction and maintenance of these indices are similar to the other major indices.
 
 
+## Commonly Used Jargons
+
+* **Bull Market (Bullish)** – If you believe that the stock prices are likely to go up,, you are bullish on the stock price. From a broader perspective, if the stock market index is going up during a particular time period, it is referred to as the bull market.
+ 
+* **Bear Market (Bearish)** – If you believe that the stock prices are likely to go down,, you are bearish on the stock price. From a broader perspective, if the stock market index is going down during a particular time period, it is referred to as the bear market.
+
+* **Trend** – The term ‘trend’ usually refers to the general market direction and its associated strength. For example, if the market is declining fast, the trend is said to be bearish. If the market is trading flat with no movement, then the trend is said to be sideways.
+
+* **Face value of a stock** – Face value (FV) or par value of a stock indicates a share’s fixed denomination. The face value is important concerning a corporate action. Usually, when dividends and stock split are announced, they are issued keeping the face value in perspective. For example, the FV of Infosys is 5, and if they announce an annual dividend of Rs.63/- then it means the dividend paid is 1260%s (63 divided by 5).
+
+* **52 week high/low** – 52 week high is the highest point at which a stock has traded during the last 52 weeks (which also marks a year) and likewise, 52 weeks low marks the lowest point at which the stock has traded during the last 52 weeks.
+
+* **All-time high/low** – This is similar to the 52 weeks high and low, with the only difference being the all-time high price is the highest price the stock has ever traded from the time it has been listed. Similarly, the all-time low price is the lowest price at which the stock has ever traded from the time it has been listed.
+ 
+* **Upper Circuit/Lower Circuit** – The exchange sets up a price band at which the stock can be traded in the market on a given trading day. The highest price the stock can reach on the day is the upper circuit limit, and the lowest price is the lower circuit limit. The limit for a stock is set to 2%, 5%, 10% or 20% based on the exchange’s selection criteria. The exchange places these restrictions to control excessive volatility when a stock reacts to certain news related to the company.
+ 
+* **Long Position** – Long position or going long is simply a reference to the direction of your trade. For example, if you have bought or intend to buy Biocon shares,, you are long on Biocon or planning to go long on Biocon, respectively. If you have bought the Nifty Index with an expectation that the index will trade higher then essentially you have a long position on Nifty. If you are long on a stock or an index, you are said to be bullish.
+ 
+* **Short Position** – Going short or simply ‘shorting’ is a term used to describe a transaction carried out in a particular order in a particular day. 
+***SELL NOW BUY BACK***.   Shorting is only allowed in Intraday. 
+ 
+ To summarize long and short positions…
+![](images/short.png)
+
+* **Square off** ­– Square off is a term used to indicate that you intend to close an existing position. If you are long on a stock squaring off the position means to sell the stock. When you are selling the stock to close an existing long position you are not shorting the stock!
+  
+  When you are short on the stock, squaring off a position means to repurchase the stock. Remember when you repurchase it, you are just closing an existing position, and you are not going long!
+
+	|When you are| Square off position is|
+	| :----------: | :-----------: |
+	| Long      | Sell the stock      |
+	| Short   | Buy the stock       |
+
+* **Intraday position** – This is a trading position you initiate with an expectation to square off the position within the same day.
+
+* **OHLC** ­– OHLC stands for open, high, low and close. For now, open is the price at which the stock opens for the day, high is the highest price at which the stock trade during the day, low is the lowest price at which the stock trades during the day and the close is the closing price of the stock.
+
+* **Volume** –  Volumes represent the total transactions (both buy and sell put together) for a particular stock on a particular day.
+ 
+* **Market Segment** – A market segment is a division within which a certain type of financial instrument is traded. Each financial instrument is characterized by its risk and reward parameters. The exchange operates in three main segments.
+
+	1. Capital Market – Capital market segments offer a wide range of tradable securities such as equity, preference shares, warrants, and exchange-traded funds. Capital Market segment has sub-segments under which instruments are further classified. For example, common shares of companies are traded under the equity segment abbreviated as EQ. So if you were to buy or sell shares of a company you are essentially operating in the capital market segment.
+
+	1. Futures and Options – Futures and Option, generally referred to as the equity derivative segment, would trade leveraged products. 
+
+	1. Wholesale Debt Market – The wholesale debt market deals with fixed income securities. Debt instruments include government securities, treasury bills, bonds issued by a public sector undertaking, corporate bonds, corporate debentures, etc.
+
+## Types of Orders
+
+### Simple Orders Types
+
+#### 1. Limit order
+
+A limit order is when you wish to purchase or sell a scrip at a certain price. When you place a limit order it will be executed only when the scrip reaches that price
+
+#### 2. Market Order
+
+A market order is when you wish to purchase or sell a scrip at the prevailing market rate. A market order will be executed at whatever market rate is prevalent at the time the order is placed.
+
+#### 3. Stop-Loss Order
+
+An order placed to sell a scrip when it reaches a certain price is called a stop-loss order. The stop loss order is primarily meant to limit your loss on a scrip that you have already purchased. The price you mention in the stop-loss order is the highest risk that you are ready to take as loss on that scrip.
+A stop-loss order is a passive order. To activate it, we need to enter a trigger price. A trigger price, usually above the stop-loss price acts as a price threshold and only after crossing this price the stop-loss order transitions from a passive order to an active order.
+
+A stop-loss order can be a limit order or a market order.
+	
+**--> Stop Loss Market Order** - The stop loss market order is when once your stop loss is triggered and the order will be placed at whatever price is prevalent in the market. In this kind of stop loss order, only the trigger price is to be mentioned. Once the trigger price is hit, the order becomes a market order and is sent to the exchange.
+
+**--> Stop-Loss Limit Order** - a stop-loss limit order will be executed at the price that you want the order to be executed at. The stop-loss is a mere trigger to validate the order. In this kind of stop loss order both the trigger and the limit price are to be given by the trader. In case of a (sell position) buy stop loss limit order the Trigger Price < Limit Price and in case of a (buy position) sell stop loss limit order the Trigger Price > Limit Price.  
+eg. Buy position - Buy at 30, trigger at 27 & limit price at 26. so order will be placed at 26   
+Sell position - Sell at 30, trigger at 32 & limit price at 35, so order to buy shares at 35 will be placed
+
+
+### Complex Orders Types
+
+#### 4. Cover Order
+
+This is a special order type which has a market order and a stop loss market order attached to it. In this type of special order, the first leg is always a market order; once executed, the second leg (the stop loss market order) is placed. The stop loss order cannot be canceled. Both orders are interconnected. The order can be modified up to the Last Traded Price (LTP) in the case of a favorable market movement.
+
+This is a special order type that has two different legs: 1st Leg: Limit Order / Market Order, 2nd Leg: Stop loss Market Order.
+
+#### 5. After Market Order (AMO)
+
+AMO or After Market Order is for those people who are busy during market hours but wish to participate. You can plan your orders at leisure after researching about the markets before the market opens and place an order after the market closes.The AMO (After Market Order) timing for Cash, F&O, Currency segment is 6.30 pm to 12.00 am and 4.00 am to 9.00 am and for MCX segment is 4.00 am to 9.45 am.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
