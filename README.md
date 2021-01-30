@@ -566,9 +566,60 @@ When a company announces a buyback, it signals the company’s confidence about 
 
 ## Key Events and Their Impact on Markets
 
+### Monetary Policy
+
+The monetary policy is a tool with which the Reserve Bank of India (RBI) controls the money supply by controlling the interest rates. They do this by tweaking the interest rates. RBI is India’s central bank. The world over every country’s central bank is responsible for setting interest rates.
+
+While setting the interest rates, the RBI has to strike a balance between growth and inflation. In a nutshell – if the interest rates are high, that means the borrowing rates are high (particularly for corporations). If corporate can’t borrow easily, they cannot grow. If corporations don’t grow, the economy slows down.
+
+On the other hand, when the interest rates are low, borrowing becomes easier. This translates to more money in the hands of corporations and consumers. With more money, there is increased spending which means the sellers tend to increase prices leading to inflation.
+
+To strike a balance, the RBI has to consider all the factors and carefully set a few key rates. Any imbalance in these rates can lead to economic chaos. The key RBI rates that you need to track are as follows:
+
+**Repo Rate –** Whenever banks want to borrow money, they can borrow from the RBI. The rate at which RBI lends money to other banks is called the repo rate. If the repo rate is high, that means the cost of borrowing is high, leading to slow growth in the economy. Currently, the repo rate in India is 8%. Markets don’t like the RBI increasing the repo rates.
+
+**Reverse repo rate –** Reverse Repo rate is the rate at which RBI borrows money from banks. When banks lend money to RBI, they are certain that RBI will not default, and hence they are happier to lend their money to RBI as opposed to a corporate. However, when banks choose to lend money to the RBI instead of the corporate entity, the banking system’s supply of money reduces. An increase in reverse repo rate is not great for the economy as it tightens the supply of money. The reverse repo rate is currently at 7%.
+
+**Cash reserve ratio (CRR) –** Every bank is mandatorily required to maintain funds with RBI. The amount that they maintain is dependent on the CRR. If CRR increases, then more money is removed from the system, which is not good for the economy.
+
+The RBI meets every two months to review the rates. This is a key event that the market watches out for. The first to react to rate decisions would be interest-rate sensitive stocks across various sectors such as – banks, automobile, housing finance, real estate, metals, etc.
+
+### Index of Industrial Production (IIP)
+
+The Index of Industrial Production (IIP)  is a short-term indicator of how the country’s industrial sector is progressing. The data is released every month (along with inflation data) by the Ministry of Statistics and Programme Implementation (MOSPI). As the name suggests, the IIP measures the Indian industrial sectors’ production.  
+
+Roughly about 15 different industries submit their production data to the ministry, which collates the data and releases it as an index number. If the IIP is increasing it indicates a vibrant industrial environment (as the production is going up) and hence a positive sign for the economy and markets. A decreasing IIP indicates a sluggish production environment, hence a negative sign for the economy and markets.
+
+### Budget
+
+A Budget is an event during which the Ministry of Finance discusses the country’s finance in detail. The Finance Minister, on behalf of the ministry, makes a budget presentation to the entire country. During the budget, major policy announcements and economic reforms are announced, which impacts various industries across the markets. Therefore the budget plays a vital role in the economy
+
+To illustrate this further, one of the budget expectations (July 2014) was to increase the duties on a cigarette. As expected, during the budget, the Finance Minister raised the duties on a cigarette, and hence the prices of cigarettes were also increased. An increased cigarette price has a few implications:
+
+Increased cigarette prices discourage smokers from buying cigarettes (needless to say this is debatable), and hence the profitability of the cigarette manufacturing companies such as ITC decreases. If the profitability decreases, then investors may want to sell shares of ITC.
+If market participants start selling ITC, then the markets will come down because ITC is an index heavyweight.
+As a reaction to the budget announcement, ITC traded 3.5% lower for this precise reason.
 
 
+### Corporate Earnings Announcement
 
+This is perhaps one of the important events to which the stocks react. The listed companies (trading on the stock exchange) must declare their earning numbers once in every quarter, also called the quarterly earnings numbers. During an earnings announcement, the corporate gives out details on various operational activities, including:
+
+How much revenue has the company generated?
+How has the company managed its expense?
+How much money they did the company pay in terms of taxes and interest charges?
+What is the profitability during the quarter?
+Besides some companies give an overview of what they expect from the upcoming quarters. This forecast is called ‘corporate guidance’.
+
+Invariably every quarter, the first blue-chip company to make the quarterly announcement is Infosys Limited. They also give out guidance regularly. Market participants keenly follow what Infosys has to say in terms of guidance as it has an overall impact on the markets.
+
+The table below gives you an overview of the earning season in India:
+
+![](images/earnings.png)
+
+Every quarter when the company declares its earnings, the market participants match the earnings with their own expectation of how much the company should have earned. The market participant’s expectation is called the **‘street expectation’**.
+
+The stock price will react positively if the company’s earnings are better than street expectation. On a similar logic, the stock price will react negatively if the actual numbers are below the street expectation.
 
 
 
