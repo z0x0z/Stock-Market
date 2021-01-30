@@ -392,7 +392,8 @@ While the Sensex and Nifty represent the broader markets, certain indices repres
 ***SELL NOW BUY BACK***.   Shorting is only allowed in Intraday. 
  
  To summarize long and short positions…
-![](images/short.png)
+ 
+	![](images/short.png)
 
 * **Square off** ­– Square off is a term used to indicate that you intend to close an existing position. If you are long on a stock squaring off the position means to sell the stock. When you are selling the stock to close an existing long position you are not shorting the stock!
   
@@ -456,24 +457,114 @@ This is a special order type that has two different legs: 1st Leg: Limit Order /
 AMO or After Market Order is for those people who are busy during market hours but wish to participate. You can plan your orders at leisure after researching about the markets before the market opens and place an order after the market closes.The AMO (After Market Order) timing for Cash, F&O, Currency segment is 6.30 pm to 12.00 am and 4.00 am to 9.00 am and for MCX segment is 4.00 am to 9.45 am.
 
 
+#### 6. Bracket Order
+
+In this order type, 3 inputs to be given. Buy price, target price, stop loss price 
+In this order type usually high leverage is provided by broker. It is usually trailing stop loss order. If u put stop loss of 3rs and if stock price goes up then stop loss position also goes up with that same difference of 3rs.  
+For each executed trade brokerage is charged
+
+![](images/BO.png) 
 
 
+## Clearing and Settlement Process
+
+### What happens when you buy a stock?
+
+***Day 1 – The trade (T Day), Monday***
+
+Assume on 23rd June 2014 (Monday) you buy 100 shares of Reliance Industries at Rs.1,000/- per share. The total buy value is Rs.100,000/- (100 * 1000). The day you make the transaction is referred to as the trade date, represented as ‘T Day’.
+
+By the end of trade day, your broker will debit Rs.100,000/- and the applicable charges towards your purchase. Assuming the trade is executed through Zerodha, the applicable charges would be as follows:
+
+![](images/charges.png)
+
+So an amount of Rs.100,000/- plus Rs.103.93/- (which includes all the applicable charges) totalling Rs.100,103.93/- will be debited from your trading account the day you make the transaction. Remember, the money goes out of your account, but the stock has not come into your DEMAT account yet.
+
+Also, on the same day, the broker generates a ‘contract note’ and sends you a copy. A contract note is like a bill generated detailing every transaction you made. This is an important document that is worth saving for future reference. A contract note typically shows a break up of all transactions done during the day along with the trade reference number. It also shows the breakup of charges charged by the broker.
+
+***Day 2 – Trade Day + 1 (T+ day, Tuesday)***
+
+The day after you made the transaction is called the T+1 day. On T+1 day, you can sell the stock that you purchased the previous day.  If you do so, you are basically making a quick trade called “Buy Today, Sell Tomorrow” (BTST) or “Acquire Today, Sell Tomorrow” (ATST). Remember the stock is not in your DEMAT account yet. Hence, there is a risk involved, and you could be in trouble for selling a stock that you don’t really own. This doesn’t mean, every time you make a BTST trade, you end up in trouble, but it does once in a way, especially when you trade B group and illiquid stocks. This happens a little convoluted, and we deliberately will not touch this topic now.
+
+If you start fresh in the markets, I would suggest you do not make BTST trades unless you understand the risk involved.
+
+From your perspective, nothing happens on T+1 day. However, in the background, the money required to purchase the shares is collected by the exchange and the exchange transaction charges and Security transaction tax.
+
+***Day 3 – Trade Day + 2 (T+2 day, Wednesday)***
+
+On day 3 or the T+2 day, around 11 AM shares are debited from the person who sold you the shares and credited to the brokerage with whom you are trading, who will in turn credit it to your DEMAT account by the end of the day. Similarly, money that was debited from you is credited to the person who sold the shares. 
+
+The shares will now start reflecting in the DEMAT account indicating that you own 100 shares of Reliance.
+
+So for all practical purposes, if you buy a share on day T Day, you can expect to receive the shares in your DEMAT account only by the end of T+2 day. The shares are available for a transaction on T+3day.
 
 
+## Five Corporate Actions and Its Impact on Stock Prices
+
+### Dividends
+
+The company pays dividends to its shareholders. Dividends are paid to distribute the profits made by the company during the year. Dividends are paid on a per-share basis. For example, during the financial year, 2012-13 Infosys had declared a dividend of Rs.42 per share. The dividend paid is also expressed as a percentage of the face value. In the above case, the face value of Infosys was Rs.5/- and the dividend paid was Rs.42/- hence the dividend payout is said to be 840% (42/5).
+
+It is not mandatory to pay out dividends every year. If the company feels that instead of paying dividends to shareholders, they are better off utilizing the same cash to fund a new project for a better future, they can do so.
+
+The decision to pay a dividend is taken in the **Annual General Meeting (AGM)** during which the directors of the company meet. The dividends are not paid right after the announcement. This is because the shares are traded throughout the year, and it would be difficult to identify who gets the dividend and who doesn’t. The following timeline would help you understand the dividend cycle.
+
+![](images/Dividends.png)
+
+**Dividend Declaration Date:** This is the date on which the AGM takes place, and the company’s board approves the dividend issue
+
+**Record Date:** This is when the company decides to review the shareholders register to list down all the eligible shareholders for the dividend. Usually, the time difference between the dividend declaration date and the record date is 30 days.
+
+**Ex-Date/Ex-Dividend date:** The ex-dividend date is normally set two business days before the record date. Only shareholders who own the shares before the ex-dividend date are entitled to the dividend. This is because, in India, the normal settlement is on a T+2 basis. So for all practical purposes, if you want to be entitled to receive a dividend, you need to ensure you buy the shares before the ex-dividend date.
+
+**Dividend Payout Date:** This is when the dividends are paid out to shareholders listed in the register of the company.
+
+When the stock goes ex-dividend, usually the stock drops to the extent of dividends paid. For example, if ITC (trading at Rs. 335) has declared a dividend of Rs.5. On ex-date, the stock price will drop to the extent of dividend paid, and as in this case, the price of ITC will drop down to Rs.330. The reason for this price drop is because the amount paid out no longer belongs to the company.
+
+Dividends can be paid anytime during the financial year. If it’s paid during the financial year, it is called the interim dividend. If the dividend is paid at the end of the financial year, it is called the final dividend.
 
 
+### Bonus Issue
+
+A bonus issue is a stock dividend, allotted by the company to reward the shareholders. The bonus shares are issued out of the reserves of the company. These are free shares that the shareholders receive against shares that they currently hold. These allotments typically come in a fixed ratio such as 1:1, 2:1, 3:1, etc.
+
+If the ratio is 2:1 ratio, the existing shareholders get 2 additional shares for every 1 share they hold at no additional cost. So if a shareholder owns 100 shares, he will be issued an additional 200 shares, so his total holding will become 300 shares. When the bonus shares are issued, the number of shares the shareholder holds will increase, but an investment’s overall value will remain the same.
+
+To illustrate this, let us assume a bonus issue on different ratios – 1:1, 3:1 and 5:1
+
+![](images/bonus.png)
+
+There is a bonus announcement date, ex-bonus date, and record date similar to the dividend issue.
+
+Companies issue bonus shares to encourage retail participation, especially when the company’s price per share is very high, and it becomes tough for new investors to buy shares. By issuing bonus shares, the number of outstanding shares increases, but each share’s value reduces, as shown in the example above. The face value remains unchanged.
+
+### Stock Split
+
+When the company declares a stock split, the number of shares held increases, but the investment value/market capitalization remains similar to the bonus issue. The stock is split concerning the face value. Suppose the stock’s face value is Rs.10, and there is a 1:2 stock split then the face value will change to Rs.5. If you owned 1 share before the split, you would now own 2 shares after the split.
+
+![](images/split.png)
+
+Like a bonus issue, a stock split is usually to encourage more retail participation by reducing the value per share.
 
 
+### Rights Issue
 
+The idea behind a rights issue is to raise fresh capital. However, instead of going public, the company approaches its existing shareholders Think about the rights issue as a second IPO and a select group of people (existing shareholders). The rights issue could be an indication of promising new development in the company. The shareholders can subscribe to the rights issue in the proportion of their shareholding. For example, 1:4 rights issue means every 4 shares a shareholder owns; he can subscribe to 1 additional share. Needless to say, the new shares under the rights issue will be issued at a lower price than what prevails in the markets.
 
+However, a word of caution – The investor should not be swayed by the company’s discount, but they should look beyond that. A rights issue is different from a bonus issue as one is paying money to acquire shares. Hence the shareholder should subscribe only if he or she is completely convinced about the company’s future. If the market price is below the subscription price/right issue price, it is obviously cheaper to buy it from the open market.
 
+### Buyback of shares
 
+A buyback can be seen as a company’s method to invest in itself by buying shares from other investors in the market. Buybacks reduce the number of shares outstanding in the market; however, buyback of shares is an important corporate restructuring method. There could be many reasons why corporates choose to buy back shares…
 
+Improve the profitability on a per-share basis
+To consolidate their stake in the company.
+To prevent other companies from taking over.
+To show the confidence of the promoters about their company.
+To support the share price from declining in the markets.
+When a company announces a buyback, it signals the company’s confidence about itself. Hence this is usually positive for the share price.
 
-
-
-
-
+## Key Events and Their Impact on Markets
 
 
 
