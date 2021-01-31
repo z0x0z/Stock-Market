@@ -13,6 +13,8 @@
 * **Real estate**
 * **Commodities** (precious metals)
 
+![](images/asset.jpg)
+
 ## Regulators
 
 In India, the stock market regulator is called **The Securities and Exchange Board of India**, often referred to as SEBI.
@@ -620,6 +622,82 @@ The table below gives you an overview of the earning season in India:
 Every quarter when the company declares its earnings, the market participants match the earnings with their own expectation of how much the company should have earned. The market participant’s expectation is called the **‘street expectation’**.
 
 The stock price will react positively if the company’s earnings are better than street expectation. On a similar logic, the stock price will react negatively if the actual numbers are below the street expectation.
+
+
+## Nature of Market
+
+
+**Market is supreme -** Do act according to market stats and dont counter act against it.  
+**Market doesn't care about us -** Be prepared for everything. take careful decisions. Align yourself with the big players (Mutual funds, bank nifty) with large market cap to make profits.  
+**Nobody can predict what the market will do tomorrow -** No one can speculate the market at any time.  
+**Market changes all the time -** it changes, it wont be constant. Mix of Bull & Bear is the market. Adapt yourself.  
+**Market never causes big losses -** We are responsible for our loss. Always we have option to exit. Listen to market.   
+**We can understand only miniscule portion of market -** Do not overthink & dont try to learn all abt market. Learn only what is relevant to you and your segment of trade. Take trades only when you are confident about it
+
+## Trading Commandments
+
+**Never take big Losses -** In market only 3 scenarios -> small profit, big profit, small loss. Only in these 3 we must be aligned. Greed, fear of loss, inability to control emotions when we are in a trade... should overcome all this. 
+ 
+**Never trade without preparation -** It would incur huge loss. always prepare before trading time. do some homework. Learn about stocks on different sectors and then prepare watchlist for trading. Without preparation then it is Gambling.  
+
+**The Real Enemy is within you -** Emotions are hard to master. Losses are only because of you. No sentiments while trading.  
+
+**Always keep learning -** No need to explain this. Just keep learning to survive. Explore new tech's.  
+
+**BE humble -** Not to become over smart, when you are wrong accept it, learn from the mistake. Humble is good in life. But humble is required in market
+
+
+## How to make money in Stock Market
+
+### 2 ways
+
+**Investing -** Becoming part owner of the ocmpany and benefit from its growth. Long term  
+**Trading -** Take advantage of trends and patterns in the stock market. Short term
+
+![](images/invest.png)
+
+### Buying stocks
+
+
+* Start early
+* Buy on corrections
+* Buy only quality stocks
+* Diversify
+
+![](images/buy.png)
+
+
+### Mutual Funds
+
+Giving your funds to someone (Fund manager) to invest on behalf of you. Even though you know invest and can build your own portfolio but do invest in mutual funds to diversify portfolio.
+
+You --> Fund Manager --> Stock Market
+
+**Types of Mutual funds**
+
+![](images/mutual.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
