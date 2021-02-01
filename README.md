@@ -781,6 +781,73 @@ Once the company becomes public then as per SEBI rules, it has to regularly (pro
 * Sentiment is negative, even if the company performs well the stock price goes down.  
 * Only the quality stocks perform well
 
+### SECULAR Bull/Bear Market
+
+* Very long term trend - it lasts for yrs like a decade, it can be a script or country.  For ex. US market from 2009-2019.  
+* Investors make lot of money.  
+* Mini contra-trends possible - For ex. a short downtrend is possible in a secular bull market.  
+* Very important for investors - No impact for Traders. If you are part of secular Bear market then take your money out because you will not know when the trend is gonna end
+
+**Secular Bull**
+
+![](images/bull.png)
+
+**Secular Bear**
+
+![](images/bear.png)
+
+
+### 4 Phases of Stock Market
+
+**1. Accumulation**  
+**2. Markup**  
+**3. Distribution**   
+**4. Decline** 
+
+![](images/phase1.png)
+![](images/phase2.png)
+
+### BUBBLES
+
+Trend which happens for short term like few weeks or few months or even lasts for few yrs. When a bubble bursts or crashes investors loss huge money. Investors who invested in quality stocks may tick around after sometime. But small investors who cannot with stand this crash will basically done for the market
+
+**Characteristics**
+ 
+* Public hysteria - everybody in the world, everyone around you will talk about it. people might fear of missing the chance  
+* No relation with fundamentals - Valuation will be too high, nobody can explain why and how far the trend remains  
+* Hyperbolic moves - Prices moves with huge differences, high higher highest. Nobody will pay that kind of value to an asset but still people will do so it means a bubble is formed 
+* Sharp correction after bubble bursts - Result in massive correction, prices fall down extremely fast. Price comes to normal
+
+![](images/bubble.png)
+
+![](images/bubble2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
