@@ -248,13 +248,13 @@ Once the stock transitions from primary markets to secondary markets, the stock 
 
 ## Stock Market - Basics
 
-**Authorized shares** - refer to the largest number of shares that a single corporation can issue. The number of authorized shares per company is assessed at the company's creation and can only be increased or decreased through a vote by the shareholders
+**Authorized shares** - Refer to the largest number of shares that a single corporation can issue. The number of authorized shares per company is assessed at the company's creation and can only be increased or decreased through a vote by the shareholders
 
 **Treasury** - Shares hold by company itself
 
-**Restricted Shares** - refer to a company's issued stock that cannot be bought or sold without special permission
+**Restricted Shares** - refer to a company's issued stock that cannot be bought or sold without special permission. Restricted stock refers to unregistered shares of ownership in a corporation that are issued to corporate affiliates, such as executives and directors. Restricted stock is non-transferable and must be traded in compliance with special Securities and Exchange Commission (SEC) regulations.
 
-**Float Shares** -  refers to a company's shares that are freely bought and sold without restrictions by the public
+**Float Shares** -  refers to a company's shares that are freely bought and sold without any restrictions by the public
 
 **Outstanding Shares = Restricted  shares + float shares**
 
@@ -332,6 +332,12 @@ CNX Nifty consists of the largest and most frequently traded stocks within the N
 
 An ideal index gives us minute by minute reading about how the market participants perceive the future. The movements in the Index reflect the changing expectations of the market participants. When the index goes up, it is because the market participants think the future will be better. The index drops if the market participants perceive the future pessimistically
 
+National Stock Exchange Fifty (NIFTY) consitutes of ***50 companies*** from different sectors  
+Senstive Index (SENSEX) consitutes of ***30 companies*** from different sectors
+
+The major sectors are IT tech, Energy, Banks, Automobile, Pharma
+
+![](images/indices.png)
 
 ### Practical uses of the Index
 
@@ -353,6 +359,10 @@ An ideal index gives us minute by minute reading about how the market participan
 
 The Index is a composition of many stocks from different sectors that collectively represent the economy’s state. To include a stock in the index, it should qualify certain criteria. Once qualified as an index stock, it should continue to qualify on the stated criteria. If it fails to maintain the criteria, the stock gets replaced by another stock that qualifies the prerequisites.
 
+![](images/selection.png)
+
+**Index Rebalancing -** Only the best peforming companies get to stay in Index. Twice a year some companies are kicked out of index and new companies which satisfy criteria are added in Index. This process of keeping only best and bright companies in Index is called Index rebalancing. For ex. In 2018 JSW steel added in NIFTY and Lupin was kicked out
+
 Based on the selection procedure, the list of stocks is populated. Each stock in the index should be assigned a certain weightage. Weightage in simpler terms defines how much importance a certain stock in the index gets compared to the others
 
 There are many ways to assign weights, but the Indian stock exchange follows a **free-float market capitalization** method. The weights are assigned based on the company’s free-float market capitalization, the larger the market capitalization, the higher is the weight.
@@ -367,10 +377,16 @@ The following are the 50 stocks in Nifty as per their weightage
 
 ![](images/nifty50.png)
 
+![](images/index_calc.png)
+
+
 ### Sector-specific indices
 
 While the Sensex and Nifty represent the broader markets, certain indices represent specific sectors. These are called the sectoral indices. For example, the **Bank Nifty** on NSE represents the mood specific to the banking industry. The **CNX IT** on NSE represents the behaviour of all the IT stocks in the stock markets. Both BSE and NSE have sector-specific indexes.  The construction and maintenance of these indices are similar to the other major indices.
 
+### Major indices around the world
+
+![](images/world-markets.jpg)
 
 ## Commonly Used Jargons
 
@@ -664,12 +680,16 @@ The stock price will react positively if the company’s earnings are better tha
 * Buy only quality stocks
 * Diversify
 
+Temparament - knowledge, courage, patience ... All these should possess by us for investing
+
 ![](images/buy.png)
 
 
 ### Mutual Funds
 
 Giving your funds to someone (Fund manager) to invest on behalf of you. Even though you know invest and can build your own portfolio but do invest in mutual funds to diversify portfolio.
+
+Index funds - Best Investment option for Retial investors, Warren Buffet. In index funds, fund manager keep buying stocks of companies in index and sell stocks which goes out of index. i.e. Mirroring the Index
 
 You --> Fund Manager --> Stock Market
 
@@ -678,23 +698,88 @@ You --> Fund Manager --> Stock Market
 ![](images/mutual.jpg)
 
 
+### Growth Investing
+
+If you think a company will grow with high potential then you pick up the shares and hold for long term
+
+![](images/growth.png)
+
+### Value Investing
+
+Buy good company shares when the value comes down. only buy quality stocks. Buy on corrections. Take advantage of short term market negative sentiment. Do not buy in lumpsum. buy in accumulation
+
+![](images/value.png)
+
+### Index Investing
+
+Invest in Nifty, sensex, ETFs. Capital risk is less. 
+
+![](images/index.png)
+
+### TRADING
+
+### Positional Trading
+
+This is longest form of trading. Holding period is several weeks or several months. Level of effort required is low. Popular among working professionals. Positional trading cannot be done on small caps, mid caps. Only should do in Big stocks.
+
+### Swing trading
+
+Holding period is few days to few weeks. Requires much more homework. Plenty of opportunities and stocks are available for swing. Option strategies learn well and it could make consistent source of income
+
+### Intraday trading
+
+Holding period is only one day. Buy morn sell eve. It requires special skills and hardest to master the skills. It requires lower capital. High risk, High Reward. Broker capital leverage is advantage. 
 
 
+## Share
 
+Investors who hold even 1 share is known to be part share owner of the company.   
+**Advantages of being Share holder,**   
+**Voting rights -** Can vote on resolutions that will decide future of the company. Crores of share out there. So our vote is not a big deal.  
+**Dividends -** Sharing company's profit is dividend. 2 types Interim & final dividend. Interim dividend is paid before end of financial year due to surplus profit. Final dividend is paid after financial year. Dividend pay is not compulsory and it is upto the company.  
+**Increase in Share value -** When the company grows the share price also increase. Hence can gain profit by holding to shares
 
+## IPO
 
+Read the IPO process above. Also read DRHP before applying for IPO.  
+Retail investors, big institutions like mutual funds or pension companies, HNI - high net worth individuals all those will be interested in IPOs. When there is over subscription, as per SEBI regulations there are separate quotas for all these 3 is allocated.   
+So it is not necessary that when you apply for an IPO, you will get full allotment.  
+If you were lucky enough to get the shares, then it is credited to demand within couple of weeks before the company is listed in BSE,NSE
 
+**Listing Gains -** The profit made by selling the shares that was bought in primary market and sold in secondary market on the listing day. On the day of Listing based on public's response sometimes the share can list higher or lower price than the IPO price
 
+Once the company becomes public then as per SEBI rules, it has to regularly (probably once in Quarter) publish their financial statements such as Balance sheets, Cash Flow statements and P/L statements. Companies does not participate in secondary market.
 
+## Stock Market Cycles
 
+![](images/cycle.png)
 
+### What moves the Market
 
+* Economy - Development of the country  
+* Financial performance of Companies.  
+* News & Events, Elections, RBI policies, wars, natural calamities.  
+* Sentiments - What do people feel about the market
 
+### Uptrend and Downtrend
 
+![](images/uptrend.png)
 
+![](images/downtrend.png)
 
+### Bull Market
 
+* Primary trend is up
+* Optimistic 
+* Bad news is quickly forgotten
+* Even the worst stock do well
 
+### Bear Market
+
+* Primary trend is down  
+* Investors suffer but Traders unaffected, bcoz shorting is possible in Intraday  
+* Sentiment is negative, even if the company performs well the stock price goes down.  
+* Only the quality stocks perform well
 
 
 
