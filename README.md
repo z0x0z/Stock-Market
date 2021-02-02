@@ -478,7 +478,7 @@ AMO or After Market Order is for those people who are busy during market hours b
 #### 6. Bracket Order
 
 In this order type, 3 inputs to be given. Buy price, target price, stop loss price 
-In this order type usually high leverage is provided by broker. It is usually trailing stop loss order. If u put stop loss of 3rs and if stock price goes up then stop loss position also goes up with that same difference of 3rs.  
+In this order type usually high leverage is provided by broker.  Leverage will vary based on the Stop loss price entered. It is usually trailing stop loss order. If u put stop loss of 3rs and if stock price goes up then stop loss position also goes up with that same difference of 3rs.  
 For each executed trade brokerage is charged
 
 ![](images/BO.png) 
@@ -823,12 +823,47 @@ Trend which happens for short term like few weeks or few months or even lasts fo
 ![](images/bubble2.png)
 
 
+## Stock Market Timings
 
+![](images/time.png)
 
+### Pre-Market session
 
+Stock exchanges started the concept of pre-open session to minimize the volatility of securities during the market opening every day. Between **9:00 AM to 9:15 AM** is when the pre-market session is conducted. During the pre-market session for the first 8 minutes (between 9:00 AM and 9:08 AM) orders are collected, modified or cancelled. You can place limit orders/market orders. After 9.08 AM to 9.15 AM no new orders can be placed, orders placed are matched and trades confirmed. So technically you can place orders only for the first 8 minutes and only on equity segment.   
+Regarding Execution of **AMO orders** : As soon as the market opens at 9.15am, all the AMO orders are sent by the broker end to Exchange.
 
+- Low Liquidity - Even if order is placed between 9 - 9.08am but the probablity of execution of trade is less. unless it is very active stock like reliance.  
+- Pre-emptive - A Intraday trader has to react to the market. pre-emptive is arrogant and buying shares without giving opportunity to others. **Do not trade b/w 9am to 9.30am.** High volatile.  
+- Misleading - Info from pre market may be wrong. Do not trust pre-market. Closing existing delivery position is ok fine but don't take new trades
 
+### Regular Market session
 
+- mid day is dull 10.30am to 1.30pm
+- after 3'o clock do not take any trades
+- best time to take trades are 9.30am to 10.30am and 1.30pm to 3.00pm.  
+- MIS auto square-off time is 3.15pm
+
+![](images/reg.png)
+
+### Post-Market session
+
+- calculate closing price for scripts and indices b/w 3.30pm to 3.40pm. Book keeping time for stock exchanges. 
+- B/w 3.40pm to 4.00pm is post market session. One can place orders but it can be only delivery orders. IMPORTANT! the orders plcaed during post market session whether it is limit or market order BUT the order automatically will get execute at closing price. So risky! Be careful!  
+- Low liquidity, not for traders but for investors
+
+![](images/post.png)
+
+### Holidays
+
+![](images/holidays.png)
+
+### FAQs
+
+![](images/faq.png)
+
+### Advice
+
+![](images/advice.pn)
 
 
 
