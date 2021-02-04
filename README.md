@@ -863,7 +863,101 @@ Regarding Execution of **AMO orders** : As soon as the market opens at 9.15am, a
 
 ### Advice
 
-![](images/advice.pn)
+![](images/advice.png)
+
+
+## Major Players in Stock Market
+
+![](images/players.png)
+
+- **DII - Domestic Institutional investors.** Indian institutions that pool money from public and invest on their behalf. Managed by **fund manager**
+
+![](images/domestic.png)
+
+- **FII - Foreign Institutional investors.** FIIs are companies outside of India who invests money in indian stock market. they are almost like DIIs who pools money from people of other countries and invest in developing countries like India. FIIs are somewhat notorious because they can invest any where in the globe, so whenever they see an opportunity in other countries they pull money from indian stock market and invest there. So our Indian market may become volatile because of this. So strict guidelines is imposed by SEBI
+
+## BSE vs NSE
+
+![](images/vs.png)
+
+![](images/what.png)
+
+## Liquidity
+
+Ease of finding buyers & sellers in a market is called liquidity. Cash market has highest liquidity, followed by Gold & Equity. Higher liquidity ensures ease of buying & selling, better prices for entry & exit.
+
+**Liquid stock** - More people trade on it  
+**Illiquid stock** - Less people trade on it
+
+Higher the market cap of a company, higher the liquidity on that stock 
+
+High cap stocks - Reliance, TCS, HDFC, Maruti suzuki  
+Mid cap stocks - Mindtree, apollo hospitals, Indian bank   
+Small cap stocks - South Indian bank, Jagran  
+Micro cap stocks - very small cap companies
+
+Always stay with high or mid cap stocks. Small cap stocks are dangerous and could drop prices drastically
+
+**Liquidity is also calculated using spreads.** Hgher liquidity has less spread
+
+![](images/spread.png)
+
+**Liquidity can be also found using Intraday charts.**  
+
+![](images/high.png)
+
+![](images/low.png)
+
+
+**Liquidity in Instruments**
+
+In Futures large cap stocks like Reliance, HDFC has high liquidity. whereas small midcap stocks has lower liquidity  
+In Options high liquidity belongs to NIFTY, Bank NIFTY. But for individual stocks the liquidity is very low. So stay way from individual stocks in options 
+
+![](images/liquid.png)
+
+
+## BANK NIFTY
+
+It is **Sectoral Index**. Comprises of top 12 performing banks listed in NSE.
+We have NIFTY metals, IT, Pharma. Eventhough all these indices exists they are not traded only Bank nifty is traded and hence important. Because Banks are the foundation for the economy.  
+HDFC bank has higher weightage in bank nifty i.e. 32%. So bank nifty movement is based on HDFC stock movement.  
+Most of the time Bank Nifty moves Nifty and sometimes Nifty also can move Bank nifty.   
+Nifty and Bank nifty should be tracked parallel
+
+Bank Nifty can be traded only in Futures & Options
+
+**Benefits to traders:**
+
+* High liquidity  
+* Variety in Options market  
+* Easier to trade - Easy to trade than Nifty because nifty consists of stocks from various sector and if 1 or 2 sectors doesn't perform then it affects nifty. But bank nifty consists of only 12 companies of same sector hence easy
+
+**Benefits to Investors:**
+
+* Benchmarking  
+* Index funds  - can invest in index funds through mutual funds hence could take advantage of the market  
+* Structured products - some financial instrument based on index like bank nifty 
+
+
+## Trading Jargons
+
+![](images/long.png)
+![](images/shorting.png)
+![](images/position.png)
+![](images/carry.png)
+![](images/overnight.png)
+![](images/hold.png)
+![](images/off.png)
+![](images/up.png)
+![](images/down.png)
+
+
+
+
+
+
+
 
 
 
