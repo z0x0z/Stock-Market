@@ -951,9 +951,33 @@ Bank Nifty can be traded only in Futures & Options
 ![](images/off.png)
 ![](images/up.png)
 ![](images/down.png)
-
-
-
+![](images/unrealise.png)
+![](images/realise.png)
+![](images/mtm.png)
+![](images/average.png)
+![](images/average2.png)
+![](images/pyramid.png)
+![](images/t2.png)
+![](images/volatile.png)
+![](images/volume.png)
+![](images/ohlc.png)
+![](images/levarage.png)
+![](images/margin.png)
+![](images/timeframe.png)
+![](images/brokerage.png)
+![](images/intraday.png)
+![](images/instrument.png)
+![](images/derivative.png)
+![](images/btst.png)
+![](images/stbt.png)
+![](images/breakout.png)
+![](images/rally.png)
+![](images/ban.png)
+![](images/shake.png)
+![](images/depth.png)
+![](images/spread1.png)
+![](images/alert.png)
+![](images/scan.png)
 
 
 
