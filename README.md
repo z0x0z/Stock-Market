@@ -716,19 +716,37 @@ Invest in Nifty, sensex, ETFs. Capital risk is less.
 
 ![](images/index.png)
 
-### TRADING
+### Types of TRADING
 
-### Positional Trading
+#### Positional Trading
 
 This is longest form of trading. Holding period is several weeks or several months. Level of effort required is low. Popular among working professionals. Positional trading cannot be done on small caps, mid caps. Only should do in Big stocks.
 
-### Swing trading
+![](images/position_trade.png)
+
+#### Swing trading
 
 Holding period is few days to few weeks. Requires much more homework. Plenty of opportunities and stocks are available for swing. Option strategies learn well and it could make consistent source of income
 
-### Intraday trading
+![](images/swing.png)
+
+#### Intraday trading
 
 Holding period is only one day. Buy morn sell eve. It requires special skills and hardest to master the skills. It requires lower capital. High risk, High Reward. Broker capital leverage is advantage. 
+
+![](images/intra.png)
+
+#### Scalping
+
+A type of a day trader. He usually trades very large quantities of shares and holds the stock for very less time with an intention to make a small but quick profit. For example – He would buy 10,000 shares of TCS as 2212 at 9:15 and sell it 2212.1 at 9.16. He ends up making 1000/- profit in this trade. In a typical day, he would have placed many such trades. As you may have noticed a scalp trader is highly risk averse.
+
+![](images/scalper.png)
+
+#### ALGO Trading
+
+Algorithmic trading (also called automated trading, black-box trading, or algo-trading) uses a computer program that follows a defined set of instructions (an algorithm) to place a trade. The trade, in theory, can generate profits at a speed and frequency that is impossible for a human trader. 
+
+![](images/algo.png)
 
 
 ## Share
@@ -978,6 +996,9 @@ Bank Nifty can be traded only in Futures & Options
 ![](images/spread1.png)
 ![](images/alert.png)
 ![](images/scan.png)
+
+
+## Index Trading
 
 
 
