@@ -63,6 +63,8 @@ You can link multiple bank accounts to your trading through which you can transf
 
 The three financial intermediaries operate via three different accounts – ***trading account, DEMAT account and Bank account***. All three accounts operate electronically and are interlinked, giving you a very seamless experience.
 
+![](images/connect.png)
+
 ### 4. NSCCL and ICCL
 
 NSCCL – National Security Clearing Corporation Ltd and Indian Clearing Corporation are wholly owned subsidiaries of National Stock Exchange and Bombay Stock Exchange.
@@ -785,6 +787,8 @@ Once the company becomes public then as per SEBI rules, it has to regularly (pro
 
 ![](images/downtrend.png)
 
+![](images/range.png)
+
 ### Bull Market
 
 * Primary trend is up
@@ -977,6 +981,7 @@ Bank Nifty can be traded only in Futures & Options
 ![](images/pyramid.png)
 ![](images/t2.png)
 ![](images/volatile.png)
+![](images/vol.png)
 ![](images/volume.png)
 ![](images/ohlc.png)
 ![](images/levarage.png)
@@ -1000,25 +1005,102 @@ Bank Nifty can be traded only in Futures & Options
 
 ## Index Trading
 
+NIFTY and BANK NIFTY are the only indices that can be traded. It is called Derivative segment.  
+Easier entry & exit.  
+Volatility is low
+
+![](images/indvs.png)
+![](images/why.png)
+![](images/like.png)
 
 
+## Risk-Reward
+
+- Possibility of loss
+- Magnitude of loss
+- Positve risk (losing profits) and Negative risk (losing capital)
+
+**Risk**
+
+1. Risk can be measured sometimes and cannot sometimes. Risk has to ve defined before taking any trade.  
+1. Risk various by Instruments. F&O has higher risk than cash segment.  
+1. Risk various by stocks also. Adjust risk by position size.  
+1. Risk various by Market. Trend days ( bullish or bearish days) is less risky than volatile days. Volatile days are high risk.  
+1. Risk is inevitable.  
+1. How to access risk - look at past behaviour 
+
+**Reward**
+
+1. Reward is less important than risk   
+1. A trader must worry about risk than reward.  
+
+**Decisions to make for Trader**
+
+1. Whether or not to take a trade.  
+1. Determine the position size, Higher the risk lower the position size.  
+1. Entry point. Do not chase the Rally. Wait for your entry.  
+1. Determine when to trail stoploss
+1. When to book partial profits
+1. When to exit. When you are in doubt don't take trade.
+
+![](images/risk_reward.png)
 
 
+## Top Books for Traders
+
+### 1. Trading in the zone
+### 2. Market Wizards
+### 3. Trading for a living
 
 
+![](images/book.png)
 
 
+## SGX NIFTY
+
+* SGX NIFTY is a Nifty futures contract that is traded on Singapore exchange.  
+* Outside India people (NRIs) cannot trade derivatives of other countries except the country in which they live in due to strict International laws. So SGX NIFTY is an alternative for them to trade   
+* FIIs invested in India create hedging positions in SGX NIFTY. 
+* Indian residants cant trade SGX NIFTY.   
+* Singapore Stock exchanges open for all day long   
+* Tracking of SGX NIFTY is little bit needed for future view of our NIFTY 50  
+
+![](images/sgx.png)
+
+## Shorting
+
+* Sell first, Buy later.  
+* Shorting is done when you predeict the stock price is gonna fall down.  
+* Shorting can be done in all 3 instruments cash, futures and options.  
+* Shorting position in cah sagment should be square-off in same trading session (Intraday) orelse high penalities (**short delivery**).  
+* Not all scripts can be shorted but it is decided by the broker. Broker maintains list on which stock intraday can be done    
+* In Futures & options shorting is allowed for delivery also. NSE maintains list on which can be done (Bhavcopy.csv file). Based on diff parameters like volume, market cap nse decides it.   
+* Few stocks might be in ban by NSE for trading in F&O segment.  
+* In shorting if you take delivery there is overnight risk. Risk is more in F&O stocks than F&O Index.  
+* Overnight shorts must be hedged. Can be done by Buying a call option or selling put option. Never take short position without hedging. 
 
 
+![](images/sho.png)
+![](images/shot.png)
+
+### Dangers of Shorting
+
+- Potential of unlimited loss (bcoz stock can go up to any price)   
+- Risk of Short delivery (penalty for not buying back the shares)   
+- Risk of Short squeeze (promotors can send positive news overnight stock goes up)
 
 
+**Short covering**
+
+Buying back of shares to exit from short position is called short covering. 
+
+![](images/cov.png)
+
+Rally that is due to short sellers in called **Short covering rally**. When there is good news about company then stock price goes up little, short positioned traders get fear and buy back shares to exit, this moves stock price even higher so now other sellers also buy back so even further stock goes up.
 
 
-
-
-
-
-
+![](images/cover.png)
+![](images/ral.png)
 
 
 
