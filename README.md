@@ -440,6 +440,9 @@ While the Sensex and Nifty represent the broader markets, certain indices repres
 
 ## Types of Orders
 
+![](images/ord.png)
+
+### Intraday Orders
 ### Simple Orders Types
 
 #### 1. Limit order
@@ -449,6 +452,8 @@ A limit order is when you wish to purchase or sell a scrip at a certain price. W
 #### 2. Market Order
 
 A market order is when you wish to purchase or sell a scrip at the prevailing market rate. A market order will be executed at whatever market rate is prevalent at the time the order is placed.
+
+![](images/best.png)
 
 #### 3. Stop-Loss Order
 
@@ -484,6 +489,10 @@ In this order type usually high leverage is provided by broker.  Leverage will v
 For each executed trade brokerage is charged
 
 ![](images/BO.png) 
+
+### Delivery Order
+
+![](images/delivery.png)
 
 
 ## Clearing and Settlement Process
@@ -1101,6 +1110,63 @@ Rally that is due to short sellers in called **Short covering rally**. When ther
 
 ![](images/cover.png)
 ![](images/ral.png)
+
+
+## Cost of Trading
+
+Very important to understand and calculate charges and cost of every trade only then profits can be made
+
+![](images/cost.png)
+![](images/break.png)
+![](images/stt.png)
+![](images/broker.png)
+![](images/transaction.png)
+![](images/stamp.png)
+![](images/other.png)
+
+### Advice
+
+- Don't pay high brokerage.  
+- Spend time with Brokerage calculator.  
+- Check your Ledger regularly. 
+- Treat trading as a business.  
+- Take as few trades as possible
+
+
+## Broker Selection Strategy
+
+Very important for making profits from a trader's perspective
+
+![](images/traders.png)
+
+- Low Brokerage.  
+- Need Research reports given by full service brokers like sharekhan, HDFC securities, ICICI direct. 
+- So have 2 Discount brokers and 1 Full service broker
+
+
+![](images/rec.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
