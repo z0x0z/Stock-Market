@@ -473,19 +473,25 @@ Sell position - Sell at 30, trigger at 32 & limit price at 35, so order to buy s
 
 #### 4. Cover Order
 
-This is a special order type which has a market order and a stop loss market order attached to it. In this type of special order, the first leg is always a market order; once executed, the second leg (the stop loss market order) is placed. The stop loss order cannot be canceled. Both orders are interconnected. The order can be modified up to the Last Traded Price (LTP) in the case of a favorable market movement.
+This is a special order type which has a market order and a stop loss market order attached to it. In this type of special order, the first leg is always a market order; once executed, the second leg (the stop loss market order) is placed. The stop loss order cannot be canceled. Both orders are interconnected. The order can be modified up to the Last Traded Price (LTP) in the case of a favorable market movement. High leverage is provided. Stop loss price can't be wider because will not allow, there is a range within which stoploss price has to entered. Leverage - Ability to take trade higher than your trading capital is provided by broker
 
-This is a special order type that has two different legs: 1st Leg: Limit Order / Market Order, 2nd Leg: Stop loss Market Order.
+This is a special order type that has two different legs: 1st Leg: Limit Order / Market Order, 2nd Leg: Stop loss limit Order.
 
 #### 5. After Market Order (AMO)
 
-AMO or After Market Order is for those people who are busy during market hours but wish to participate. You can plan your orders at leisure after researching about the markets before the market opens and place an order after the market closes.The AMO (After Market Order) timing for Cash, F&O, Currency segment is 6.30 pm to 12.00 am and 4.00 am to 9.00 am and for MCX segment is 4.00 am to 9.45 am.
+AMO or After Market Order is for those people who are busy during market hours but wish to participate. You can plan your orders at leisure after researching about the markets before the market opens and place an order after the market closes.The AMO (After Market Order) timing for Cash, F&O, Currency segment is 6.30 pm to 12.00 am and 4.00 am to 9.00 am and for MCX segment is 4.00 am to 9.45 am. The AMO timings are various to different broker. 
+![](images/amo.png)
+
+In AMO cannot place bracket, cover, sttoploss order. Placing AMO order on segments like cash, F&O, commodity also from broker to broker. 
+
+![](images/after.png)
+![](images/amoo.png)
 
 
 #### 6. Bracket Order
 
 In this order type, 3 inputs to be given. Buy price, target price, stop loss price 
-In this order type usually high leverage is provided by broker.  Leverage will vary based on the Stop loss price entered. It is usually trailing stop loss order. If u put stop loss of 3rs and if stock price goes up then stop loss position also goes up with that same difference of 3rs.  
+In this order type usually high leverage is provided by broker.  Leverage will vary based on the Stop loss price entered. It is usually trailing stop loss order. If u put stop loss of 3rs and if stock price goes up then stop loss position also goes up with that same difference of 3rs.  Stop loss price can't be wider because will not allow, there is a range within which stoploss price has to entered. For options bracket order is not allowed.
 For each executed trade brokerage is charged
 
 ![](images/BO.png) 
@@ -860,7 +866,15 @@ Trend which happens for short term like few weeks or few months or even lasts fo
 
 ### Pre-Market session
 
-Stock exchanges started the concept of pre-open session to minimize the volatility of securities during the market opening every day. Between **9:00 AM to 9:15 AM** is when the pre-market session is conducted. During the pre-market session for the first 8 minutes (between 9:00 AM and 9:08 AM) orders are collected, modified or cancelled. You can place limit orders/market orders. After 9.08 AM to 9.15 AM no new orders can be placed, orders placed are matched and trades confirmed. So technically you can place orders only for the first 8 minutes and only on equity segment.   
+Stock exchanges started the concept of pre-open session to minimize the volatility of securities during the market opening every day. Between **9:00 AM to 9:15 AM** is when the pre-market session is conducted. During the pre-market session for the first 8 minutes (between 9:00 AM and 9:08 AM) orders are collected, modified or cancelled. You can place limit orders/market orders. After 9.08 AM to 9.15 AM no new orders can be placed, orders placed are matched and trades confirmed. So technically you can place orders only for the first 8 minutes and only on equity segment.  
+
+[NSE Pre-Market Equilibrium price determination](https://www.nseindia.com/products-services/equity-market-pre-open)
+
+**Equilibrium price determination:** 
+In a call auction price mechanism, equilibrium price is determined as shown below. Assume that NSE received bids for particular stock xyz at different prices in between 9:00 am and 9:15 am. Based on the principle of demand supply mechanism, exchange will arrive at the equilibrium price – the price at which the maximum number of shares can be bought / sold. In below example, the opening price will be 105 where maximum 27,500 shares can be traded. During order matching period order modification, order cancellation, trade modification and trade cancellation is not allowed.After completion of order matching there is a silent period to facilitate the transition from pre-open session to the normal market. All outstanding orders are moved to the normal market retaining the original time stamp.
+
+![](images/pre.png)
+ 
 Regarding Execution of **AMO orders** : As soon as the market opens at 9.15am, all the AMO orders are sent by the broker end to Exchange.
 
 - Low Liquidity - Even if order is placed between 9 - 9.08am but the probablity of execution of trade is less. unless it is very active stock like reliance.  
@@ -1146,26 +1160,67 @@ Very important for making profits from a trader's perspective
 
 ![](images/rec.png)
 
+## Trade Log
+
+Keeping track of trades taken by us is called Trade Log. We can log trades and generate report which will give us good insight of how we are peforming. It brings descipline. Log using ZOHO Analytics
+
+![](images/log.png)
+![](images/suc.png)
+
+## KPI - Key Performance Indicators
+
+**Measure your trading performance**
+
+![](images/kpi.png)
+![](images/iss.png)
+
+### Success Rate
+
+Nifty success rate = > 3 points.  
+Stock success rate = > 0.2% 
+
+![](images/succe.png)
+![](images/succ.png)
+
+### Profit Rate
+
+More important, profit rate gives you how profitable you are.  
+Even if you have less success rate, if you have high profit rate then still you are on profits.
+Total profits of all trades divide by total loss in all trades
+
+![](images/profit.png)
+![](images/profi.png)
+![](images/sce.png)
+
+### Average Trades/Day
+
+Number of trades to take in a day. It is essential because more number of trades means high stress, high brokerage, gross profit or loss doesn't matter if you overtrade and it is meaningless
+
+![](images/avg.png)
+![](images/av.png)
 
 
+### Average Duration/Trade
+
+How long you are staying in the trade. Whether are you in profit or loss for what duration of the trade. Is duration is okay or causing more pressure?
+
+![](images/dur.png)
+![](images/dura.png)
 
 
+### Return on Traded Capital
 
+Measure your performance. Always use gross profit divided by total traded value. If the vaule is above 0.2% then its good.
 
+![](images/tra.png)
+![](images/trade.png)
 
+### Longs vs Shorts
 
+How many trades were taken on long side with an expectation that price will get higher and how many trades were taken on short side with an expectation that the prices will go down.
 
-
-
-
-
-
-
-
-
-
-
-
+![](images/ls.png)
+![](images/lss.png)
 
 
 
