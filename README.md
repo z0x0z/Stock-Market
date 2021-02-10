@@ -250,6 +250,8 @@ Once the stock transitions from primary markets to secondary markets, the stock 
 
 ## Stock Market - Basics
 
+![](images/io.png)
+
 **Authorized shares** - Refer to the largest number of shares that a single corporation can issue. The number of authorized shares per company is assessed at the company's creation and can only be increased or decreased through a vote by the shareholders
 
 **Treasury** - Shares hold by company itself
@@ -1221,6 +1223,57 @@ How many trades were taken on long side with an expectation that price will get 
 
 ![](images/ls.png)
 ![](images/lss.png)
+
+## Types of Charts
+
+All charts use OHLC. All charts originated from Japan. Data is same but representation is different.   
+Price action - Movement of the price with respect to time
+
+
+![](images/type.png)
+![](images/c.png)
+![](images/h.png)
+![](images/r.png)
+
+### Introduction to Candlestick Charts
+
+People often use Line chart for viweing market performance. But Traders use Candlestick charts which is the best. 4 times more info than Line chart. Candlestick charts help us to find good stop loss position.
+
+![](images/type.png)
+![](images/type.png)
+![](images/type.png)
+
+### CANDLESTICK
+
+**Benefits**   
+
+* 4x Information  
+* Dynamics of Bulls and Bears  
+* Stop loss level  
+* Intraday level
+
+![](images/be.png)
+![](images/bee.png)
+![](images/bb.png)
+![](images/b.png)
+![](images/t.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
