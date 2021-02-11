@@ -1251,12 +1251,148 @@ People often use Line chart for viweing market performance. But Traders use Cand
 * Dynamics of Bulls and Bears  
 * Stop loss level  
 * Intraday level
+* Any candlestick pattern will work only 3-4 days
 
 ![](images/be.png)
 ![](images/bee.png)
 ![](images/bb.png)
 ![](images/b.png)
 ![](images/t.png)
+
+
+### Timeframes
+
+Duration of time during a trade. A view without a time frame is meaningless
+
+
+**Importance** 
+
+* For judging momentum  
+* for judging volatility  
+* Price reaction - When the stock hits support or Resistance then how it reacts
+* For deciding stop loss
+
+![](images/ti.png)
+![](images/tii.png)
+
+### Patterns
+
+Combination of candlesticks. Two or five candlesticks form a pattern. It tells a story where it is gonna be upward or downward. There are different types of patterns. 
+
+**Types of Patterns**
+
+Conventional used in Technical analysis
+
+![](images/pat.png)
+![](images/patt.png)
+![](images/lots.png)
+
+
+### Location
+
+Where the pattern is originating. At which location the pattern is happening that is important. If a stock is already bullish and if you see hammer pattern appears then its not sense. Only if the location is right then candlestick pattern will have meaning
+
+![](images/loca.png)
+
+### Retracement
+
+Relative to a move on one side what is the move on other side. 
+
+![](images/retr.png)
+
+### Follow Through
+
+To long long position check follow through. After retracement follow through should happen orelse don't trade
+
+![](images/fo.png)
+![](images/ff.png)
+![](images/fff.png)
+
+### Doji
+
+It is a pattern where it indicates there can be a reversal fo movement
+
+![](images/doji.png)
+
+### Bullish Engulfing
+
+It is a signal that market can go up. But check location where the pattern appears. It should eat atleast one previous red candle. It is not for positional trading
+
+![](images/li.png)
+![](images/lii.png)
+
+
+### Bearish Engulfing
+
+Reversal of Bullish Engulfing. Understand Pattern. Stick to only 2 days. on second day if the sell off is high like previous day then it is a signal then can short. But exit on third or max 4th day. Because only so long pattern works.
+
+![](images/ri.png)
+![](images/rii.png)
+
+
+### Dark Cloud Cover
+
+End of bullish. It signals stock is gonna come down. Keep a look on Follow through
+
+![](images/di.png)
+![](images/dii.png)
+![](images/diii.png)
+
+### Piercing Pattern
+
+Reversal of Dark Cloud Cover. Always check location & follow through.
+
+![](images/pi.png)
+![](images/pii.png)
+
+### Hammer
+
+Indicates stock is gonna go upside. Stop loss should be less than Hammer's low. Less power than Bullish Engulfing. It's better if stock is fundamentally strong. 
+
+![](images/hi.png)
+![](images/hii.png)
+
+### Hanging Man
+
+Indicates stock is gonna go down. Less effective as compared to other patterns. Fewer occurence on Indian stock markets. 
+
+![](images/ha.png)
+![](images/haa.png)
+
+
+### Continuation Pattern - Rising Three Method
+
+Indicates stock is gonna go upside. Much applicable for Intraday
+
+![](images/ris.png)
+
+### Indicates stock is gonna go upside
+
+Reversal of Rising Three Method. 
+
+![](images/fa.png)
+
+## Heiken Ashi Chart
+
+Do not use for Intraday trading. Use for Swing or Positional trading. Works best on trending stocks
+
+![](images/ac.png)
+![](images/acc.png)
+
+## Renko Charts
+
+It is not a candlestick but it is called brick or block. It filters noise and only focus on price. Works for Intraday and Swing trade. It is non linear in time
+
+![](images/re.png)
+![](images/ree.png)
+![](images/reee.png)
+
+## 
+
+
+
+
+
 
 
 
