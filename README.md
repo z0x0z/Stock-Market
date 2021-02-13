@@ -1443,7 +1443,71 @@ After support breakout if the stock again trying to reach that support then do n
 ![](images/p2.png)
 ![](images/p3.png) 
 
-### 
+### Breakout
+
+Breaking out of range of Resistance. If Breakout happens then stock price may go up.
+
+![](images/b0.png) 
+![](images/b1.png) 
+![](images/b2.png) 
+![](images/b3.png) 
+![](images/b4.png) 
+![](images/b5.png) 
+![](images/b6.png) 
+
+### Breakdown
+
+Breaking down of range of Support. If Breakdown happens then stock price may go down.
+
+![](images/o.png) 
+![](images/o1.png) 
+![](images/o2.png) 
+![](images/o3.png) 
+![](images/o4.png) 
+![](images/o5.png) 
+![](images/o6.png) 
+![](images/o7.png) 
+
+### Correction of Price & Time
+
+When there is a trend (uptrend or Downtrend) and if consolidation happends within the trend then price correction happening within that trend is called correction of price.
+How much time taking for the consolidation to happen is called correction of time
+
+![](images/c0.png) 
+![](images/c1.png) 
+![](images/c2.png) 
+![](images/c3.png) 
+
+
+### Momentum
+
+Force (more buyers or sellers) participating in action to push or pull down the stock price. The amount of force is called momemtum. momemtum = price * volume
+
+![](images/m0.png) 
+![](images/m1.png) 
+![](images/m2.png) 
+![](images/m3.png) 
+![](images/m4.png)
+![](images/m5.png)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
