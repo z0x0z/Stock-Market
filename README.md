@@ -1387,17 +1387,63 @@ It is not a candlestick but it is called brick or block. It filters noise and on
 ![](images/ree.png)
 ![](images/reee.png)
 
-## 
+## Technical Analysis
+
+For Traders technical analysis is important. For Investors Fundamental analysis is important. 
+
+![](images/at.png)
+![](images/ta.png)
+![](images/taa.png)
+![](images/taaa.png)
+![](images/taaaa.png)
+
+### Volume
+
+When 1 Share is traded between a buyer and seller, it is counted as 1 Volume. Important for deciding whether to take or reject trades. Higher the volume then more people trading on it. Volume is a direct measure of liquidity in a stock. Trade on stocks which has higher volume. Compare present volume with previous days volume of same stock.
+
+![](images/va.png)
+![](images/v.png)
 
 
+### Supports
 
+![](images/s.png)
+![](images/sa.png)
+![](images/saa.png)
+![](images/saaa.png)
+![](images/saaaa.png)
+![](images/sq.png)
+![](images/sqq.png)
+![](images/sqqq.png)
+![](images/sqqqq.png)
+![](images/sq1.png)
 
+### Resistance
 
+![](images/hh.png)
+![](images/h1.png)
+![](images/h2.png)
+![](images/h3.png)
+![](images/h4.png)
+![](images/h5.png)
+![](images/h6.png)
+![](images/h7.png)
+![](images/h8.png)
+![](images/h9.png)
+![](images/h0.png)
 
+### Principle of Polarity
 
+It means when a Support or Resistance changes to its opposite behaviour. 
+That is, if a support is broken with conviction then in future it may become to act like a Resistance.
+After support breakout if the stock again trying to reach that support then do not buy but short, because that support may act as Resistance.
 
+![](images/p0.png)
+![](images/p1.png)
+![](images/p2.png)
+![](images/p3.png) 
 
-
+### 
 
 
 
