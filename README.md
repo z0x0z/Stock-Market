@@ -1491,22 +1491,87 @@ Force (more buyers or sellers) participating in action to push or pull down the 
 ![](images/m5.png)   
 
 
+### Range bound
+
+When the stock trade between support and resistance then it is called Range bound
+
+![](images/bb0.png) 
+![](images/bb1.png) 
+![](images/bb2.png) 
+![](images/bb3.png) 
+![](images/bb4.png) 
+![](images/bb5.png)
+![](images/bb6.png)
 
 
+### Retracement
+
+Correction in prices is called Retracement. When correction is minor then it is shallow. Shallow Retracement is an indication of strong momentum
+
+![](images/a0.png)
+![](images/a1.png)
+![](images/a2.png)
+![](images/a3.png)
+![](images/a4.png)
+![](images/a5.png)
+![](images/a6.png)
 
 
+### Consolidation
+
+Consolidation is the time during which the stock takes some rest and resumes its trend. Shallow retracement only should happen during consolidation.
+
+![](images/z0.png) 
+![](images/z1.png) 
+![](images/z2.png) 
+![](images/z3.png) 
+![](images/z4.png) 
+
+### Parabolic Move
+
+Stock moves like a parabolic. 
+
+![](images/pp0.png) 
+![](images/pp1.png) 
+![](images/pp2.png) 
+![](images/pp3.png) 
+![](images/pp4.png) 
+![](images/pp5.png)
+![](images/pp6.png) 
+ 
+### Mean Reversion
+
+Mean - Average of prices  
+The prices that deviate from the Mean are tend to revert towards the mean that is called mean reversion. 
+
+![](images/mm0.png) 
+![](images/mm1.png) 
+![](images/mm2.png) 
+
+### Follow Through
+
+![](images/f0.png)
+![](images/f1.png)
+![](images/f2.png)
+![](images/f3.png)
+![](images/f4.png)
+![](images/f5.png)
+![](images/f6.png)
+
+### Overbought
+
+Any script or index or any instrument like Gold or commodity has run up a lot. 
+Consecutive days back to back when a stock is bought is called Consecutive Gainer.
+Percentage Gainer is how much percent the stock went up. >10%
 
 
+![](images/oo2.png) 
+![](images/oo1.png) 
+![](images/oo3.png) 
+![](images/oo4.png) 
+![](images/oo5.png) 
 
-
-
-
-
-
-
-
-
-
+### 
 
 
 
