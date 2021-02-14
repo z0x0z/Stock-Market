@@ -1571,7 +1571,76 @@ Percentage Gainer is how much percent the stock went up. >10%
 ![](images/oo4.png) 
 ![](images/oo5.png) 
 
-### 
+### Oversold
+
+Reversal of Overbought. Percentage Loser is how much percent the stock went down. >10%
+
+![](images/op0.png) 
+![](images/op1.png) 
+![](images/op2.png)
+![](images/op3.png) 
+
+### V-Shaped Recovery
+
+Fall and Recovery looks like V-shape. 
+
+![](images/v0.png)
+![](images/v1.png)
+
+### Importance of Closing Price
+
+![](images/v2.png)
+![](images/v3.png)
+
+
+### Market Context
+
+* **Global Markets -** They have significant impact in our Indian market. Big institutions who invest in US, Europe, Asian markets are the same who invest in Indian Market. So if they sell & pull of their money in other markets then it is most likely to happen in our Market  
+* **FII sentiments -** They are foreign institutions investors. They are more aggressive in terms of buying & selling.  
+* **Political Uncertainity -** New Government policies might disrupt the business process and create uncertainity  
+* **Trade war -** Between countries can affect markets.  
+* **Real war -** If there is tension in Borders then market would react  
+* **Oil prices -** If oil prices goes up then market may come down   
+* **Policy Uncertainity -** Any law that affects market or market participants then can have an seeling pressure in market  
+* **SEBI -** Regulations by SEBI can lead the market to bullish or bearish
+
+![](images/un.png)
+
+
+### Charts – Arithmetic vs logarithmic
+
+Arithmetic charts - price change in numbers   
+Logarithmic charts - price change in percentage  
+
+![](images/oii.png)
+![](images/oi.png)
+
+### Tops
+
+Top is the highest price at which the stock is traded. Stock reached peak.  
+
+![](images/t0.png)
+![](images/t1.png)
+![](images/t22.png)
+![](images/t3.png)
+![](images/t4.png)
+
+
+### Bottoms
+
+Reversal of Tops. 
+
+![](images/n0.png)
+![](images/n1.png)
+![](images/n2.png)
+![](images/n3.png)
+![](images/n4.png)
+
+
+
+
+
+
 
 
 
