@@ -1637,17 +1637,41 @@ Reversal of Tops.
 ![](images/n4.png)
 
 
+### Important Points about Reversal Patterns
+
+* Need for a prior trend  
+* Breaking of important Trendlines  
+* Larger the pattern, Greater the potential - If the stock is over priced, then short position can make money   
+* Volume - Volume should be high when stock goes up and may not be high when stock comes down  
+
+![](images/yy.png)
+![](images/ii.png)
+
+### Reversal Patterns- Double Tops
+
+Basically it is Bearish pattern. Indicates stock is to go downside
+
+![](images/dd.png)
+![](images/ddd.png)
+![](images/dddd.png)
 
 
+### Reversal Patterns- Double Bottoms
 
+Basically it is Bullish pattern. Indicates stock is to go upside
 
+![](images/w.png)
+![](images/ww.png)
+![](images/www.png)
 
+### Reversal Patterns- Triple Tops & Bottoms
 
+Retracement should be less than 10%. Less frequent in Indian stock market
 
-
-
-
-
+![](images/a.png)
+![](images/aa.png)
+![](images/aaa.png)
+![](images/aaaa.png)
 
 
 
