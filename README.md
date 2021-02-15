@@ -1727,8 +1727,71 @@ It is Bearish pattern. Not for Intraday. Even if you are investor, if you see de
 
 ### Special Patterns- Dead Cat Bounce
 
+Very important, understand to stay out of that stock. Never do swing or positional trading
+
+![](images/dc1.png)
+![](images/dc2.png)
+![](images/dc3.png)
+![](images/dc4.png)
+![](images/dc5.png)
+![](images/dc6.png)
 
 
+### Special Patterns- Ascending Channel
+
+It captures uptrend pattern
+
+![](images/ac1.png)
+![](images/ac2.png)
+![](images/ac3.png)
+
+
+### Special Patterns- Descending Channel
+
+It captures downtrend pattern
+
+![](images/da1.png)
+![](images/da2.png)
+![](images/da3.png)
+
+### Special Patterns- Breakaway Gap
+
+Always use daily chart for Gap. Long term indiacation. Not for Intraday
+
+**Types of Gap:**
+
+* Breakaway Gap   
+* Runaway Gap.  
+* Exhaustion Gap   
+* Common Gap
+
+![](images/gap1.png)
+![](images/gap2.png)
+![](images/gap3.png)
+![](images/gap4.png)
+![](images/gap5.png)
+![](images/gap6.png)
+
+### Special Patterns- Runaway Gap
+
+
+![](images/gap7.png)
+![](images/gap8.png)
+![](images/gap9.png)
+
+### Special Patterns – Exhaustion Gap
+
+Not that significant. End of trend or move
+
+![](images/gap0.png)
+![](images/gap10.png)
+
+### Special Patterns – Common Gap
+
+It happens lot. Significant in Indian stock market. No reason, no trend. Nothing is meaningful in common gap. can happen in upside or downside
+
+![](images/gapq.png)
+![](images/gapw.png)
 
 
 
