@@ -1673,6 +1673,59 @@ Retracement should be less than 10%. Less frequent in Indian stock market
 ![](images/aaa.png)
 ![](images/aaaa.png)
 
+### Reversal Patterns – Head & Shoulders
+
+It is a Bearish pattern
+
+![](images/hh1.png)
+![](images/hh2.png)
+![](images/hh3.png)
+![](images/hh4.png)
+
+
+### Continuation Patterns- Descending Triangle
+
+It is Bearish pattern
+
+![](images/ds1.png)
+![](images/ds2.png)
+![](images/ds3.png)
+![](images/ds4.png)
+![](images/ds5.png)
+
+
+### Continuation Patterns- Ascending Triangle
+
+It is Bullish pattern
+
+![](images/as1.png) 
+![](images/as2.png) 
+![](images/as3.png) 
+
+
+### Continuation Patterns- Symmetrical Triangle
+
+![](images/s1.png) 
+![](images/s2.png)
+
+
+### Special Patterns- Golden Cross
+
+It is Bullish pattern. Not for Intraday.
+
+![](images/g1.png)
+![](images/g2.png)
+![](images/g3.png)
+
+### Special Patterns- Death Cross
+
+It is Bearish pattern. Not for Intraday. Even if you are investor, if you see death cross get out of stock
+
+![](images/de1.png)
+![](images/de2.png)
+![](images/de3.png)
+
+### Special Patterns- Dead Cat Bounce
 
 
 
