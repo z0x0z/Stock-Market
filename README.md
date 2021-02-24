@@ -1794,6 +1794,156 @@ It happens lot. Significant in Indian stock market. No reason, no trend. Nothing
 ![](images/gapw.png)
 
 
+## Technical Indicators
+
+### Intro
+
+![](images/in0.png)
+
+#### Why use Indicators   
+* Confirmation of a view  
+* When to exit or enter  
+* Objectivity - Decision to make to a trade
+
+
+![](images/in1.png)
+![](images/in2.png)
+![](images/in3.png)
+![](images/in4.png)
+
+### Key Technical Indicators- Moving Averages
+
+Moving average is the average close price of past n days. Can be used for Intraday, Swing and Investment.
+
+**Moving Indicator - Lagging indicator  
+MACD - Leading indicator**
+
+For trading use 10, 15, max 20 day moving average. For Investment use 200 day moving average
+
+![](images/in5.png)
+![](images/in6.png)
+![](images/in7.png)
+![](images/in8.png)
+![](images/in9.png)
+![](images/in10.png)
+![](images/in11.png)
+![](images/in12.png)
+
+### Key Technical Indicators- MACD
+
+MACD - Moving Average Convergence & Divergence. It is a leading Indicator
+
+![](images/in13.png)
+![](images/in14.png)
+![](images/in15.png)
+![](images/in16.png)
+![](images/in17.png)
+![](images/in18.png)
+![](images/in19.png)
+
+### Key Technical Indicators- Average True Range
+
+To access my risk and manage risk. It is a volatility indicator. Primarly use for nifty and bank nifty
+
+
+![](images/in20.png)
+![](images/in21.png)
+![](images/in22.png)
+![](images/in23.png)
+![](images/in24.png)
+
+### Key Technical Indicators- Bollinger Bands
+
+It is mainly dependent on price. It is a volatility indicator. May be suitable for stocks that move in a range rather than stocks that move in a trend. For trending stocks use moving average
+
+![](images/in25.png)
+![](images/in26.png)
+![](images/in27.png)
+![](images/in28.png)
+
+
+### Key Technical Indicators- Fibonacci Retracement
+
+Not effective for Intraday charts. But effective for daily charts 
+
+![](images/in29.png)
+![](images/in30.png)
+![](images/in31.png)
+![](images/in32.png)
+
+### Key Technical Indicators - Advance Decline Ratio
+
+Tells us about what the market sentiment is. Primarly for Intraday trading. Can view in  [traderscockpit.com](http://www.traderscockpit.com/?pageView=live-nse-advance-decline-ratio-chart)
+
+Advance decline Ratio = Advances / Declines
+
+![](images/in33.png)
+![](images/in34.png)
+![](images/in35.png)
+
+### Key Technical Indicators- Volume Chart
+
+For Swing and Positional trading. Breakouts may or may not happen with huge volume. If breakouts happen with huge volume then it is indication of strong momentum on breakout side
+
+![](images/in36.png)
+
+
+### Timeless Principles
+
+It exists for about a century now. Very true. 
+
+![](images/in37.png)
+![](images/in38.png)
+![](images/in39.png)
+![](images/in40.png)
+![](images/in41.png)
+![](images/in42.png)
+![](images/in43.png)
+![](images/in44.png)
+![](images/in45.png)
+![](images/in46.png)
+![](images/in47.png)
+![](images/in48.png)
+![](images/in49.png)
+![](images/in50.png)
+![](images/in51.png)
+![](images/in52.png)
+![](images/in53.png)
+![](images/in54.png)
+
+### Common mistakes using Technical Indicators
+
+![](images/in55.png)
+![](images/in56.png)
+![](images/in57.png)
+![](images/in58.png)
+![](images/in59.png)
+![](images/in60.png)
+![](images/in61.png)
+![](images/in62.png)
+![](images/in63.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
