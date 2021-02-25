@@ -1924,7 +1924,18 @@ It exists for about a century now. Very true.
 ![](images/in63.png)
 
 
+### Common Mistakes during Technical Analysis
 
+![](images/in64.png)
+![](images/in65.png)
+![](images/in66.png)
+![](images/in67.png)
+![](images/in68.png)
+![](images/in69.png)
+![](images/in70.png)
+![](images/in71.png)
+![](images/in72.png)
+![](images/in73.png)
 
 
 
