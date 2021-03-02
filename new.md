@@ -47,10 +47,44 @@ Unreliable Internet, Power disruptions, Computer risk
 ![](images/ri22.png)
 ![](images/ri23.png)
 
+### Position Sizing
 
+![](images/ri24.png)
+![](images/ri25.png)
+![](images/ri26.png)
+![](images/ri27.png)
+![](images/ri28.png)
 
+### Position Sizing Rules – Cash Segment
 
+**Position size (Quantity) = loss than I can bear / SL ( bought price - max stoploss price )**
 
+![](images/ri29.png)
+![](images/ri30.png)
+![](images/ri31.png)
+![](images/ri32.png)
+![](images/ri33.png)
+
+### RISKS
+
+![](images/ri34.png)
+![](images/ri35.png)
+![](images/ri36.png)
+![](images/ri37.png)
+![](images/ri38.png)
+![](images/ri39.png)
+![](images/ri40.png)
+![](images/ri41.png)
+![](images/ri42.png)
+![](images/ri43.png)
+![](images/ri44.png)
+![](images/ri45.png)
+![](images/ri46.png)
+![](images/ri47.png)
+![](images/ri48.png)
+![](images/ri49.png)
+![](images/ri50.png)
+![](images/ri51.png)
 
 
 
