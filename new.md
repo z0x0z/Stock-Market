@@ -86,10 +86,39 @@ Unreliable Internet, Power disruptions, Computer risk
 ![](images/ri50.png)
 ![](images/ri51.png)
 
+## TRADING PSYCHOLOGY
+### Destructive Mindsets
 
+![](images/ri52.png)
+![](images/ri53.png)
+![](images/ri54.png)
+![](images/ri55.png)
+![](images/ri56.png)
+![](images/ri57.png)
+![](images/ri58.png)
+![](images/ri59.png)
+![](images/ri60.png)
+![](images/ri61.png)
+![](images/ri62.png)
+![](images/ri63.png)
+![](images/ri64.png)
+![](images/ri65.png)
+![](images/ri66.png)
+![](images/ri67.png)
+![](images/ri68.png)
+![](images/ri69.png)
+![](images/ri70.png)
+![](images/ri71.png)
+![](images/ri72.png)
+![](images/ri73.png)
 
-
-
+![](images/ri74.png)
+![](images/ri75.png)
+![](images/ri76.png)
+![](images/ri77.png)
+![](images/ri78.png)
+![](images/ri79.png)
+![](images/ri80.png)
 
 
 
