@@ -86,8 +86,11 @@ Unreliable Internet, Power disruptions, Computer risk
 ![](images/ri50.png)
 ![](images/ri51.png)
 
-## TRADING PSYCHOLOGY
-### Destructive Mindsets
+# TRADING PSYCHOLOGY
+
+#### TRADING PSYCHOLOGY is not just about how you trade... It's also about how you grow as a trader
+
+## Destructive Mindsets
 
 ![](images/ri52.png)
 ![](images/ri53.png)
@@ -111,7 +114,6 @@ Unreliable Internet, Power disruptions, Computer risk
 ![](images/ri71.png)
 ![](images/ri72.png)
 ![](images/ri73.png)
-
 ![](images/ri74.png)
 ![](images/ri75.png)
 ![](images/ri76.png)
@@ -119,7 +121,29 @@ Unreliable Internet, Power disruptions, Computer risk
 ![](images/ri78.png)
 ![](images/ri79.png)
 ![](images/ri80.png)
+![](images/ri81.png)
+![](images/ri82.png)
 
+## Winner’s Mindset
+
+![](images/ri83.png)
+![](images/ri84.png)
+![](images/ri85.png)
+![](images/ri86.png)
+![](images/ri87.png)
+![](images/ri88.png)
+![](images/ri89.png)
+![](images/ri90.png)
+![](images/ri91.png)
+![](images/ri92.png)
+![](images/ri93.png)
+![](images/ri94.png)
+
+![](images/ri95.png)
+![](images/ri96.png)
+![](images/ri97.png)
+![](images/ri98.png)
+![](images/ri99.png)
 
 
 
