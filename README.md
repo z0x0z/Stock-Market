@@ -1098,6 +1098,33 @@ Volatility is low
 
 ![](images/sgx.png)
 
+## Upper and Lower Circuit Limits
+
+Upper & lower circuit limits are decided by stock exchange **everyday**. So limits differ everyday. When limits are hit trading is halted for the current day and price cannot cross the limits.
+
+![](images/u.png)
+![](images/u1.png)
+![](images/u2.png)
+
+Circuits limits are in place to prevent huge price movements. Stop volatility at higher range. Stop execessive speculation and stop manipulation
+
+![](images/u3.png)
+![](images/u4.png)
+![](images/u5.png)
+
+For F&O stocks, there is no exact circuit limit. But price band is defined so when the stock hits price band then trading is paused for few mins and then resumes. So F&O stocks can have price changes to any percentage
+
+![](images/u6.png)
+![](images/u7.png)
+
+### Market Wide
+
+Applicable to NIFTY and SENSEX indices. If index hits ciruit limits then below rules are applied.
+
+![](images/u8.png)
+
+**On Lisitng of IPO, there is no circuit limits. After lisiting day ciruits limits are placed by stock exchanges**
+
 ## Shorting
 
 * Sell first, Buy later.  
@@ -1943,6 +1970,164 @@ It exists for about a century now. Very true.
 ![](images/in72.png)
 ![](images/in73.png)
 
+
+## Risk Management
+
+### Introduction
+
+![](images/ri0.png)
+![](images/ri1.png)
+![](images/ri2.png)
+![](images/ri3.png)
+![](images/ri4.png)
+![](images/ri5.png)
+
+### Market Risks
+
+![](images/ri6.png)
+
+### System Risks
+
+Unreliable Internet, Power disruptions, Computer risk
+
+![](images/ri7.png)
+
+### Human Risk
+
+![](images/ri8.png)
+![](images/ri8.png)
+![](images/ri10.png)
+
+### Risk Management Approaches
+
+![](images/ri11.png)
+![](images/ri12.png)
+![](images/ri13.png)
+![](images/ri14.png)
+![](images/ri15.png)
+![](images/ri16.png)
+![](images/ri17.png)
+
+### Risk Profile of Instruments
+
+![](images/ri18.png)
+![](images/ri19.png)
+![](images/ri20.png)
+
+### Risk Profile of Stocks
+
+![](images/ri21.png)
+![](images/ri22.png)
+![](images/ri23.png)
+
+### Position Sizing
+
+![](images/ri24.png)
+![](images/ri25.png)
+![](images/ri26.png)
+![](images/ri27.png)
+![](images/ri28.png)
+
+### Position Sizing Rules – Cash Segment
+
+**Position size (Quantity) = loss than I can bear / SL ( bought price - max stoploss price )**
+
+![](images/ri29.png)
+![](images/ri30.png)
+![](images/ri31.png)
+![](images/ri32.png)
+![](images/ri33.png)
+
+### RISKS
+
+![](images/ri34.png)
+![](images/ri35.png)
+![](images/ri36.png)
+![](images/ri37.png)
+![](images/ri38.png)
+![](images/ri39.png)
+![](images/ri40.png)
+![](images/ri41.png)
+![](images/ri42.png)
+![](images/ri43.png)
+![](images/ri44.png)
+![](images/ri45.png)
+![](images/ri46.png)
+![](images/ri47.png)
+![](images/ri48.png)
+![](images/ri49.png)
+![](images/ri50.png)
+![](images/ri51.png)
+
+# TRADING PSYCHOLOGY
+
+#### TRADING PSYCHOLOGY is not just about how you trade... It's also about how you grow as a trader
+
+## Destructive Mindsets
+
+![](images/ri52.png)
+![](images/ri53.png)
+![](images/ri54.png)
+![](images/ri55.png)
+![](images/ri56.png)
+![](images/ri57.png)
+![](images/ri58.png)
+![](images/ri59.png)
+![](images/ri60.png)
+![](images/ri61.png)
+![](images/ri62.png)
+![](images/ri63.png)
+![](images/ri64.png)
+![](images/ri65.png)
+![](images/ri66.png)
+![](images/ri67.png)
+![](images/ri68.png)
+![](images/ri69.png)
+![](images/ri70.png)
+![](images/ri71.png)
+![](images/ri72.png)
+![](images/ri73.png)
+![](images/ri74.png)
+![](images/ri75.png)
+![](images/ri76.png)
+![](images/ri77.png)
+![](images/ri78.png)
+![](images/ri79.png)
+![](images/ri80.png)
+![](images/ri81.png)
+![](images/ri82.png)
+
+## Winner’s Mindset
+
+![](images/ri83.png)
+![](images/ri84.png)
+![](images/ri85.png)
+![](images/ri86.png)
+![](images/ri87.png)
+![](images/ri88.png)
+![](images/ri89.png)
+![](images/ri90.png)
+![](images/ri91.png)
+![](images/ri92.png)
+![](images/ri93.png)
+![](images/ri94.png)
+![](images/ri95.png)
+![](images/ri96.png)
+![](images/ri97.png)
+![](images/ri98.png)
+![](images/ri99.png)
+![](images/ri100.png)
+![](images/ri101.png)
+![](images/ri102.png)
+![](images/ri103.png)
+![](images/ri104.png)
+![](images/ri105.png)
+![](images/ri106.png)
+![](images/ri107.png)
+![](images/ri108.png)
+![](images/ri109.png)
+![](images/ri110.png)
+![](images/ri111.png)
 
 
 
