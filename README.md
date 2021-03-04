@@ -1,4 +1,4 @@
-# A Cheatsheet on Indian Stock Market
+# A Cheatsheet on Indian Stock Market - By Gopikrishna :nerd_face:
 
 ## Why to Invest
 
