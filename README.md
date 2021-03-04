@@ -1,4 +1,4 @@
-# STOCK MARKET
+# STOCK MARKET - A cheatsheet on Indian Stock Market
 
 ## Why to Invest
 
