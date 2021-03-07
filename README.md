@@ -1,6 +1,6 @@
 # A Cheatsheet on Indian Stock Market - By Gopikrishna &#128526;
 
-## Why to Invest
+## Why to Invest?
 
 1. **Fight Inflation** – By investing one can deal better with the inevitable – growing cost of living – generally referred to as Inflation
 2. **Create Wealth** – By investing, one can aim to have a better corpus by the end of the defined time period. In the above example, the time period was up to retirement, but it can be anything – children’s education, marriage, house purchase, retirement holidays, etc
