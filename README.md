@@ -342,6 +342,7 @@ Senstive Index (SENSEX) consitutes of ***30 companies*** from different sectors
 The major sectors are IT tech, Energy, Banks, Automobile, Pharma
 
 ![](images/indices.png)
+![](images/nif.png)
 
 ### Practical uses of the Index
 
@@ -1464,6 +1465,7 @@ When 1 Share is traded between a buyer and seller, it is counted as 1 Volume. Im
 ![](images/h8.png)
 ![](images/h9.png)
 ![](images/h0.png)
+![](images/h10.png)
 
 ### Principle of Polarity
 
