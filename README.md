@@ -1627,6 +1627,20 @@ Fall and Recovery looks like V-shape.
 ![](images/v2.png)
 ![](images/v3.png)
 
+### Closing Price vs Last Traded Price
+
+Both are different. LTP is the price at which the stock traded last i.e at 3pm-29min-59sec (3.29.59). Closing price is the avergae of last 30 min i.e from 3pm to 3.30pm. Closing price is calculated by Stock Exchange at 3.30-3.40pm. It is done to prevent last minute high movement of stocks, so that the stock price is increased and open at high price next day.   
+Closing price is seen on daily charts and that is very important than LTP
+
+![](images/cp1.png)
+![](images/cp2.png)
+![](images/cp3.png)
+![](images/cp4.png)
+![](images/cp5.png)
+
+So, if you see your profits at 3.30pm it would be big but after 3.40pm when after closing price is calculated it would have reduced.
+
+![](images/cp6.png)
 
 ### Market Context
 
