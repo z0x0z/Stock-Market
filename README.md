@@ -2145,6 +2145,15 @@ Unreliable Internet, Power disruptions, Computer risk
 ![](images/ri110.png)
 ![](images/ri111.png)
 
+### Summary
+
+![](images/gk0.png)
+![](images/gk1.png)
+![](images/gk2.png)
+![](images/gk3.png)
+![](images/gk4.png)
+![](images/gk5.png)
+
 ## FUNDAMENTAL ANALYSIS FOR TRADERS
 
 For Investors FA is the bedrock. Very important for them to invest their money into any company.  
