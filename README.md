@@ -2362,6 +2362,11 @@ For ex. NIFTY MAR FUT price is derived from NIFTY
 ### Futures vs Cash
 
 ![](images/fu24.png)
+![](images/ffu25.png)
+![](images/ffu26.png)
+![](images/ffu27.png)
+![](images/ffu28.png)
+![](images/ffu29.png)
 
 ### Core Concept - Underlying
 
