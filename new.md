@@ -108,13 +108,77 @@ The only difference between the view of Insurance as Options is that,
 
 ### Options can be traded
 
+Anytime you can exit the trade. 
+
 ![](images/po57.png)
 ![](images/po58.png)
 ![](images/po59.png)
+![](images/po60.png)
+![](images/po61.png)
+![](images/po62.png)
 
+### Types of Forecast in Options
 
+![](images/po63.png)
+![](images/po64.png)
+![](images/po65.png)
+![](images/po66.png)
 
+### Types of Options
 
+![](images/po67.png)
+![](images/po68.png)
+![](images/po69.png)
+![](images/po75.png)
+![](images/po70.png)
+![](images/po71.png)
+![](images/po72.png)
+![](images/po73.png)
+![](images/po74.png)
+
+### American vs European options
+
+Its not that American style options are only traded in America and Europeon style options are traded only in Europe.  
+But in fact, in America lot of contracts are traded in Europeon style and in Europe lot of contracts are traded in American style.  
+These names had been given because they imply certain type of settlement
+
+![](images/po76.png)
+![](images/po77.png)
+![](images/po78.png)
+![](images/po79.png)
+![](images/po80.png)
+
+### Options Terminology - ITM, ATM & OTM
+
+![](images/po81.png)
+![](images/po82.png)
+![](images/po83.png)
+![](images/po84.png)
+![](images/po85.png)
+
+**For both CALL & PUT options,  
+yellow - In the money  
+White - Out of Money**  
+
+Check the spot price in cash market of that stock or Index to find whether it is ITM, ATM & OTM
+
+![](images/po86.png)
+![](images/po87.png)
+![](images/po88.png)
+![](images/po89.png)
+![](images/po90.png)
+
+### Intrinsic & Extrinsic Values
+
+![](images/po91.png)
+![](images/po92.png)
+![](images/po93.png)
+![](images/po94.png)
+![](images/po95.png)
+![](images/po96.png)
+![](images/po97.png)
+![](images/po98.png)
+![](images/po99.png)
 
 
 
