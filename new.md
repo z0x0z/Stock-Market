@@ -170,6 +170,9 @@ Check the spot price in cash market of that stock or Index to find whether it is
 
 ### Intrinsic & Extrinsic Values
 
+**Option price = Intrinsic value + Extrinsic Value**  
+Values cannot be in negative
+
 ![](images/po91.png)
 ![](images/po92.png)
 ![](images/po93.png)
@@ -179,6 +182,8 @@ Check the spot price in cash market of that stock or Index to find whether it is
 ![](images/po97.png)
 ![](images/po98.png)
 ![](images/po99.png)
+
+
 
 
 
