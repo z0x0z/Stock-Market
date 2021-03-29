@@ -183,9 +183,91 @@ Values cannot be in negative
 ![](images/po98.png)
 ![](images/po99.png)
 
+### Option chain
 
+[https://www.nseindia.com/option-chain](https://www.nseindia.com/option-chain)
 
+![](images/po100.png)
+![](images/po101.png)
+![](images/po102.png)
 
+### Liquidity in Options
+
+![](images/po103.png)
+![](images/po104.png)
+
+Impact cost is the cost of expense for entering and exiting the trade. Higher the impact cost is bad.  
+Low liquidity and wider spreads lead to huge impact cost 
+
+Impact cost for BANKNIFTY = (Ask price - Bid price) * lot size  
+= (272 - 268.80) * 25  
+= 3.20 * 25  
+= 80
+
+![](images/po105.png)
+
+Impact cost for TCS = (Ask price - Bid price) * lot size  
+= (232 - 144) * 300  
+= 88 * 300  
+= 26400
+		   
+![](images/po106.png)
+
+### Options make crazy moves!
+
+Never see options charts for taking trade. Always check underlying asset chart and take decision.  
+All the technical analysis won't work on options chart.
+
+For ex. to take trade on NIFTY options, just check NIFTY chart
+
+![](images/po107.png)
+![](images/po108.png)
+![](images/po109.png)
+
+### Can stop loss be placed on option trades?
+
+![](images/po110.png)
+
+### When can we exit an Options trade?
+
+![](images/po111.png)
+![](images/po112.png)
+![](images/po113.png)
+![](images/po114.png)
+![](images/po115.png)
+![](images/po116.png)
+
+### Analysis based on Expiration and Before
+
+It is not that the underlying must reach the option strike price for you to make money. It's not. Treat options like stocks before expiry.  
+Buy low, Sell high or Sell high, Buy low
+
+Upon expiry, option price should reach (strike price + premium paid) to gain profit
+
+![](images/po117.png)
+![](images/po118.png)
+![](images/po119.png)
+![](images/po120.png)
+
+### Margin requirements for buying and selling options
+
+No leverage is provided by almost any broker in India for Buying options because the contract value is itself very less  
+Huge margin is required to SELL options because of high risk  
+In case of Selling options the margin requirement is just as same as of Futures  
+Leverage is provided only for selling options on Intraday
+
+![](images/po121.png)
+![](images/po122.png)
+![](images/po124.png)
+![](images/po123.png)
+
+### Buying Options vs Selling Options
+
+![](images/po125.png)
+![](images/po126.png)
+![](images/po127.png)
+![](images/po128.png)
+![](images/po129.png)
 
 
 
