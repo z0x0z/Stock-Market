@@ -266,7 +266,13 @@ Leverage is provided only for selling options on Intraday
 ![](images/po125.png)
 ![](images/po126.png)
 ![](images/po127.png)
+
+### Scripts for Options
+
 ![](images/po128.png)
+
+### Introduction to Options Pricing
+
 ![](images/po129.png)
 
 
