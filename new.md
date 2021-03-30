@@ -294,7 +294,8 @@ Mostly Black Scholes Model is used for calculating Implied Volatility
 
 ### Introduction to Delta
 
-For ITM delta will be closer to 1, for OTM delta will be closer to 0
+For ITM call option delta will be closer to 1, for OTM call option delta will be closer to 0  
+For ITM put option delta will be closer to -1, for OTM call option delta will be closer to 0
 
 ![](images/po149.png)
 ![](images/po141.png)
@@ -315,11 +316,25 @@ For ITM delta will be closer to 1, for OTM delta will be closer to 0
 ![](images/po154.png)
 ![](images/po155.png)
 ![](images/po156.png)
-![](images/po157.png)
 ![](images/po158.png)
 ![](images/po159.png)
 ![](images/po160.png)
+![](images/po161.png)
+![](images/po162.png)
+![](images/po163.png)
 
+### Additive(+) nature of Delta
+
+![](images/po164.png)
+![](images/po165.png)
+![](images/po166.png)
+![](images/po167.png)
+
+### Gamma
+
+![](images/po168.png)
+![](images/po169.png)
+![](images/po170.png)
 
 
 
