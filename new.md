@@ -275,12 +275,50 @@ Leverage is provided only for selling options on Intraday
 
 ![](images/po129.png)
 
+### Black Scholes Model
 
+It works only for European style Options but not for American style Options.   
+Mostly Black Scholes Model is used for calculating Implied Volatility
 
+![](images/po130.png)
+![](images/po131.png)
+![](images/po132.png)
+![](images/po133.png)
+![](images/po134.png)
+![](images/po135.png)
+![](images/po136.png)
+![](images/po137.png)
+![](images/po138.png)
+![](images/po139.png)
+![](images/po140.png)
 
+### Introduction to Delta
 
+For ITM delta will be closer to 1, for OTM delta will be closer to 0
 
+![](images/po149.png)
+![](images/po141.png)
+![](images/po142.png)
+![](images/po143.png)
+![](images/po144.png)
+![](images/po145.png)
+![](images/po146.png)
+![](images/po147.png)
+![](images/po148.png)
 
+### Delta for ATM, ITM & OTM
+
+![](images/po150.png)
+![](images/po151.png)
+![](images/po152.png)
+![](images/po153.png)
+![](images/po154.png)
+![](images/po155.png)
+![](images/po156.png)
+![](images/po157.png)
+![](images/po158.png)
+![](images/po159.png)
+![](images/po160.png)
 
 
 
