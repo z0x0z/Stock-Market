@@ -332,11 +332,49 @@ For ITM put option delta will be closer to -1, for OTM call option delta will be
 
 ### Gamma
 
+Gamma should go up for lf u buy options (long position) and Gamma should go down for sell options (short position)
+
 ![](images/po168.png)
 ![](images/po169.png)
 ![](images/po170.png)
 
+### Theta
 
+![](images/po185.png)
+![](images/po171.png)
+![](images/po172.png)
+![](images/po174.png)
+![](images/po175.png)
+![](images/po176.png)
+![](images/po177.png)
+![](images/po178.png)
+![](images/po179.png)
+![](images/po180.png)
+![](images/po181.png)
+![](images/po182.png)
+![](images/po183.png)
+![](images/po184.png)
+
+### Vega
+
+![](images/po186.png)
+![](images/po187.png)
+![](images/po188.png)
+![](images/po189.png)
+![](images/po190.png)
+![](images/po191.png)
+![](images/po192.png)
+![](images/po193.png)
+![](images/po194.png)
+![](images/po195.png)
+![](images/po196.png)
+![](images/po197.png)
+![](images/po198.png)
+![](images/po199.png)
+
+### Rho
+
+![](images/po200.png)
 
 
 
