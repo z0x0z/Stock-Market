@@ -1,5 +1,5 @@
-## OPTIONS
-
+# OPTIONS
+## OPTIONS - BASICS
 ### Introduction
 
 NSE introduced Futures contract in year 2000 & Options contract in year 2001.  
@@ -58,6 +58,7 @@ The only difference between the view of Insurance as Options is that,
 ![](images/po28.png)
 ![](images/po29.png)
 
+## OPTIONS - CHARACTERISTICS
 ### Options – Underlying
 
 ![](images/po30.png)
@@ -183,6 +184,7 @@ Values cannot be in negative
 ![](images/po98.png)
 ![](images/po99.png)
 
+## OPTIONS IN REAL LIFE
 ### Option chain
 
 [https://www.nseindia.com/option-chain](https://www.nseindia.com/option-chain)
@@ -271,6 +273,7 @@ Leverage is provided only for selling options on Intraday
 
 ![](images/po128.png)
 
+## OPTIONS - PRICING
 ### Introduction to Options Pricing
 
 ![](images/po129.png)
