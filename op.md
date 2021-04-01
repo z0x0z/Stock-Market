@@ -84,6 +84,8 @@ If market goes up buy CALL options, if market goes down buy PUT options
 ## OPTIONS - TOOLS
 ### Sensibull
 
+[https://web.sensibull.com/trade-options](https://web.sensibull.com/trade-options)
+
 ![](images/po225.png)
 ![](images/po226.png)
 ![](images/po227.png)
@@ -91,6 +93,26 @@ If market goes up buy CALL options, if market goes down buy PUT options
 ![](images/po229.png)
 ![](images/po230.png)
 ![](images/po231.png)
+![](images/po232.png)
+![](images/po233.png)
+![](images/po234.png)
+
+### Options Opstra
+
+[https://opstra.definedge.com/strategy-builder](https://opstra.definedge.com/strategy-builder)  
+Beginners should start here
+
+![](images/po235.png)
+
+## OPTION MISTAKES
+### All mistakes
+
+![](images/po236.png)
+![](images/po237.png)
+![](images/po238.png)
+![](images/po239.png)
+![](images/po240.png)
+
 
 
 
