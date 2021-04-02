@@ -140,10 +140,15 @@ Beginners should start here
 ![](images/po260.png)
 ![](images/po261.png)
 
-### Introduction to Strategies
+## Introduction to OPTION Strategies
+
+Volatile Strategies also known as non-directional strategies
 
 ![](images/po262.png)
 ![](images/po263.png)
+
+### OPTIONS - DIRECTIONAL STRATEGIES
+
 ![](images/po264.png)
 ![](images/po265.png)
 ![](images/po266.png)
