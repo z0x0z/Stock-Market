@@ -112,11 +112,45 @@ Beginners should start here
 ![](images/po238.png)
 ![](images/po239.png)
 ![](images/po240.png)
+![](images/po241.png)
+![](images/po242.png)
+![](images/po243.png)
+![](images/po244.png)
+![](images/po245.png)
+![](images/po246.png)
+![](images/po247.png)
+![](images/po248.png)
+![](images/po249.png)
+![](images/po250.png)
+![](images/po251.png)
+![](images/po252.png)
+![](images/po253.png)
+![](images/po254.png)
+![](images/po255.png)
+![](images/po256.png)
+![](images/po257.png)
 
+### Bank Nifty example- no hedging, deep ITM shorted
 
+![](images/po258.png)
 
+### Options Intraday 5 Lakhs Loss
 
+![](images/po259.png)
+![](images/po260.png)
+![](images/po261.png)
 
+### Introduction to Strategies
+
+![](images/po262.png)
+![](images/po263.png)
+![](images/po264.png)
+![](images/po265.png)
+![](images/po266.png)
+![](images/po267.png)
+![](images/po268.png)
+![](images/po269.png)
+![](images/po270.png)
 
 
 
