@@ -246,14 +246,56 @@ So, if the underlying stock price goes down then the PUT option price goes up**
 ![](images/po335.png)
 ![](images/po337.png)
 
+### Bull Call Spread
 
 ![](images/po338.png)
 ![](images/po339.png)
+![](images/po340.png)
+![](images/po341.png)
+![](images/po342.png)
+![](images/po343.png)
+![](images/po344.png)
+![](images/po345.png)
+![](images/po346.png)
+![](images/po347.png)
+![](images/po348.png)
+![](images/po349.png)
+![](images/po350.png)
+![](images/po351.png)
+![](images/po352.png)
+![](images/po353.png)
 
+### Bear Put Spread
 
+![](images/po354.png)
+![](images/po355.png)
+![](images/po356.png)
+![](images/po357.png)
+![](images/po358.png)
+![](images/po359.png)
+![](images/po360.png)
+![](images/po361.png)
+![](images/po362.png)
+![](images/po363.png)
+![](images/po364.png)
+![](images/po365.png)
+![](images/po366.png)
+![](images/po367.png)
+![](images/po368.png)
+![](images/po369.png)
+![](images/po370.png)
+![](images/po371.png)
+![](images/po372.png)
 
+### Motherson Sumi example
 
-
+![](images/po373.png)
+![](images/po374.png)
+![](images/po375.png)
+![](images/po376.png)
+![](images/po377.png)
+![](images/po378.png)
+![](images/po379.png)
 
 
 
