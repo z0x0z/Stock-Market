@@ -147,7 +147,9 @@ Volatile Strategies also known as non-directional strategies
 ![](images/po262.png)
 ![](images/po263.png)
 
-### OPTIONS - DIRECTIONAL STRATEGIES
+## OPTIONS - DIRECTIONAL STRATEGIES
+
+### Buying Call Options
 
 ![](images/po264.png)
 ![](images/po265.png)
@@ -156,8 +158,39 @@ Volatile Strategies also known as non-directional strategies
 ![](images/po268.png)
 ![](images/po269.png)
 ![](images/po270.png)
+![](images/po271.png)
+![](images/po272.png)
+![](images/po273.png)
+![](images/po274.png)
+![](images/po275.png)
+![](images/po276.png)
+![](images/po277.png)
+![](images/po278.png)
+![](images/po279.png)
+![](images/po280.png)
+![](images/po281.png)
+![](images/po282.png)
+![](images/po283.png)
+![](images/po284.png)
+![](images/po285.png)
+![](images/po286.png)
 
+### Buying Put Options
 
+![](images/po287.png)
+![](images/po288.png)
+![](images/po289.png)
+![](images/po290.png)
+![](images/po291.png)
+![](images/po292.png)
+![](images/po293.png)
+![](images/po294.png)
+![](images/po295.png)
+![](images/po296.png)
+![](images/po297.png)
+![](images/po298.png)
+![](images/po299.png)
+![](images/po300.png)
 
 
 
