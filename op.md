@@ -178,10 +178,17 @@ Volatile Strategies also known as non-directional strategies
 ### Buying Put Options
 
 ![](images/po287.png)
+![](images/po265.png)
 ![](images/po288.png)
+![](images/po268.png)
 ![](images/po289.png)
 ![](images/po290.png)
+
+**The PUT option price is inversly proportional to the Underlying price.  
+So, if the underlying stock price goes down then the PUT option price goes up**
+
 ![](images/po291.png)
+![](images/po271.png)
 ![](images/po292.png)
 ![](images/po293.png)
 ![](images/po294.png)
@@ -191,11 +198,57 @@ Volatile Strategies also known as non-directional strategies
 ![](images/po298.png)
 ![](images/po299.png)
 ![](images/po300.png)
+![](images/po301.png)
+![](images/po302.png)
+
+### Shorting Call Options
+
+![](images/po303.png)
+![](images/po304.png)
+![](images/po268.png)
+![](images/po305.png)
+![](images/po271.png)
+![](images/po306.png)
+![](images/po307.png)
+![](images/po308.png)
+![](images/po309.png)
+![](images/po310.png)
+![](images/po311.png)
+![](images/po312.png)
+![](images/po313.png)
+![](images/po314.png)
+![](images/po315.png)
+![](images/po316.png)
+![](images/po317.png)
+![](images/po318.png)
+![](images/po319.png)
+
+### Shorting Put Options
+
+![](images/po320.png)
+![](images/po321.png)
+![](images/po322.png)
+![](images/po268.png)
+![](images/po323.png)
+![](images/po271.png)
+![](images/po324.png)
+![](images/po325.png)
+![](images/po326.png)
+![](images/po327.png)
+![](images/po328.png)
+![](images/po329.png)
+![](images/po330.png)
+![](images/po331.png)
+![](images/po332.png)
+![](images/po333.png)
+![](images/po334.png)
+![](images/po336.png)
+![](images/po335.png)
+![](images/po337.png)
 
 
-
-
-
+![](images/po338.png)
+![](images/po339.png)
 
 
 
