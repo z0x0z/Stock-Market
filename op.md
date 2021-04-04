@@ -140,7 +140,7 @@ Beginners should start here
 ![](images/po260.png)
 ![](images/po261.png)
 
-## Introduction to OPTION Strategies
+# Introduction to OPTIONS Strategies
 
 Volatile Strategies also known as non-directional strategies
 
@@ -287,20 +287,37 @@ So, if the underlying stock price goes down then the PUT option price goes up**
 ![](images/po371.png)
 ![](images/po372.png)
 
-### Motherson Sumi example
+### BANK NIFTY example
+
+After a big rally of BNF on April 1st, I feel there will be consolidation or retracement on April 5.  
+Hence my view is Bearish. Therefore deploying 3 Bearish strategies to find out which one works the best to give good returns.    
+So if my view is correct I'll end up in profits and if my view is wrong then should end up in limited loss, so let's find out below.
 
 ![](images/po373.png)
 ![](images/po374.png)
+![](images/po377.png)
 ![](images/po375.png)
 ![](images/po376.png)
-![](images/po377.png)
 ![](images/po378.png)
 ![](images/po379.png)
+![](images/po380.png)
 
+### Pros and Cons of Spreads
 
+![](images/po381.png)
 
+## OPTIONS - VOLATILE STRATEGIES
 
+### Long Straddle
 
+![](images/po382.png)
+![](images/po383.png)
+![](images/po384.png)
+![](images/po385.png)
+![](images/po386.png)
+![](images/po387.png)
+![](images/po388.png)
+![](images/po389.png)
 
 
 
