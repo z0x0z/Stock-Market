@@ -320,6 +320,8 @@ As expected, the market was slight bullish during day and at end of day it went 
 
 ## OPTIONS - VOLATILE STRATEGIES
 
+**Delta Neutral strategies are Straddles & Strangles. Because delta has no impact on it.** 
+
 ### Long Straddle
 
 ![](images/po384.png)
@@ -351,6 +353,21 @@ As expected, the market was slight bullish during day and at end of day it went 
 ![](images/po407.png)
 ![](images/po408.png)
 ![](images/po409.png)
+![](images/po410.png)
+![](images/po411.png)
+![](images/po412.png)
+![](images/po395.png)
+![](images/po413.png)
+![](images/po414.png)
+![](images/po415.png)
+![](images/po416.png)
+![](images/po399.png)
+![](images/po400.png)
+![](images/po417.png)
+![](images/po418.png)
+![](images/po419.png)
+
+### Short Straddle
 
 
 
