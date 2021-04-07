@@ -298,9 +298,21 @@ So if my view is correct I'll end up in profits and if my view is wrong then sho
 ![](images/po377.png)
 ![](images/po375.png)
 ![](images/po376.png)
+
+My view was correct but not exactly! I thought it will be Bearish, but what happened was Very Bearish.  
+Find the results of my strategies below,
+
 ![](images/po378.png)
 ![](images/po379.png)
+
+So for next day, As Market sentiment is bearish due to increase in Corona cases and likelihood to put lockdown, my view is bearish or may be slight bullish..  So find my strategies below,
+
 ![](images/po380.png)
+
+As expected, the market was slight bullish during day and at end of day it went slight bearish. Let's see the results
+
+![](images/po382.png)
+![](images/po383.png)
 
 ### Pros and Cons of Spreads
 
@@ -310,14 +322,35 @@ So if my view is correct I'll end up in profits and if my view is wrong then sho
 
 ### Long Straddle
 
-![](images/po382.png)
-![](images/po383.png)
 ![](images/po384.png)
 ![](images/po385.png)
 ![](images/po386.png)
 ![](images/po387.png)
 ![](images/po388.png)
 ![](images/po389.png)
+![](images/po390.png)
+![](images/po391.png)
+![](images/po392.png)
+![](images/po393.png)
+![](images/po394.png)
+![](images/po395.png)
+![](images/po396.png)
+![](images/po397.png)
+![](images/po398.png)
+![](images/po399.png)
+![](images/po400.png)
+![](images/po401.png)
+![](images/po402.png)
+
+### Long Strangle
+
+![](images/po403.png)
+![](images/po404.png)
+![](images/po405.png)
+![](images/po406.png)
+![](images/po407.png)
+![](images/po408.png)
+![](images/po409.png)
 
 
 
