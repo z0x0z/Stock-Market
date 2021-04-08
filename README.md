@@ -2640,6 +2640,825 @@ Check F&O ban list here,
 ![](images/fu143.png)
 ![](images/fu144.png)
 
+# OPTIONS
+## OPTIONS - BASICS
+### Introduction
+
+NSE introduced Futures contract in year 2000 & Options contract in year 2001.  
+All over the world, high turnover happens only in Options market. Even in India 90% turnover happens only in Options.
+
+![](images/po0.png)
+![](images/po1.png)
+![](images/po2.png)
+![](images/po3.png)
+![](images/po4.png)
+![](images/po5.png)
+
+### Options – A little Story
+
+Two guys are interested in stock SBI.
+Let's assume SBI is trading at 100rs at Jan 1
+
+![](images/po6.png)
+![](images/po7.png)
+![](images/po8.png)
+![](images/po9.png)
+![](images/po10.png)
+![](images/po11.png)
+![](images/po12.png)
+![](images/po13.png)
+![](images/po14.png)
+![](images/po15.png)
+![](images/po16.png)
+![](images/po17.png)
+![](images/po18.png)
+
+### Introducing Options
+The person who pays the Premium is the **Option Buyer** and the person who receives the premium is the **Option Seller**.
+
+![](images/po19.png)
+![](images/po20.png)
+![](images/po21.png)
+![](images/po22.png)
+
+The only difference between the view of Insurance as Options is that,  
+* Option buyer wants the contract to be executed to make money & he will be happy  
+* Insurance buyer does not want the contract to be executed because he wants to stay alive. Though his family gets huge money at end of day he will not be happy because he lost his life
+
+### Buyers & Sellers
+
+![](images/po23.png)
+![](images/po24.png)
+
+### Real life options
+
+* **Stocks only have Monthly Expiry**
+* **NIFTY & BANKNIFTY have both Monthly and Weekly expiry**
+
+![](images/po25.png)
+![](images/po26.png)
+![](images/po28.png)
+![](images/po29.png)
+
+## OPTIONS - CHARACTERISTICS
+### Options – Underlying
+
+![](images/po30.png)
+![](images/po31.png)
+![](images/po32.png)
+
+### Strike Prices
+
+![](images/po33.png)
+![](images/po34.png)
+![](images/po35.png)
+
+### Option premium
+
+![](images/po36.png)
+![](images/po37.png)
+![](images/po38.png)
+![](images/po39.png)
+![](images/po40.png)
+
+### Option – Expiration
+
+![](images/po41.png)
+![](images/po42.png)
+![](images/po43.png)
+![](images/po44.png)
+![](images/po45.png)
+
+### Difference between expiration and square off
+
+![](images/po46.png)
+![](images/po47.png)
+
+### Option writing
+
+![](images/po48.png)
+![](images/po49.png)
+
+### Benefits of Trading Options
+
+![](images/po50.png)
+![](images/po51.png)
+![](images/po52.png)
+![](images/po55.png)
+![](images/po53.png)
+![](images/po54.png)
+![](images/po56.png)
+
+### Options can be traded
+
+Anytime you can exit the trade. 
+
+![](images/po57.png)
+![](images/po58.png)
+![](images/po59.png)
+![](images/po60.png)
+![](images/po61.png)
+![](images/po62.png)
+
+### Types of Forecast in Options
+
+![](images/po63.png)
+![](images/po64.png)
+![](images/po65.png)
+![](images/po66.png)
+
+### Types of Options
+
+![](images/po67.png)
+![](images/po68.png)
+![](images/po69.png)
+![](images/po75.png)
+![](images/po70.png)
+![](images/po71.png)
+![](images/po72.png)
+![](images/po73.png)
+![](images/po74.png)
+
+### American vs European options
+
+Its not that American style options are only traded in America and Europeon style options are traded only in Europe.  
+But in fact, in America lot of contracts are traded in Europeon style and in Europe lot of contracts are traded in American style.  
+These names had been given because they imply certain type of settlement
+
+![](images/po76.png)
+![](images/po77.png)
+![](images/po78.png)
+![](images/po79.png)
+![](images/po80.png)
+
+### Options Terminology - ITM, ATM & OTM
+
+![](images/po81.png)
+![](images/po82.png)
+![](images/po83.png)
+![](images/po84.png)
+![](images/po85.png)
+
+**For both CALL & PUT options,  
+yellow - In the money  
+White - Out of Money**  
+
+Check the spot price in cash market of that stock or Index to find whether it is ITM, ATM & OTM
+
+![](images/po86.png)
+![](images/po87.png)
+![](images/po88.png)
+![](images/po89.png)
+![](images/po90.png)
+
+### Intrinsic & Extrinsic Values
+
+**Option price = Intrinsic value + Extrinsic Value**  
+Values cannot be in negative
+
+![](images/po91.png)
+![](images/po92.png)
+![](images/po93.png)
+![](images/po94.png)
+![](images/po95.png)
+![](images/po96.png)
+![](images/po97.png)
+![](images/po98.png)
+![](images/po99.png)
+
+## OPTIONS IN REAL LIFE
+### Option chain
+
+[https://www.nseindia.com/option-chain](https://www.nseindia.com/option-chain)
+
+![](images/po100.png)
+![](images/po101.png)
+![](images/po102.png)
+
+### Liquidity in Options
+
+![](images/po103.png)
+![](images/po104.png)
+
+Impact cost is the cost of expense for entering and exiting the trade. Higher the impact cost is bad.  
+Low liquidity and wider spreads lead to huge impact cost 
+
+Impact cost for BANKNIFTY = (Ask price - Bid price) * lot size  
+= (272 - 268.80) * 25  
+= 3.20 * 25  
+= 80
+
+![](images/po105.png)
+
+Impact cost for TCS = (Ask price - Bid price) * lot size  
+= (232 - 144) * 300  
+= 88 * 300  
+= 26400
+		   
+![](images/po106.png)
+
+### Options make crazy moves!
+
+Never see options charts for taking trade. Always check underlying asset chart and take decision.  
+All the technical analysis won't work on options chart.
+
+For ex. to take trade on NIFTY options, just check NIFTY chart
+
+![](images/po107.png)
+![](images/po108.png)
+![](images/po109.png)
+
+### Can stop loss be placed on option trades?
+
+![](images/po110.png)
+
+### When can we exit an Options trade?
+
+![](images/po111.png)
+![](images/po112.png)
+![](images/po113.png)
+![](images/po114.png)
+![](images/po115.png)
+![](images/po116.png)
+
+### Analysis based on Expiration and Before
+
+It is not that the underlying must reach the option strike price for you to make money. It's not. Treat options like stocks before expiry.  
+Buy low, Sell high or Sell high, Buy low
+
+Upon expiry, option price should reach (strike price + premium paid) to gain profit
+
+![](images/po117.png)
+![](images/po118.png)
+![](images/po119.png)
+![](images/po120.png)
+
+### Margin requirements for buying and selling options
+
+No leverage is provided by almost any broker in India for Buying options because the contract value is itself very less  
+Huge margin is required to SELL options because of high risk  
+In case of Selling options the margin requirement is just as same as of Futures  
+Leverage is provided only for selling options on Intraday
+
+![](images/po121.png)
+![](images/po122.png)
+![](images/po124.png)
+![](images/po123.png)
+
+### Buying Options vs Selling Options
+
+![](images/po125.png)
+![](images/po126.png)
+![](images/po127.png)
+
+### Scripts for Options
+
+![](images/po128.png)
+
+## OPTIONS - PRICING
+### Introduction to Options Pricing
+
+![](images/po129.png)
+
+### Black Scholes Model
+
+It works only for European style Options but not for American style Options.   
+Mostly Black Scholes Model is used for calculating Implied Volatility
+
+![](images/po130.png)
+![](images/po131.png)
+![](images/po132.png)
+![](images/po133.png)
+![](images/po134.png)
+![](images/po135.png)
+![](images/po136.png)
+![](images/po137.png)
+![](images/po138.png)
+![](images/po139.png)
+![](images/po140.png)
+
+### Introduction to Delta
+
+For ITM call option delta will be closer to 1, for OTM call option delta will be closer to 0  
+For ITM put option delta will be closer to -1, for OTM call option delta will be closer to 0
+
+![](images/po149.png)
+![](images/po141.png)
+![](images/po142.png)
+![](images/po143.png)
+![](images/po144.png)
+![](images/po145.png)
+![](images/po146.png)
+![](images/po147.png)
+![](images/po148.png)
+
+### Delta for ATM, ITM & OTM
+
+![](images/po150.png)
+![](images/po151.png)
+![](images/po152.png)
+![](images/po153.png)
+![](images/po154.png)
+![](images/po155.png)
+![](images/po156.png)
+![](images/po158.png)
+![](images/po159.png)
+![](images/po160.png)
+![](images/po161.png)
+![](images/po162.png)
+![](images/po163.png)
+
+### Additive(+) nature of Delta
+
+![](images/po164.png)
+![](images/po165.png)
+![](images/po166.png)
+![](images/po167.png)
+
+### Gamma
+
+Gamma should go up for lf u buy options (long position) and Gamma should go down for sell options (short position)
+
+![](images/po168.png)
+![](images/po169.png)
+![](images/po170.png)
+
+### Theta
+
+![](images/po185.png)
+![](images/po171.png)
+![](images/po172.png)
+![](images/po174.png)
+![](images/po175.png)
+![](images/po176.png)
+![](images/po177.png)
+![](images/po178.png)
+![](images/po179.png)
+![](images/po180.png)
+![](images/po181.png)
+![](images/po182.png)
+![](images/po183.png)
+![](images/po184.png)
+
+### Vega
+
+![](images/po186.png)
+![](images/po187.png)
+![](images/po188.png)
+![](images/po189.png)
+![](images/po190.png)
+![](images/po191.png)
+![](images/po192.png)
+![](images/po193.png)
+![](images/po194.png)
+![](images/po195.png)
+![](images/po196.png)
+![](images/po197.png)
+![](images/po198.png)
+![](images/po199.png)
+
+### Rho
+
+![](images/po200.png)
+
+## OPTIONS FOR INTRADAY TRADING
+### Analyzing Option Chain
+
+[https://www.nseindia.com/option-chain](https://www.nseindia.com/option-chain)  
+Option buyers are mostly Retail traders and Option sellers are mostly big institutions.  
+Open Interest is important, it will tell how many buyers & sellers exists in that strike price. Change in OI is how many new contracts are created in past trading session.  
+
+Big number in open interest tells us more people has a view that strike price level will hold for both support & resistance.  
+So more of participants at a certain level or direction then high probability of success rate
+
+It is a backward created data. the data you see is because of what happened in past trading sessions. so future may not be exact likt that. So take options chain with pinch of a salt. Mostly rely on price action
+
+![](images/po201.png)
+
+### Futures vs Options
+
+![](images/po202.png)
+![](images/po203.png)
+
+### Assessing max loss
+
+Always stick to 2% of capital loss you are allowed to take. Not more than that.  
+In options it is easy to lose 50% of contract value. so calculate your position size before taking trade to manage risk.  
+
+**Position size (Quantity) = loss than I can bear / Stoploss value**
+
+**For ex.** Lets's assume you have 2L capital. so you can max lose 4k   
+Nifty trading at 14685. So ATM CE option with 14700 strike is trading at 63rs
+
+Contract value = Lot size * price  
+= 75 * 63  
+= 4725
+
+As it is possible to lose 50% of contract value, 4725 / 2 = 2362
+
+Hence, position size = 4000 / 2362  
+= 1.69
+
+So basically you can go with max 2 lots 
+
+![](images/po204.png)
+
+### Analysis of a trend day
+
+On trend days do not SELL options, only BUY options  
+If market goes up buy CALL options, if market goes down buy PUT options  
+
+![](images/po205.png)
+![](images/po206.png)
+![](images/po207.png)
+![](images/po208.png)
+
+### Right strategy for entering
+
+![](images/po209.png)
+![](images/po210.png)
+![](images/po211.png)
+![](images/po212.png)
+
+### Right strategy for exiting
+
+![](images/po213.png)
+![](images/po214.png)
+
+### Scripts for Options
+
+![](images/po215.png)
+
+### Liquidity in options
+
+![](images/po216.png)
+![](images/po217.png)
+![](images/po218.png)
+![](images/po219.png)
+![](images/po220.png)
+
+### The expiry day lottery
+
+![](images/po221.png)
+![](images/po222.png)
+![](images/po223.png)
+![](images/po224.png)
+
+## OPTIONS - TOOLS
+### Sensibull
+
+[https://web.sensibull.com/trade-options](https://web.sensibull.com/trade-options)
+
+![](images/po225.png)
+![](images/po226.png)
+![](images/po227.png)
+![](images/po228.png)
+![](images/po229.png)
+![](images/po230.png)
+![](images/po231.png)
+![](images/po232.png)
+![](images/po233.png)
+![](images/po234.png)
+
+### Options Opstra
+
+[https://opstra.definedge.com/strategy-builder](https://opstra.definedge.com/strategy-builder)  
+Beginners should start here
+
+![](images/po235.png)
+
+## OPTION MISTAKES
+### All mistakes
+
+![](images/po236.png)
+![](images/po237.png)
+![](images/po238.png)
+![](images/po239.png)
+![](images/po240.png)
+![](images/po241.png)
+![](images/po242.png)
+![](images/po243.png)
+![](images/po244.png)
+![](images/po245.png)
+![](images/po246.png)
+![](images/po247.png)
+![](images/po248.png)
+![](images/po249.png)
+![](images/po250.png)
+![](images/po251.png)
+![](images/po252.png)
+![](images/po253.png)
+![](images/po254.png)
+![](images/po255.png)
+![](images/po256.png)
+![](images/po257.png)
+
+### Bank Nifty example- no hedging, deep ITM shorted
+
+![](images/po258.png)
+
+### Options Intraday 5 Lakhs Loss
+
+![](images/po259.png)
+![](images/po260.png)
+![](images/po261.png)
+
+# Introduction to OPTIONS Strategies
+
+Volatile Strategies also known as non-directional strategies
+
+![](images/po262.png)
+![](images/po263.png)
+
+## OPTIONS - DIRECTIONAL STRATEGIES
+
+### Buying Call Options
+
+![](images/po264.png)
+![](images/po265.png)
+![](images/po266.png)
+![](images/po267.png)
+![](images/po268.png)
+![](images/po269.png)
+![](images/po270.png)
+![](images/po271.png)
+![](images/po272.png)
+![](images/po273.png)
+![](images/po274.png)
+![](images/po275.png)
+![](images/po276.png)
+![](images/po277.png)
+![](images/po278.png)
+![](images/po279.png)
+![](images/po280.png)
+![](images/po281.png)
+![](images/po282.png)
+![](images/po283.png)
+![](images/po284.png)
+![](images/po285.png)
+![](images/po286.png)
+
+### Buying Put Options
+
+![](images/po287.png)
+![](images/po265.png)
+![](images/po288.png)
+![](images/po268.png)
+![](images/po289.png)
+![](images/po290.png)
+
+**The PUT option price is inversly proportional to the Underlying price.  
+So, if the underlying stock price goes down then the PUT option price goes up**
+
+![](images/po291.png)
+![](images/po271.png)
+![](images/po292.png)
+![](images/po293.png)
+![](images/po294.png)
+![](images/po295.png)
+![](images/po296.png)
+![](images/po297.png)
+![](images/po298.png)
+![](images/po299.png)
+![](images/po300.png)
+![](images/po301.png)
+![](images/po302.png)
+
+### Shorting Call Options
+
+![](images/po303.png)
+![](images/po304.png)
+![](images/po268.png)
+![](images/po305.png)
+![](images/po271.png)
+![](images/po306.png)
+![](images/po307.png)
+![](images/po308.png)
+![](images/po309.png)
+![](images/po310.png)
+![](images/po311.png)
+![](images/po312.png)
+![](images/po313.png)
+![](images/po314.png)
+![](images/po315.png)
+![](images/po316.png)
+![](images/po317.png)
+![](images/po318.png)
+![](images/po319.png)
+
+### Shorting Put Options
+
+![](images/po320.png)
+![](images/po321.png)
+![](images/po322.png)
+![](images/po268.png)
+![](images/po323.png)
+![](images/po271.png)
+![](images/po324.png)
+![](images/po325.png)
+![](images/po326.png)
+![](images/po327.png)
+![](images/po328.png)
+![](images/po329.png)
+![](images/po330.png)
+![](images/po331.png)
+![](images/po332.png)
+![](images/po333.png)
+![](images/po334.png)
+![](images/po336.png)
+![](images/po335.png)
+![](images/po337.png)
+
+### Bull Call Spread
+
+![](images/po338.png)
+![](images/po339.png)
+![](images/po340.png)
+![](images/po341.png)
+![](images/po342.png)
+![](images/po343.png)
+![](images/po344.png)
+![](images/po345.png)
+![](images/po346.png)
+![](images/po347.png)
+![](images/po348.png)
+![](images/po349.png)
+![](images/po350.png)
+![](images/po351.png)
+![](images/po352.png)
+![](images/po353.png)
+
+### Bear Put Spread
+
+![](images/po354.png)
+![](images/po355.png)
+![](images/po356.png)
+![](images/po357.png)
+![](images/po358.png)
+![](images/po359.png)
+![](images/po360.png)
+![](images/po361.png)
+![](images/po362.png)
+![](images/po363.png)
+![](images/po364.png)
+![](images/po365.png)
+![](images/po366.png)
+![](images/po367.png)
+![](images/po368.png)
+![](images/po369.png)
+![](images/po370.png)
+![](images/po371.png)
+![](images/po372.png)
+
+### BANK NIFTY example
+
+After a big rally of BNF on April 1st, I feel there will be consolidation or retracement on April 5.  
+Hence my view is Bearish. Therefore deploying 3 Bearish strategies to find out which one works the best to give good returns.    
+So if my view is correct I'll end up in profits and if my view is wrong then should end up in limited loss, so let's find out below.
+
+![](images/po373.png)
+![](images/po374.png)
+![](images/po377.png)
+![](images/po375.png)
+![](images/po376.png)
+
+My view was correct but not exactly! I thought it will be Bearish, but what happened was Very Bearish.  
+Find the results of my strategies below,
+
+![](images/po378.png)
+![](images/po379.png)
+
+So for next day, As Market sentiment is bearish due to increase in Corona cases and likelihood to put lockdown, my view is bearish or may be slight bullish..  So find my strategies below,
+
+![](images/po380.png)
+
+As expected, the market was slight bullish during day and at end of day it went slight bearish. Let's see the results
+
+![](images/po382.png)
+![](images/po383.png)
+
+### Pros and Cons of Spreads
+
+![](images/po381.png)
+
+## OPTIONS - VOLATILE STRATEGIES
+
+**Delta Neutral strategies are Straddles & Strangles. Because delta has no impact on it.** 
+
+### Long Straddle
+
+![](images/po384.png)
+![](images/po385.png)
+![](images/po386.png)
+![](images/po387.png)
+![](images/po388.png)
+![](images/po389.png)
+![](images/po390.png)
+![](images/po391.png)
+![](images/po392.png)
+![](images/po393.png)
+![](images/po394.png)
+![](images/po395.png)
+![](images/po396.png)
+![](images/po397.png)
+![](images/po398.png)
+![](images/po399.png)
+![](images/po400.png)
+![](images/po401.png)
+![](images/po402.png)
+
+### Long Strangle
+
+![](images/po403.png)
+![](images/po404.png)
+![](images/po405.png)
+![](images/po406.png)
+![](images/po407.png)
+![](images/po408.png)
+![](images/po409.png)
+![](images/po410.png)
+![](images/po411.png)
+![](images/po412.png)
+![](images/po395.png)
+![](images/po413.png)
+![](images/po414.png)
+![](images/po415.png)
+![](images/po416.png)
+![](images/po399.png)
+![](images/po400.png)
+![](images/po417.png)
+![](images/po418.png)
+![](images/po419.png)
+
+### Short Straddle
+
+![](images/po420.png)
+![](images/po421.png)
+![](images/po422.png)
+![](images/po423.png)
+![](images/po424.png)
+![](images/po425.png)
+![](images/po426.png)
+![](images/po427.png)
+![](images/po428.png)
+![](images/po429.png)
+![](images/po430.png)
+![](images/po431.png)
+![](images/po432.png)
+![](images/po433.png)
+
+### Short Strangle
+
+![](images/po434.png)
+![](images/po435.png)
+![](images/po436.png)
+![](images/po437.png)
+![](images/po438.png)
+![](images/po439.png)
+![](images/po440.png)
+![](images/po441.png)
+![](images/po442.png)
+![](images/po443.png)
+![](images/po430.png)
+![](images/po444.png)
+![](images/po445.png)
+![](images/po446.png)
+![](images/po447.png)
+
+### NIFTY example
+
+**I strongly believe NIFTY will be in range 14500 - 15300 at least for next one week.  
+Therefore, let's apply above strategies and check their performance everyday**
+
+![](images/po430.png)
+![](images/po448.png)
+![](images/po449.png)
+![](images/po450.png)
+![](images/po451.png)
+
+To implement these 3 strategies, the required margin for 1 lot to carry position overnight is,
+
+1. **Shorting CALL** - 1,33,245  
+2. **Short Strangle** - PE 130583 +  CE 140132 = 2,70,715  
+3. **Short Straddle** - PE 150388 + CE 163706 = 3,14,094
+
+![](images/po452.png)
+![](images/po453.png)
+![](images/po454.png)
+![](images/po455.png)
+![](images/po456.png)
+![](images/po457.png)
+![](images/po458.png)
+![](images/po459.png)
+
+
+
+
+
+
+
+
+
 
 
 

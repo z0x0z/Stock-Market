@@ -369,9 +369,64 @@ As expected, the market was slight bullish during day and at end of day it went 
 
 ### Short Straddle
 
+![](images/po420.png)
+![](images/po421.png)
+![](images/po422.png)
+![](images/po423.png)
+![](images/po424.png)
+![](images/po425.png)
+![](images/po426.png)
+![](images/po427.png)
+![](images/po428.png)
+![](images/po429.png)
+![](images/po430.png)
+![](images/po431.png)
+![](images/po432.png)
+![](images/po433.png)
 
+### Short Strangle
 
+![](images/po434.png)
+![](images/po435.png)
+![](images/po436.png)
+![](images/po437.png)
+![](images/po438.png)
+![](images/po439.png)
+![](images/po440.png)
+![](images/po441.png)
+![](images/po442.png)
+![](images/po443.png)
+![](images/po430.png)
+![](images/po444.png)
+![](images/po445.png)
+![](images/po446.png)
+![](images/po447.png)
 
+### NIFTY example
+
+**I strongly believe NIFTY will be in range 14500 - 15300 at least for next one week.  
+Therefore, let's apply above strategies and check their performance everyday**
+
+![](images/po430.png)
+![](images/po448.png)
+![](images/po449.png)
+![](images/po450.png)
+![](images/po451.png)
+
+To implement these 3 strategies, the required margin for 1 lot to carry position overnight is,
+
+1. **Shorting CALL** - 1,33,245  
+2. **Short Strangle** - PE 130583 +  CE 140132 = 2,70,715  
+3. **Short Straddle** - PE 150388 + CE 163706 = 3,14,094
+
+![](images/po452.png)
+![](images/po453.png)
+![](images/po454.png)
+![](images/po455.png)
+![](images/po456.png)
+![](images/po457.png)
+![](images/po458.png)
+![](images/po459.png)
 
 
 
