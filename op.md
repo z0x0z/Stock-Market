@@ -402,6 +402,10 @@ As expected, the market was slight bullish during day and at end of day it went 
 ![](images/po446.png)
 ![](images/po447.png)
 
+### Strategy Cheatsheet
+
+![](images/po452.png)
+
 ### NIFTY example
 
 **I strongly believe NIFTY will be in range 14500 - 15300 at least for next one week.  
@@ -419,9 +423,9 @@ To implement these 3 strategies, the required margin for 1 lot to carry position
 2. **Short Strangle** - PE 130583 +  CE 140132 = 2,70,715  
 3. **Short Straddle** - PE 150388 + CE 163706 = 3,14,094
 
-![](images/po452.png)
 ![](images/po453.png)
 ![](images/po454.png)
+
 ![](images/po455.png)
 ![](images/po456.png)
 ![](images/po457.png)
