@@ -426,11 +426,16 @@ To implement these 3 strategies, the required margin for 1 lot to carry position
 ![](images/po453.png)
 ![](images/po454.png)
 
+Due to very high rise in covid cases and likelihood to put lockdown, there is huge selling pressure in market
+
 ![](images/po455.png)
 ![](images/po456.png)
+
+I have exiting all positions to avoid losses as it broke the range. Will not track this strategy any further!  
+When it was in range, Short Straddle gave us best returns with chance of high profit range
+
 ![](images/po457.png)
 ![](images/po458.png)
-![](images/po459.png)
 
 
 
