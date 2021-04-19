@@ -206,7 +206,43 @@ In 1980’s country's economy and growth stumbled because of this and faced huge
 ![](img/in108.png)
 ![](img/in109.png)
 
+[https://www.moneycontrol.com/india/stockmarket/sector-classification/marketstatistics/nse/automotive.html](https://www.moneycontrol.com/india/stockmarket/sector-classification/marketstatistics/nse/automotive.html)
 
+![](img/in110.png)
+
+[https://www.ibef.org](https://www.ibef.org)
+
+![](img/in111.png)
+
+### Top down or Bottom up approaches
+
+![](img/in112.png)
+
+### Quantitative Analysis
+
+![](img/in113.png)
+![](img/in114.png)
+![](img/in115.png)
+![](img/in116.png)
+![](img/in117.png)
+![](img/in118.png)
+![](img/in119.png)
+
+### Qualitative Analysis
+
+![](img/in120.png)
+![](img/in121.png)
+![](img/in122.png)
+![](img/in123.png)
+
+### Topline and Bottom line
+
+![](img/in124.png)
+![](img/in125.png)
+![](img/in126.png)
+![](img/in127.png)
+![](img/in128.png)
+![](img/in129.png)
 
 
 
