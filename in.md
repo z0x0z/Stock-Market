@@ -107,15 +107,104 @@ ITC is more value stock because of its Cigarette business which brings in huge p
 
 ![](img/in58.png)
 ![](img/in59.png)
+![](img/in60.png)
+![](img/in61.png)
+![](img/in62.png)
+![](img/in63.png)
 
+### Stocks vs Mutual Funds
 
+![](img/in64.png)
+![](img/in65.png)
+![](img/in66.png)
 
+### Best sites for fundamental Analysis
 
+1. The company's website itself  
+2. Moneycontrol 
+3. screener
+4. Trendlyne
 
+![](img/in67.png)
 
+[https://www.moneycontrol.com](https://www.moneycontrol.com)
 
+![](img/in68.png)
 
+[https://www.screener.in/](https://www.screener.in/)
 
+![](img/in69.png)
+
+[https://trendlyne.com/](https://trendlyne.com/)
+
+![](img/in70.png)
+
+### The Skeptic’s world
+
+Skeptic - someone who doubts frequently
+
+![](img/in71.png)
+![](img/in72.png)
+![](img/in73.png)
+![](img/in74.png)
+
+### An Inquisitive Mind
+
+Just curious about what's happening around us and what are all business evolves and how it does. When going to shopping mall, just take a look around there are lot of shops, check whether those companies are listed, who owns it, can we invest it? Buy the products from the shops if you have already invested, in this way you are contributing to your investments. Need Child's mind of looking at things and curious to know and figure out what it is
+
+![](img/in75.png)
+![](img/in76.png)
+![](img/in77.png)
+![](img/in78.png)
+![](img/in79.png)
+![](img/in80.png)
+
+### The 5C’s
+
+![](img/in81.png)
+![](img/in82.png)
+![](img/in83.png)
+![](img/in84.png)
+![](img/in85.png)
+![](img/in86.png)
+![](img/in87.png)
+![](img/in88.png)
+
+## THE FRAMEWORK OF ANALYSIS
+
+### Economic Analysis
+
+On the long run, Analysing Economy of the Country where you are investing is very much important. NOT only analysing the indepth Fundamentals and Technicals of the company or sector is enough, you have to analyse National economy and GDP growth for long term investments. If you want to have relation with Stock market for decades then understand the economy is very much essential.
+
+![](img/in89.png)
+![](img/in90.png)
+![](img/in91.png)
+![](img/in92.png)
+![](img/in93.png)
+![](img/in94.png)
+![](img/in95.png)
+![](img/in96.png)
+![](img/in97.png)
+![](img/in98.png)
+
+Due to philosophy of Socialism, that for everything we need to approach Government it became hard to common people.  
+For example, for setting up a business you have bride or corrupt Govt. office employees from office Assistant (pune) to higher officials.  
+In 1980’s country's economy and growth stumbled because of this and faced huge block.
+
+![](img/in99.png)
+![](img/in100.png)
+![](img/in101.png)
+![](img/in102.png)
+![](img/in103.png)
+![](img/in104.png)
+![](img/in105.png)
+![](img/in106.png)
+![](img/in107.png)
+
+### Sectoral Analysis
+
+![](img/in108.png)
+![](img/in109.png)
 
 
 
