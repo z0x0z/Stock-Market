@@ -244,9 +244,86 @@ In 1980’s country's economy and growth stumbled because of this and faced huge
 ![](img/in128.png)
 ![](img/in129.png)
 
+### Types of companies
 
+![](img/in130.png)
+![](img/in131.png)
+![](img/in132.png)
+![](img/in133.png)
+![](img/in134.png)
+![](img/in135.png)
+![](img/in136.png)
+![](img/in137.png)
+![](img/in138.png)
+![](img/in139.png)
+![](img/in140.png)
+![](img/in141.png)
 
+### Types of shareholding
 
+![](img/in142.png)
+![](img/in143.png)
+![](img/in144.png)
+![](img/in145.png)
+![](img/in146.png)
+![](img/in147.png)
+#### Tata Consultancy Services 
+
+![](img/in148.png)
+
+#### Hindustan Unilever
+
+![](img/in149.png)
+
+### Shareholding pattern
+
+![](img/in150.png)
+![](img/in151.png)
+![](img/in152.png)
+![](img/in147.png)
+#### Dish TV
+![](img/in153.png)
+#### Punjab National Bank
+
+![](img/in154.png)
+![](img/in155.png)
+
+### Holdings, Subsidiaries and Associates
+
+Company Holdings - One company holds shares of other company  
+
+A company is said to be a Subsidiary if its share holding by Holding company is greater or equal to 50%  
+A company is said to be a Associate if its share holding by Holding company is less than 50% and greater or equal to 20%
+
+![](img/in156.png)
+![](img/in147.png)
+![](img/in157.png)
+![](img/in158.png)
+
+### Standalone vs Consolidated statements
+
+![](img/in161.png)
+
+* **Standalone -** Results or Numbers of that core company only  
+* **Consolidated -** Standalone +  Results or Numbers of the subsidiary and associate companies 
+
+Consolidated is the overall P/L of thier company and also P/L from the shares they hold from other companies (subsidiary & associates)  
+When a company holds shares in other company then their P/L also impacts the holding company overall P/L.  
+So it is mandatory to check consolidated results as well.  
+
+![](img/in159.png)
+![](img/in160.png)
+
+### Auditor's reports
+
+![](img/in162.png)
+![](img/in163.png)
+![](img/in164.png)
+![](img/in165.png)
+![](img/in166.png)
+![](img/in167.png)
+![](img/in168.png)
+![](img/in169.png)
 
 
 
