@@ -324,10 +324,48 @@ So it is mandatory to check consolidated results as well.
 ![](img/in167.png)
 ![](img/in168.png)
 ![](img/in169.png)
+![](img/in170.png)
+![](img/in171.png)
+![](img/in172.png)
+![](img/in173.png)
+![](img/in147.png)
+![](img/in174.png)
+![](img/in175.png)
+![](img/in176.png)
 
+### Pledging of shares 
 
+Giving Shares as collateral and getting money. This mostly happens with Banks. Promotors pledge their shares and get money for various reasons like to increase stake in the company, personal reasons, etc. But once after shares are pledged, Banks give warnings to Promotor that if in case failing to repay debt in time, Banks has the right to sell the shares.  
 
+In the case of nasty Promotor, if he already knew that company is not performing well and the stock price is gonna fall, then he would pledge his shares to get money and then default by not paying money back. At that time stock price at least would have fell little down. Because of defaulting, Banks are forced to sell those shares in open market to recover money back. But the stock price is already falling down and banks starts to sell then more supply but less demand. So stock price falls steeply and banks cannot recover money because they are selling shares for cheaper price . Hence banks are affected and sometimes can become bankrupt. 
 
+![](img/in177.png)
+![](img/in178.png)
+![](img/in179.png)
+![](img/in180.png)
+![](img/in181.png)
+![](img/in182.png)
+![](img/in183.png)
+![](img/in184.png)
+![](img/in147.png)
+![](img/in188.png)
+![](img/in189.png)
+![](img/in186.png)
+![](img/in187.png)
+![](img/in185.png)
+![](img/in190.png)
+![](img/in191.png)
+
+### How to Read Annual Reports like a Pro
+
+![](img/in192.png)
+![](img/in193.png)
+![](img/in194.png)
+![](img/in195.png)
+![](img/in196.png)
+![](img/in197.png)
+![](img/in198.png)
+![](img/in199.png)
 
 
 
