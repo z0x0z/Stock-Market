@@ -335,9 +335,9 @@ So it is mandatory to check consolidated results as well.
 
 ### Pledging of shares 
 
-Giving Shares as collateral and getting money. This mostly happens with Banks. Promotors pledge their shares and get money for various reasons like to increase stake in the company, personal reasons, etc. But once after shares are pledged, Banks give warnings to Promotor that if in case failing to repay debt in time, Banks has the right to sell the shares.  
+Giving Shares as collateral and getting money. This mostly happens with Banks. Promotors pledge their shares and get money for various reasons like to increase stake in the company, personal reasons, etc. But once shares are pledged, Banks give warnings to Promotor that if in case failing to repay debt in time, Banks has the right to sell the shares.  
 
-In the case of nasty Promotor, if he already knew that company is not performing well and the stock price is gonna fall, then he would pledge his shares to get money and then default by not paying money back. At that time stock price at least would have fell little down. Because of defaulting, Banks are forced to sell those shares in open market to recover money back. But the stock price is already falling down and banks starts to sell then more supply but less demand. So stock price falls steeply and banks cannot recover money because they are selling shares for cheaper price . Hence banks are affected and sometimes can become bankrupt. 
+In the case of nasty Promotor, if he already knew that the company is not performing well and the stock price is gonna fall, then he would pledge his shares to get money and then default by not paying the money back. At that time stock price at least would have fallen a little down. Because of defaulting, Banks are forced to sell those shares in the open market to recover the money back. But the stock price is already falling down and when banks start to sell, what happens is more supply but less demand. So stock price falls steeply and banks cannot recover money because they are selling shares for a cheaper price. Hence banks are affected and sometimes can become bankrupt. 
 
 ![](img/in177.png)
 ![](img/in178.png)
@@ -358,7 +358,18 @@ In the case of nasty Promotor, if he already knew that company is not performing
 
 ### How to Read Annual Reports like a Pro
 
+Download and Read the Annual report only if you think that company is worth investing in. For example. If Auditor has raised a red flag for a company or if the promotor of the company has pledged too many shares like ZEE media then don't even think about these companies and no question of investing. So why read their annual reports?  
+Just keep it simple, read annual reports of companies who are worthy enough for our time & effort  
+
+Annual Reports can be downloaded from Company website or from [screener.in](https://www.screener.in)
+![](img/in147.png)
+#### **Reliance Industries**
+
 ![](img/in192.png)
+
+Analyze Revenue and Profit. Sometimes Revenue can be misleading because Revenue could be high but the profit gained could be very low. So compare Revenue against profit.  
+Margin = Profit / Revenue. So analyze businesses with high Margin. 
+
 ![](img/in193.png)
 ![](img/in194.png)
 ![](img/in195.png)
@@ -366,6 +377,29 @@ In the case of nasty Promotor, if he already knew that company is not performing
 ![](img/in197.png)
 ![](img/in198.png)
 ![](img/in199.png)
+![](img/in200.png)
+
+Just check the performance and management comment on their core business at least to get their insights of business and future plans. Do not take too much info, just read the brief and know the necessary details of is it worth investing your hard-earned money in this company over a long-term period.
+
+### Reading Notes
+
+Notes has to be checked when you see drastic change in numbers for current year when comparing with last couple of years. It can be Balance sheet, cash flow statement or P/L statement. Whenever you see huge difference in terms of either profit or loss you have to basically check notes to understand why this has happened. That is whenever you see something and if that creates some sort of supicion and if you think it has to be explained, then go through notes to know it deep
+
+**For example.** 
+
+1. If Profit or Loss is increased significantly high then check read notes to find out why and how it has happened. 
+2. If Other income is huge number when compared to core business profit then it creates curiosity of from where this money comes from, so have to check notes for more information on it
+
+![](img/in201.png)
+![](img/in202.png)
+
+
+
+
+
+
+
+
 
 
 
