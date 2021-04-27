@@ -1,0 +1,250 @@
+## INTRADAY TRADING - VRD FRAMEWORK
+
+### Intraday Scanner
+
+Live Scanner is to check the performance of the stock at that moment on that day. Has lot of adavatages,
+
+1. to check momentum of index or stock with huge volume. 
+2. helps to find new highs, new lows, 52-week high, 52-week low  
+3. what stocks or sectors is moving on what direction and how much
+4. General market sentiment can be identified when stock makes new lows it is bearish
+5. to identify traps, suppose if NIFTY is coming down and all big stocks like Reliance, HDFC bank, Infosys, kotak bank are moving up then it creates suspicion to take short trades on NIFTY & BANK NIFTY. 
+
+Live scanner is present in Dartstock, sharekhan and with other brokers check for it
+
+![](images/st0.png)
+
+### How to Read Level 2 data
+
+Do not take trades based on quantity of orders in level 2 depth or don;t even check the total quantity of buy orders & sell orders because that can be misleading.  
+When a stock or index comes near a support or resistance just check which side the bid orders are increasing, buy side or sell side. That indicates more likely that momentum is gonna continue
+
+Can be used as additional indicator. Just check while taking trades near support or resistance. But do not completely rely on this because this can be manipulated, so take it wth pinch of salt 
+
+![](images/st1.png)
+
+### Stable vs Unstable Structures
+
+* **Stable structure -** When the stock or index has spent enough time on a price range then it is stable and can take trade in that direction. Will get Good Risk to Reward ratio.  
+* **Unstable structure -** When the stock or index has not spent enough time on a price range then it is unstable and cannot take trade in any direction 
+
+Do NOT take trades long or short when there is an unstable structure, more likely to reverse
+
+![](images/st2.png)
+![](images/st3.png)
+
+### Concept of Waves
+
+Only applicable in NIFTY. Not even applicable in BANK NIFTY. Using this we can decide whether we can attempt long or short trade. Check on 5 min chart. A wave usually goes for half to one hour. A good range of about min 50 points is needed for wave. If the movement or range is less than 50 points then it is not wave. 
+
+**Questions to ask before trade:**  
+
+1. Is there a wave, if so then in what direction it moves  
+2. What stage are we in? Beginning, middle, or maturity stage  
+
+If the wave has moved in a direction for >30 mins then it is in the maturity stage. If the wave is in the maturity stage then do not attempt trade in that direction. If you want to take trades based on the wave then do it when the wave is at the beginning or middle stage.  
+
+**Rules:**
+
+1. Do NOT attempt trades against the wave, it is a bad idea
+1. When to trade with the wave try to get in during the beginning stage
+
+![](images/st4.png)
+
+### When Not to trade
+
+Follow this it will improve your Success rate
+
+![](images/st5.png)
+![](images/st6.png)
+![](images/st7.png)
+![](images/st8.png)
+![](images/st9.png)
+![](images/st10.png)
+![](images/st11.png)
+![](images/st12.png)
+![](images/st13.png)
+![](images/st14.png)
+![](images/st15.png)
+
+### Best Stocks for Intraday Trading
+
+![](images/st16.png)
+![](images/st17.png)
+
+keep an eye on these stocks
+
+![](images/st18.png)
+
+### Finding the Urgency in a Stock Move
+
+The urgency with which the stock or Index moves in a particular direction. If you think it moves with urgency, volume and momentum then most likely it is by big institutions. So align yourself with big players and take trade in that direction. Also do not take trade in maturity stage.
+Long wicks in the opposite direction mean there is no enough momentum and no urgency
+
+Urgency is only applied to big stocks or indexes. Can be used for reversal trades as well.  
+
+![](images/st19.png)
+![](images/st20.png)
+
+### Trading Zones
+
+3 zones, only take a trade when you get stock or index in the perfect long or short zone.  
+When Market direction, sector direction, stock direction, global cues, Advance Declines aligned in your direction also with good entry and a good site of exit then the trade is most likely to be successful.
+But when trade did not go in your favourable direction, it doesn't mean that you must cut position and take reverse trade. Do not do it in stocks atleast.  
+
+Mostly 99% of the times, the stocks or index will be in the No-Trade zone. Only 0.5% in long trade & 0.5% in short trade zone. 
+
+![](images/st21.png)
+
+### How to Prepare for Next Trading Session
+
+![](images/st22.png)
+![](images/st23.png)
+
+Best source for News:
+
+* [https://www.business-standard.com](https://www.business-standard.com) 
+* [https://www.bloombergquint.com](https://www.bloombergquint.com)  
+* [https://www.cnbctv18.com](https://www.cnbctv18.com)
+
+![](images/st24.png)
+![](images/st25.png)
+![](images/st26.png)
+
+Best source for Upcoming Events:
+
+* [https://tradingeconomics.com/calendar](https://tradingeconomics.com/calendar)
+* [https://www.moneycontrol.com/markets/earnings/](https://www.moneycontrol.com/markets/earnings/)
+
+![](images/st27.png)
+![](images/st28.png)
+
+Conditions to prepare Watchlists or if the stock met the below situations then it must be in your watchlist
+
+1. When the stock has some Events
+2. Overbought or oversold stocks
+3. based on strategy 
+
+![](images/st31.png)
+![](images/st32.png)
+
+Alerts can be set on Tradingview. Alerts can save you a lot of time and essential for not missing out on opportunity 
+
+![](images/st29.png)
+
+Have a clear idea for opening trades. Be prepared at least half an hour before the market opens
+
+### Identifying Risk-Reward Before Taking a Trade
+
+Try to take trades only where the Risk to Reward ratio is 1:2.  
+Identify support & Resistance  and calculate RR before entering the trade
+
+![](images/st30.png)
+
+### When to Exit a Trade
+
+When the stock or Index met the below conditions then you might have to exit
+
+1. price action
+2. when the sector reverses
+3. when the market reverses
+4. Stoploss hit
+
+![](images/st33.png)
+
+### Profit Booking vs Sell Off
+
+What is the context in which the selling happens?  
+For Profit-booking people should be already sitting in profits, a preceding up move should have happened, a selling wave must follow it then it is called profit-booking.  
+For Sell off there must not be a preceding up move, there should be momentum in selling. 
+
+Conditions:
+
+1. If few sectors are falling due to which NIFTY is falling but other sectors are moving up then it is an indication of profit-booking
+1. In sell-off, follow-through is important and acceleration increases going forward. In profit-booking, follow-through and acceleration decreases going forward  
+
+![](images/st34.png)
+
+### Trading Plan
+
+Very much essential for a successful long term trader. Have a plan before doing anything!
+
+![](images/st35.png)
+
+### Index vs Stocks
+
+![](images/st36.png)
+
+#### Comparison:
+
+* **Volatility 	-** NIFTY is much less volatile so it is better than BNF and stocks  
+* **Effort involved -** NIFTY and BNF requires comparatively less effort than individual stocks. Because for stocks your effort is spread and there is big list of stocks. No FA for index but have to put significant effort on doing FA on individual stocks. 
+* **Knowledge base -** When you focus on NIFTY for 6 months, you will uunderstand its behaviour and movement. so building knowledge in index is easy. Confidence increases in Index.
+* **Scability -** Involves the factors of volatility and liquidity. NIFTY is better than anything. Position sizing by pyramiding or averaging.
+* **Option strategies -** Index is much better than stocks. 
+* **Liquidity -** No doubt only Index has high liquidity
+
+### Important Levels for Market
+
+Below six key levels are important for Intraday trading:
+
+1. Previous Day High (PDH) - it may act as resistance for today  
+1. Previous Day Low (PDL) - it may act as support for today  
+1. Current Day High (CDH) - it may act as resistance for today  
+1. Current Day Low (CDL) - it may act as support for today  
+1. Value area High (VAH) - it is from previous day  
+1. Value area Low (VAL) - it is from previous day
+
+![](images/st37.png)
+![](images/st38.png)
+![](images/st39.png)
+
+### Impact of Brent Crude Oil
+
+Brent Crude Oil is of not that important on an Intraday basis. But when crude oil makes significant moves like >5% or <5% then it may affect the market.  
+When crude oil price falls it is a positive sign hence market may go up. Long opportunity.  
+When crude oil price rises it is a negative sign hence market may go down. Short opportunity
+
+![](images/st40.png)
+
+## INTRADAY TRADING STRATEGIES (INDEX)
+
+### Strategy 1
+
+![](images/st41.png)
+![](images/st42.png)
+![](images/st43.png)
+![](images/st44.png)
+![](images/st45.png)
+![](images/st46.png)
+![](images/st47.png)
+![](images/st48.png)
+![](images/st49.png)
+![](images/st50.png)
+![](images/st51.png)
+![](images/st52.png)
+![](images/st53.png)
+![](images/st54.png)
+
+### Strategy 2
+
+![](images/st55.png)
+![](images/st56.png)
+![](images/st57.png)
+![](images/st58.png)
+![](images/st59.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
