@@ -233,7 +233,19 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 ![](images/st57.png)
 ![](images/st58.png)
 ![](images/st59.png)
+![](images/st60.png)
+![](images/st61.png)
+![](images/st62.png)
+![](images/st63.png)
+![](images/st64.png)
+![](images/st65.png)
+![](images/st66.png)
 
+### Strategy 3a
+
+![](images/st67.png)
+![](images/st68.png)
+![](images/st69.png)
 
 
 
