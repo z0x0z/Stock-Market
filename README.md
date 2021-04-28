@@ -1273,10 +1273,6 @@ Price action - Movement of the price with respect to time
 
 People often use Line chart for viweing market performance. But Traders use Candlestick charts which is the best. 4 times more info than Line chart. Candlestick charts help us to find good stop loss position.
 
-![](images/type.png)
-![](images/type.png)
-![](images/type.png)
-
 ### CANDLESTICK
 
 **Benefits**   

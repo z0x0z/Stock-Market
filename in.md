@@ -188,7 +188,7 @@ On the long run, Analysing Economy of the Country where you are investing is ver
 ![](img/in98.png)
 
 Due to philosophy of Socialism, that for everything we need to approach Government it became hard to common people.  
-For example, for setting up a business you have bride or corrupt Govt. office employees from office Assistant (pune) to higher officials.  
+For example, for setting up a business you have bride or corrupt Govt. office employees from office Assistant (peon) to higher officials.  
 In 1980’s country's economy and growth stumbled because of this and faced huge block.
 
 ![](img/in99.png)

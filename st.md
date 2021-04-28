@@ -241,13 +241,66 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 ![](images/st65.png)
 ![](images/st66.png)
 
-### Strategy 3a
+### Strategy 3
 
 ![](images/st67.png)
+![](images/st77.png)
 ![](images/st68.png)
 ![](images/st69.png)
+![](images/st70.png)
+![](images/st71.png)
+![](images/st72.png)
+![](images/st73.png)
+![](images/st74.png)
+![](images/st75.png)
+![](images/st76.png)
+![](images/st78.png)
+![](images/st79.png)
 
+![](images/st80.png)
 
+![](images/st81.png)
+
+![](images/st82.png)
+
+![](images/st83.png)
+
+![](images/st84.png)
+
+![](images/st85.png)
+
+![](images/st86.png)
+
+![](images/st87.png)
+
+![](images/st88.png)
+
+![](images/st89.png)
+![](images/st90.png)
+![](images/st91.png)
+
+### Strategy 4
+
+![](images/st92.png)
+![](images/st93.png)
+![](images/st94.png)
+![](images/st95.png)
+![](images/st96.png)
+![](images/st97.png)
+![](images/st98.png)
+![](images/st99.png)
+![](images/st100.png)
+![](images/st78.png)
+![](images/st101.png)
+![](images/st102.png)
+![](images/st103.png)
+![](images/st104.png)
+![](images/st105.png)
+
+![](images/st106.png)
+![](images/st107.png)
+![](images/st108.png)
+![](images/st109.png)
 
 
 
