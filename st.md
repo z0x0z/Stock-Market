@@ -297,12 +297,40 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 ![](images/st104.png)
 ![](images/st105.png)
 
+## INTRADAY - EXPIRY DAY STRATEGIES (INDEX)
+
+### Strategy 1
+
 ![](images/st106.png)
 ![](images/st107.png)
 ![](images/st108.png)
 ![](images/st109.png)
+![](images/st110.png)
+![](images/st111.png)
+![](images/st112.png)
+![](images/st113.png)
+![](images/st114.png)
+![](images/st115.png)
 
+### Strategy 2
 
+![](images/st116.png)
+![](images/st117.png)
+![](images/st118.png)
+![](images/st119.png)
+![](images/st120.png)
+![](images/st121.png)
+![](images/st122.png)
+![](images/st123.png)
+![](images/st124.png)
+![](images/st125.png)
+
+### Strategy 3
+
+![](images/st126.png)
+![](images/st127.png)
+![](images/st128.png)
+![](images/st129.png)
 
 
 
