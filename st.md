@@ -333,6 +333,17 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 
 ## SWING TRADING STRATEGIES - INDEX
 
+![](images/st140.png)
+![](images/st141.png)
+![](images/st142.png)
+![](images/st143.png)
+![](images/st144.png)
+![](images/st145.png)
+![](images/st146.png)
+![](images/st147.png)
+![](images/st148.png)
+![](images/st149.png)
+
 ### Strategy 1
 
 ![](images/st129.png)
@@ -346,8 +357,22 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 ![](images/st137.png)
 ![](images/st138.png)
 
-![](images/st139.png)
+### Strategy 2
 
+![](images/st139.png)
+![](images/st150.png)
+![](images/st151.png)
+![](images/st152.png)
+![](images/st153.png)
+![](images/st154.png)
+![](images/st155.png)
+![](images/st156.png)
+
+![](images/st157.png)
+![](images/st158.png)
+![](images/st159.png)
+
+## INTRADAY TRADING STRATEGIES (STOCKS)
 
 
 
