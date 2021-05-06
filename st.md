@@ -374,8 +374,36 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 
 ## INTRADAY TRADING STRATEGIES (STOCKS)
 
+### Strategy 1
 
+![](images/st160.png)
+![](images/st161.png)
+![](images/st162.png)
+![](images/st163.png)
+![](images/st164.png)
+![](images/st165.png)
 
+### Strategy 2
+
+**Options Strategy.** Use this strategy only on stable stocks and large cap stocks
+
+![](images/st166.png)
+![](images/st167.png)
+![](images/st168.png)
+![](images/st169.png)
+![](images/st177.png)
+![](images/st171.png)
+![](images/st172.png)
+![](images/st173.png)
+
+### Strategy 3
+
+![](images/st174.png)
+![](images/st175.png)
+![](images/st176.png)
+![](images/st177.png)
+![](images/st178.png)
+![](images/st179.png)
 
 
 
