@@ -404,7 +404,35 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 ![](images/st177.png)
 ![](images/st178.png)
 ![](images/st179.png)
+![](images/st180.png)
+![](images/st181.png)
+![](images/st182.png)
+![](images/st183.png)
+![](images/st184.png)
+![](images/st163.png)
+![](images/st185.png)
 
+### Strategy 4
+
+**Cluster is a group of stocks which moves together. ex. Bank stocks, Pharma stocks**
+
+![](images/st186.png)
+![](images/st187.png)
+![](images/st188.png)
+![](images/st189.png)
+![](images/st190.png)
+![](images/st191.png)
+![](images/st192.png)
+![](images/st193.png)
+![](images/st194.png)
+![](images/st195.png)
+![](images/st196.png)
+
+### Strategy 5
+
+![](images/st197.png)
+![](images/st198.png)
+![](images/st199.png)
 
 
 
