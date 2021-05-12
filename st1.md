@@ -18,7 +18,20 @@
 ### Strategy 2
 
 ![](images/st219.png)
+![](images/st220.png)
+![](images/st221.png)
+![](images/st222.png)
+![](images/st223.png)
+![](images/st224.png)
+![](images/st163.png)
+![](images/st225.png)
+![](images/st226.png)
+![](images/st227.png)
 
+### Strategy 3
+
+![](images/st228.png)
+![](images/st229.png)
 
 
 
