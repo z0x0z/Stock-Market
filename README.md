@@ -3902,23 +3902,68 @@ When crude oil price rises it is a negative sign hence market may go down. Short
 ![](images/st206.png)
 ![](images/st207.png)
 
+## SWING TRADING STRATEGIES - STOCKS
 
+### Strategy 1
 
+![](images/st208.png)
+![](images/st209.png)
+![](images/st210.png)
+![](images/st211.png)
+![](images/st212.png)
+![](images/st213.png)
+![](images/st214.png)
+![](images/st215.png)
+![](images/st216.png)
+![](images/st163.png)
+![](images/st217.png)
+![](images/st218.png)
 
+### Strategy 2
 
+![](images/st219.png)
+![](images/st220.png)
+![](images/st221.png)
+![](images/st222.png)
+![](images/st223.png)
+![](images/st224.png)
+![](images/st163.png)
+![](images/st225.png)
+![](images/st226.png)
+![](images/st227.png)
 
+### Strategy 3
 
+![](images/st228.png)
+![](images/st229.png)
+![](images/st230.png)
+![](images/st231.png)
+![](images/st232.png)
+![](images/st233.png)
+![](images/st234.png)
+![](images/st235.png)
+![](images/st163.png)
+![](images/st236.png)
+![](images/st237.png)
+![](images/st238.png)
 
+### Strategy 4
 
-
-
-
-
-
-
-
-
-
+![](images/st239.png)
+![](images/st240.png)
+![](images/st241.png)
+![](images/st242.png)
+![](images/st243.png)
+![](images/st244.png)
+![](images/st245.png)
+![](images/st246.png)
+![](images/st247.png)
+![](images/st248.png)
+![](images/st163.png)
+![](images/st249.png)
+![](images/st250.png)
+![](images/st251.png)
+![](images/st252.png)
 
 
 
