@@ -51,7 +51,7 @@ Prepare Chart using CPR & Pivot points
 
 ![](images/piv19.png)
 ![](images/piv20.png)
-![](images/piv22.png)
+![](images/piv21.png)
 ![](images/piv22.png)
 ![](images/piv23.png)
 ![](images/piv24.png)
@@ -63,9 +63,40 @@ Prepare Chart using CPR & Pivot points
 
 ![](images/piv28.png)
 ![](images/piv29.png)
+![](images/piv30.png)
+![](images/piv31.png)
+![](images/piv32.png)
+![](images/piv33.png)
+![](images/piv34.png)
+![](images/piv35.png)
+![](images/piv36.png)
+![](images/piv37.png)
+![](images/piv38.png)
+![](images/piv39.png)
+![](images/piv40.png)
+![](images/piv41.png)
+![](images/piv42.png)
+![](images/piv43.png)
+![](images/piv44.png)
+![](images/piv45.png)
+![](images/piv46.png)
+![](images/piv47.png)
+![](images/piv48.png)
+![](images/piv49.png)
+![](images/piv50.png)
 
+### Lesson 5
 
+![](images/piv51.png)
 
+![](images/piv52.png)
+![](images/piv53.png)
+![](images/piv54.png)
+![](images/piv55.png)
+![](images/piv56.png)
+![](images/piv57.png)
+![](images/piv58.png)
+![](images/piv59.png)
 
 
 
