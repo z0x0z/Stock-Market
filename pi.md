@@ -113,9 +113,11 @@ Prepare Chart using CPR & Pivot points
 ![](images/piv74.png)
 ![](images/piv75.png)
 ![](images/piv76.png)
-
 ![](images/piv77.png)
 ![](images/piv78.png)
+
+### Lesson 6
+
 ![](images/piv79.png)
 
 
