@@ -88,7 +88,6 @@ Prepare Chart using CPR & Pivot points
 ### Lesson 5
 
 ![](images/piv51.png)
-
 ![](images/piv52.png)
 ![](images/piv53.png)
 ![](images/piv54.png)
@@ -97,8 +96,27 @@ Prepare Chart using CPR & Pivot points
 ![](images/piv57.png)
 ![](images/piv58.png)
 ![](images/piv59.png)
+![](images/piv60.png)
+![](images/piv61.png)
+![](images/piv62.png)
+![](images/piv63.png)
+![](images/piv64.png)
+![](images/piv65.png)
+![](images/piv66.png)
+![](images/piv67.png)
+![](images/piv68.png)
+![](images/piv69.png)
+![](images/piv70.png)
+![](images/piv71.png)
+![](images/piv72.png)
+![](images/piv73.png)
+![](images/piv74.png)
+![](images/piv75.png)
+![](images/piv76.png)
 
-
+![](images/piv77.png)
+![](images/piv78.png)
+![](images/piv79.png)
 
 
 
