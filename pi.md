@@ -75,6 +75,7 @@ Prepare Chart using CPR & Pivot points
 ![](images/piv39.png)
 ![](images/piv40.png)
 ![](images/piv41.png)
+![](images/piv112.png)
 ![](images/piv42.png)
 ![](images/piv43.png)
 ![](images/piv44.png)
@@ -94,6 +95,7 @@ Prepare Chart using CPR & Pivot points
 ![](images/piv55.png)
 ![](images/piv56.png)
 ![](images/piv57.png)
+![](images/piv111.png)
 ![](images/piv58.png)
 ![](images/piv59.png)
 ![](images/piv60.png)
@@ -105,6 +107,7 @@ Prepare Chart using CPR & Pivot points
 ![](images/piv66.png)
 ![](images/piv67.png)
 ![](images/piv68.png)
+![](images/piv113.png)
 ![](images/piv69.png)
 ![](images/piv70.png)
 ![](images/piv71.png)
@@ -153,6 +156,13 @@ Prepare Chart using CPR & Pivot points
 
 
 
+
+![](images/piv114.png)
+![](images/piv115.png)
+![](images/piv116.png)
+![](images/piv117.png)
+![](images/piv118.png)
+![](images/piv119.png)
 
 
 
