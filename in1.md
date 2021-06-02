@@ -64,13 +64,65 @@ Assume this your P/L statement and Balance Sheet. If possible put in your own re
 
 ### Current assets
 
+**Any asset which can be converted into cash within next 12 months is called Current assets.** 
+
 ![](img/in246.png)
 ![](img/in247.png)
 ![](img/in248.png)
 ![](img/in249.png)
+![](img/in250.png)
+![](img/in251.png)
+![](img/in252.png)
+![](img/in253.png)
+![](img/in254.png)
+![](img/in147.png)
+![](img/in255.png)
+![](img/in256.png)
 
+Most of the Current assets are Intangible assets.  
+You can notice for B2B company trade receivables is huge because of payment terms.  
+Whereas for B2C company trade receivables is less because of cash is paid in upfront when product is delivered
 
+### Non-Current assets  
 
+![](img/in246.png)
+![](img/in257.png)
+![](img/in258.png)
+![](img/in259.png)
+![](img/in147.png)
+![](img/in260.png)
+![](img/in261.png)
+
+Always check note, whenever you see big numbers in Current and Non-Current assets then do check why is it so?  
+Any abnormal indication or doubt then check in full swing to understand what and where the money is from or into?
+
+### Liabilities
+
+![](img/in262.png)
+![](img/in263.png)
+![](img/in264.png)
+![](img/in265.png)
+![](img/in266.png)
+![](img/in267.png)
+![](img/in268.png)
+![](img/in147.png)
+![](img/in269.png)
+
+### The Food Chain
+
+![](img/in270.png)
+![](img/in271.png)
+
+### Liabilities – Current vs Non-Current
+
+![](img/in272.png)
+![](img/in273.png)
+![](img/in274.png)
+![](img/in275.png)
+![](img/in276.png)
+![](img/in277.png)
+![](img/in278.png)
+![](img/in279.png)
 
 
 
