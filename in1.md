@@ -115,14 +115,124 @@ Any abnormal indication or doubt then check in full swing to understand what and
 
 ### Liabilities – Current vs Non-Current
 
+**Current Liability -** Has to repay within next 12 months. Most dangerous    
+**Non-Current Liability -** Long term debt has to repay in future. But its not compulsion to repay within next 12 months
+
 ![](img/in272.png)
-![](img/in273.png)
+![](img/in147.png)
 ![](img/in274.png)
+![](img/in273.png)
+
+### Key Ratios : Current Ratio
+
+* Current ratio > 3 = Excellent company
+* Current ratio > 2 = Good company
+* Current ratio > 1 = Better company
+* Current ratio < 1 = Bad company, rethink before investing
+* Current ratio < 0.5 = Worst, don't even think about it
+
 ![](img/in275.png)
+![](img/in147.png)
 ![](img/in276.png)
 ![](img/in277.png)
 ![](img/in278.png)
+
+### Financing - Equity vs Debt
+
+How companies raise money for the growth and development
+
 ![](img/in279.png)
+![](img/in280.png)
+![](img/in281.png)
+![](img/in282.png)
+
+### Shareholder’s Equity
+
+![](img/in283.png)
+![](img/in284.png)
+![](img/in285.png)
+![](img/in286.png)
+![](img/in147.png)
+![](img/in287.png)
+![](img/in288.png)
+
+### Equity Share Capital
+
+Equity shared capital - Funds raised by giving out shares of the company
+
+![](img/in289.png)
+![](img/in290.png)
+![](img/in291.png)
+![](img/in292.png)
+![](img/in147.png)
+![](img/in293.png)
+![](img/in294.png)
+
+### When you buy a stock, are you adding to share capital?
+
+NO. Because basically, you are buying from the secondary market that is from another trader not from the company directly. Only when we directly buy from the company through IPO or FPO then it gets contributed to Equity share capital.
+
+### Other Equity
+
+
+## PROFIT & LOSS STATEMENT
+
+### Intro to P&L Statement
+
+![](img/in295.png)
+![](img/in296.png)
+![](img/in147.png)
+![](img/in297.png)
+![](img/in299.png)
+![](img/in298.png)
+
+### Mr. Singh’s Dilemma
+
+![](img/in300.png)
+![](img/in301.png)
+![](img/in302.png)
+![](img/in303.png)
+![](img/in304.png)
+![](img/in305.png)
+
+### Not everything is an expense
+
+![](img/in306.png)
+![](img/in307.png)
+![](img/in308.png)
+![](img/in309.png)
+![](img/in310.png)
+![](img/in311.png)
+![](img/in312.png)
+
+### Something out of nothing?
+
+![](img/in313.png)
+![](img/in314.png)
+![](img/in315.png)
+![](img/in316.png)
+![](img/in317.png)
+![](img/in318.png)
+![](img/in319.png)
+![](img/in320.png)
+![](img/in321.png)
+
+### What about the Balance Sheet?
+
+![](img/in322.png)
+![](img/in323.png)
+![](img/in324.png)
+![](img/in325.png)
+![](img/in326.png)
+
+Let's End Mr.Singh's example over here. So we learnt about the difference between Expenditure and Expenses. Also knew about Depreciation which is in P/L statement and Accumulated Depreciation in Balance Sheet
+
+### Income/Revenue
+
+![](img/in327.png)
+![](img/in328.png)
+![](img/in329.png)
+
 
 
 
