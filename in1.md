@@ -298,6 +298,77 @@ Manufacturing sectors spends more only on its raw materials and hence spends les
 ### Expenses: Depreciation
 
 ![](img/in349.png)
+![](img/in147.png)
+![](img/in350.png)
+
+If Depreciation is a minimal amount then exclude it from your analysis. If it is huge number then definitely check why it is and how it impacts the profits of the company.
+
+![](img/in351.png)
+
+### Expenses: Amortisation
+
+![](img/in352.png)
+![](img/in147.png)
+![](img/in353.png)
+
+Ignore Amortisation in your analysis. Not of that much important
+
+![](img/in354.png)
+
+### Expenses: Finance costs
+
+![](img/in355.png)
+![](img/in147.png)
+![](img/in356.png)
+![](img/in357.png)
+
+**Adani Green Annual Report**
+
+![](img/in358.png)
+
+### Expenses: Exceptional Items
+
+![](img/in359.png)
+![](img/in360.png)
+![](img/in147.png)
+![](img/in361.png)
+
+Can dig deeper by reading notes on what that exceptional items are
+
+![](img/in362.png)
+![](img/in363.png)
+
+### Expenses: Other costs
+
+![](img/in364.png)
+![](img/in147.png)
+![](img/in365.png)
+
+If Other Expenses is significantly high then it is always good to check Notes and understand what it is & why?
+
+![](img/in366.png)
+
+### Types of profits
+
+![](img/in367.png)
+
+Important to understand the types and will be useful while learning Financial ratios
+
+![](img/in368.png)
+
+## CASH FLOW STATEMENT
+
+### Is profit the same as cash?
+
+![](img/in369.png)
+
+
+
+
+
+
+
+
 
 
 
