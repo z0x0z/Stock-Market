@@ -106,10 +106,59 @@ Operating profit comes from the core business. Net profit can sometimes may misl
 ![](img/in463.png)
 ![](img/in464.png)
 ![](img/in465.png)
+![](img/in418.png)
 ![](img/in466.png)
 ![](img/in467.png)
+![](img/in147.png)
 ![](img/in468.png)
 ![](img/in469.png)
+![](img/in470.png)
+
+### ROCE 
+
+![](img/in471.png)
+![](img/in472.png)
+![](img/in473.png)
+![](img/in474.png)
+![](img/in475.png)
+![](img/in476.png)
+![](img/in477.png)
+![](img/in418.png)
+![](img/in147.png)
+![](img/in478.png)
+![](img/in479.png)
+
+
+## INVESTING WISDOM
+
+### Who knew Mr.Market was Bipolar?
+
+![](img/in480.png)
+![](img/in481.png)
+![](img/in482.png)
+![](img/in483.png)
+![](img/in484.png)
+![](img/in485.png)
+![](img/in486.png)
+
+### The MultiBagger mindset
+
+![](img/in487.png)
+![](img/in488.png)
+![](img/in489.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
