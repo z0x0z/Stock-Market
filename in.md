@@ -569,6 +569,11 @@ NO. Because basically, you are buying from the secondary market that is from ano
 
 ### Other Equity
 
+![](img/in522.png)
+![](img/in523.png)
+![](img/in524.png)
+![](img/in525.png)
+![](img/in526.png)
 
 ## PROFIT & LOSS STATEMENT
 
