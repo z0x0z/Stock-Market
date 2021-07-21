@@ -1059,6 +1059,7 @@ Check out how well the rest of the recommeded stocks are performing and you will
 ### The Checklist
 
 ![](img/in527.png)
+![](img/in528.png)
 
 
 
